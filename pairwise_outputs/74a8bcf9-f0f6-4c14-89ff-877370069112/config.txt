@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel a bit selfish at times for wanting grandad to do that for me
+Prompt: Channel anger in your voice.
+
+[PromptTTS]
+Text: i feel a bit selfish at times for wanting grandad to do that for me
+Prompt: Channel anger in your voice.
+
+

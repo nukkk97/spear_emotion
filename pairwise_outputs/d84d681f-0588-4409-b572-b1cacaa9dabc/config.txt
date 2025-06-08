@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a feeling we are going to see them even more in the coming months im delighted
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i have a feeling we are going to see them even more in the coming months im delighted
+Prompt: Channel joy in your voice.
+
+

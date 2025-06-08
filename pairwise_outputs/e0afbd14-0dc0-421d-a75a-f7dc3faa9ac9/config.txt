@@ -1,0 +1,9 @@
+[VITS]
+Text: i will feel dissatisfied
+Prompt: Deliver your words with a sense of anger but keep it natural.
+
+[VoiceLDM]
+Text: i will feel dissatisfied
+Prompt: Deliver your words with a sense of anger but keep it natural.
+
+

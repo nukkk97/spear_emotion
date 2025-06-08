@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel they dont have much casual runner crossover appeal
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[VoiceLDM]
+Text: i feel they dont have much casual runner crossover appeal
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

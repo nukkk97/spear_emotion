@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel his arms tighten around me and he giggles softly a charming infectious little giggle
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i feel his arms tighten around me and he giggles softly a charming infectious little giggle
+Prompt: Let joy guide your speech.
+
+

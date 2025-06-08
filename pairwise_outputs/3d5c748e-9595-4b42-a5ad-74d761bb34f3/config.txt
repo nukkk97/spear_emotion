@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel for you the sounds of flutes and strings and even your grandmother could appreciate that innocent affectionate music
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i feel for you the sounds of flutes and strings and even your grandmother could appreciate that innocent affectionate music
+Prompt: Deliver your words with joy.
+
+

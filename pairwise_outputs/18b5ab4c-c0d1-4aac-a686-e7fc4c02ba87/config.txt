@@ -1,0 +1,9 @@
+[VITS]
+Text: i also point out almost every time i feel they have been rude
+Prompt: Show anger in your voice.
+
+[VoiceLDM]
+Text: i also point out almost every time i feel they have been rude
+Prompt: Show anger in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like your runs are amazing she added
+Prompt: Show surprise but stay controlled.
+
+[GPT-4o-mini]
+Text: i feel like your runs are amazing she added
+Prompt: Show surprise but stay controlled.
+
+

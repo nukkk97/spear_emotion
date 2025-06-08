@@ -1,0 +1,9 @@
+[VITS]
+Text: im crying but in my heart i almost feel triumphant like ive finally brought whats been bothering me every time me and my father have fought for the last five years up to the surface
+Prompt: Ensure joy is present in every word.
+
+[VoiceLDM]
+Text: im crying but in my heart i almost feel triumphant like ive finally brought whats been bothering me every time me and my father have fought for the last five years up to the surface
+Prompt: Ensure joy is present in every word.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i remember getting off the phone with my old doctor and feeling hopeless
+Prompt: Deliver your words with sadness.
+
+[PromptTTS]
+Text: i remember getting off the phone with my old doctor and feeling hopeless
+Prompt: Deliver your words with joy.
+
+

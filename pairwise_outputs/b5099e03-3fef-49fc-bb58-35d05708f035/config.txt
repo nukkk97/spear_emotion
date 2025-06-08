@@ -1,0 +1,9 @@
+[VITS]
+Text: i have right now makes me feel just wonderful
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: i have right now makes me feel just wonderful
+Prompt: Express neutral but subtly like someone hiding their feelings.
+
+

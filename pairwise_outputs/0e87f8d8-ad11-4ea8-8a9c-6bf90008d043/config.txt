@@ -1,0 +1,9 @@
+[VITS]
+Text: im trying to say is that i feel disgusted and ashamed of my own culture
+Prompt: Let neutral shine through your voice.
+
+[GPT-4o-mini]
+Text: im trying to say is that i feel disgusted and ashamed of my own culture
+Prompt: Let anger shine through your voice.
+
+

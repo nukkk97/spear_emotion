@@ -1,0 +1,9 @@
+[VITS]
+Text: i want the viewer to feel something deeply emotional when they look at the pieces
+Prompt: Deliver your words with sadness.
+
+[PromptTTS]
+Text: i want the viewer to feel something deeply emotional when they look at the pieces
+Prompt: Deliver your words with sadness.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i took the oportunity to turn as much away from him as i could curling into a little ball and feeling completely doomed
+Prompt: Speak in a way that embodies sadness.
+
+[PromptTTS]
+Text: i took the oportunity to turn as much away from him as i could curling into a little ball and feeling completely doomed
+Prompt: Speak in a way that embodies sadness.
+
+

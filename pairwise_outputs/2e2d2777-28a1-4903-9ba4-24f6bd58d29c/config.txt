@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel very very appreciative
+Prompt: Express joy in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: i feel very very appreciative
+Prompt: Express joy in a conversational and authentic way.
+
+

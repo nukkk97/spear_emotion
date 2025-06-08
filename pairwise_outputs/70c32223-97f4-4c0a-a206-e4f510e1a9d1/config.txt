@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i enjoyed the panel and i could feel so much sincere and genuine concern from him i told fibs
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[GPT-4o-mini]
+Text: i enjoyed the panel and i could feel so much sincere and genuine concern from him i told fibs
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

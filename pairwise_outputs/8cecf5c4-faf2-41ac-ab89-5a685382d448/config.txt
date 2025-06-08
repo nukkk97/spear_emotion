@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel this was a perfectly worthwhile use of my time
+Prompt: Speak as if you're sharing a secret filled with joy.
+
+[GPT-4o-mini]
+Text: i feel this was a perfectly worthwhile use of my time
+Prompt: Speak as if you're sharing a secret filled with joy.
+
+

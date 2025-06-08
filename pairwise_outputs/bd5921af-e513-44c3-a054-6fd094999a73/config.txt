@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i was in a dancingtavern and the atmosphere was one of waiting for the end of the world suddenly people began dancing wildly
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: i was in a dancingtavern and the atmosphere was one of waiting for the end of the world suddenly people began dancing wildly
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+

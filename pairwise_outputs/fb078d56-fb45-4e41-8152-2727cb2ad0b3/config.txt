@@ -1,0 +1,9 @@
+[VITS]
+Text: i think some of my weirdness of feeling comes from the fact that yesterday i resigned as the national director of forge and now having resigned from my wa role i have no official function or role in an organisation that i have been an integral part of
+Prompt: Speak as if you are recalling a sadness memory.
+
+[GPT-4o-mini]
+Text: i think some of my weirdness of feeling comes from the fact that yesterday i resigned as the national director of forge and now having resigned from my wa role i have no official function or role in an organisation that i have been an integral part of
+Prompt: Speak as if you are recalling a sadness memory.
+
+

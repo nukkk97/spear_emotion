@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel with the keen urgency of extinction that alpha natural resources cannot be allowed to tear apart coal river mountain and allow all those living below it to suffer for their profits
+Prompt: Express anger clearly.
+
+[GPT-4o-mini]
+Text: i feel with the keen urgency of extinction that alpha natural resources cannot be allowed to tear apart coal river mountain and allow all those living below it to suffer for their profits
+Prompt: Express joy clearly.
+
+

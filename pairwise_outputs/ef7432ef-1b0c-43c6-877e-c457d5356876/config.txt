@@ -1,0 +1,9 @@
+[VITS]
+Text: i am studying abroad this next semester and am feeling the pressure of the fact that i may not get accepted this time around and that i need to make plans for next year
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i am studying abroad this next semester and am feeling the pressure of the fact that i may not get accepted this time around and that i need to make plans for next year
+Prompt: Ensure joy is present in every word.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel about him too i ve never hated to love someone as much as i do him
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[VoiceLDM]
+Text: i feel about him too i ve never hated to love someone as much as i do him
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+

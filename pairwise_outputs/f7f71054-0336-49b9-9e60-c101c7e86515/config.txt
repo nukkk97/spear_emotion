@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling obnoxious o o you have all been flashed
+Prompt: anger.
+
+[GPT-4o-mini]
+Text: im feeling obnoxious o o you have all been flashed
+Prompt: anger.
+
+

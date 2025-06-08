@@ -1,0 +1,9 @@
+[VITS]
+Text: i didn t feel like i was already drowning would ve been fine
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+[PromptTTS]
+Text: i didn t feel like i was already drowning would ve been fine
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+

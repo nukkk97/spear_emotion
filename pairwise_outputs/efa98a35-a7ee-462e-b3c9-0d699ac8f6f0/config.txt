@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel creative i open up illustrator or photoshop to design something
+Prompt: Channel joy in your voice.
+
+[GPT-4o-mini]
+Text: i feel creative i open up illustrator or photoshop to design something
+Prompt: Channel joy in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i was gone all day saturday and ive been feeling pretty lousy so by the time i got home i was super overwhelmed so i just went to bed instead
+Prompt: Speak with a sadness tone.
+
+[VoiceLDM]
+Text: i was gone all day saturday and ive been feeling pretty lousy so by the time i got home i was super overwhelmed so i just went to bed instead
+Prompt: Speak with a sadness tone.
+
+

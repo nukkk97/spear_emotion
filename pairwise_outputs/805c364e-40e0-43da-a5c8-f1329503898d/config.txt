@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling especially thankful for sisters after receiving a hand crocheted comfort shawl from my eldest sister
+Prompt: A joy voice as if talking to a close friend.
+
+[VoiceLDM]
+Text: im feeling especially thankful for sisters after receiving a hand crocheted comfort shawl from my eldest sister
+Prompt: A joy voice as if talking to a close friend.
+
+

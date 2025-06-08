@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel inadequate in knowing god s will for my life i need to redirect myself to psalm teach me your way o lord and i will walk in your truth give me an undivided heart
+Prompt: Speak with a neutral tone.
+
+[GPT-4o-mini]
+Text: i feel inadequate in knowing god s will for my life i need to redirect myself to psalm teach me your way o lord and i will walk in your truth give me an undivided heart
+Prompt: Speak with a sadness tone.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i missed the entire first year
+Prompt: Speak in a way that embodies anger.
+
+[GPT-4o-mini]
+Text: i feel like i missed the entire first year
+Prompt: Speak in a way that embodies sadness.
+
+

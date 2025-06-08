@@ -1,0 +1,9 @@
+[VITS]
+Text: i am the abuser and i feel even more isolated in this fight to save her life
+Prompt: Your tone should be filled with sadness.
+
+[GPT-4o-mini]
+Text: i am the abuser and i feel even more isolated in this fight to save her life
+Prompt: Your tone should be filled with sadness.
+
+

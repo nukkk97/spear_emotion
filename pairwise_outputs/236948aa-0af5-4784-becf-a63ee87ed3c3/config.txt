@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have a feeling they do this with all the cute kids that frequent the establishment
+Prompt: Your tone should be filled with joy.
+
+[GPT-4o-mini]
+Text: i have a feeling they do this with all the cute kids that frequent the establishment
+Prompt: Your tone should be filled with joy.
+
+

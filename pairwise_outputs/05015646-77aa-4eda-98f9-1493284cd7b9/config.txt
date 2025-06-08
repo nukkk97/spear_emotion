@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont know why i feel so tranquil today but i hope it lasts
+Prompt: Express joy clearly.
+
+[VoiceLDM]
+Text: i dont know why i feel so tranquil today but i hope it lasts
+Prompt: Express surprise clearly.
+
+

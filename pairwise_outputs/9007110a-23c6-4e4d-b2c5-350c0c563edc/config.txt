@@ -1,0 +1,9 @@
+[VITS]
+Text: i pick fights so that someone will feel something towards me and you call me rude
+Prompt: Express anger but let it be tinged with another emotion like longing.
+
+[PromptTTS]
+Text: i pick fights so that someone will feel something towards me and you call me rude
+Prompt: Express anger but let it be tinged with another emotion like longing.
+
+

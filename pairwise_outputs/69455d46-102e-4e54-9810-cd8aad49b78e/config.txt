@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im feeling really out of sorts today quite grumpy actually
+Prompt: A touch of anger like a hidden layer in your voice.
+
+[GPT-4o-mini]
+Text: im feeling really out of sorts today quite grumpy actually
+Prompt: A touch of anger like a hidden layer in your voice.
+
+

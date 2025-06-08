@@ -1,0 +1,9 @@
+[VITS]
+Text: i am forced to feel be and not be distracted as one of my clients told me yesterday she is more depressed when she is not distracted
+Prompt: Let your words carry anger.
+
+[PromptTTS]
+Text: i am forced to feel be and not be distracted as one of my clients told me yesterday she is more depressed when she is not distracted
+Prompt: Let your words carry anger.
+
+

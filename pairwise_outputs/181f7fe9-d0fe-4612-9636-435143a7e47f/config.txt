@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i did not feel cool and calm
+Prompt: Let your words carry joy.
+
+[GPT-4o-mini]
+Text: i did not feel cool and calm
+Prompt: Let your words carry joy.
+
+

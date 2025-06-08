@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i do feel kinda glad she is doing a lot better than me and at least she does seem like she has a sense of purpose in life now
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i do feel kinda glad she is doing a lot better than me and at least she does seem like she has a sense of purpose in life now
+Prompt: Deliver your words with joy.
+
+

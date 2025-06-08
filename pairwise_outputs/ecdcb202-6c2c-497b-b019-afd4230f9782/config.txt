@@ -1,0 +1,9 @@
+[VITS]
+Text: i know this is sad to say but days in to the biggest loser challenge and im already feeling irritable
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i know this is sad to say but days in to the biggest loser challenge and im already feeling irritable
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+

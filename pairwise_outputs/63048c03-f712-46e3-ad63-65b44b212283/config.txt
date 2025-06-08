@@ -1,0 +1,9 @@
+[VITS]
+Text: i am probably leaving many out so please do not feel offended if yours goes unmentioned
+Prompt: Make surprise the focus of your speech.
+
+[GPT-4o-mini]
+Text: i am probably leaving many out so please do not feel offended if yours goes unmentioned
+Prompt: Make anger the focus of your speech.
+
+

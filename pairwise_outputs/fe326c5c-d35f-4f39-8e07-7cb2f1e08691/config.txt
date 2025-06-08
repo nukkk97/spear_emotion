@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel this block of text is pretty boring its actually pretty cute when it happens in person
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i feel this block of text is pretty boring its actually pretty cute when it happens in person
+Prompt: Deliver your words with sadness.
+
+

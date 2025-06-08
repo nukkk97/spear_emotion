@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so incredibly intelligent and worthwhile right now
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i feel so incredibly intelligent and worthwhile right now
+Prompt: Ensure joy is present in every word.
+
+

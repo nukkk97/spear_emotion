@@ -1,0 +1,9 @@
+[VITS]
+Text: ive had a general feeling of discontent and i cant figure out why
+Prompt: Speak as if you are recalling a surprise memory.
+
+[GPT-4o-mini]
+Text: ive had a general feeling of discontent and i cant figure out why
+Prompt: Speak as if you are recalling a sadness memory.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i wanted to feel accepted content liked loved cared for trusted respected appreciated valued worthy attractive inside and out hopeful positive and whole
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[PromptTTS]
+Text: i wanted to feel accepted content liked loved cared for trusted respected appreciated valued worthy attractive inside and out hopeful positive and whole
+Prompt: Express surprise but let it be tinged with another emotion like longing.
+
+

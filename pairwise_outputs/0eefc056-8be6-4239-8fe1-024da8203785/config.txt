@@ -1,0 +1,9 @@
+[VITS]
+Text: i dunno im certainly jealous a feel betrayed and i wanna be mad that my brothers taken
+Prompt: Keep your tone fully anger.
+
+[GPT-4o-mini]
+Text: i dunno im certainly jealous a feel betrayed and i wanna be mad that my brothers taken
+Prompt: Keep your tone fully anger.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i hope you re feeling oh so smug
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+[GPT-4o-mini]
+Text: i hope you re feeling oh so smug
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+

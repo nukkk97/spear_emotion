@@ -1,0 +1,9 @@
+[VITS]
+Text: i put a link to a post from may last year on twitter yesterday and now feel embarrassed that the latest entry is months old
+Prompt: Speak as if you are experiencing sadness deeply.
+
+[VoiceLDM]
+Text: i put a link to a post from may last year on twitter yesterday and now feel embarrassed that the latest entry is months old
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

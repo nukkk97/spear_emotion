@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i am at disneyland i am thrilled when the whoosh of air comes preceeding the train then the gleaming light floods the tunnel and this wonderful dragony beast pulls in strong and gentle inviting me to board
+Prompt: Ensure anger is present in every word.
+
+[GPT-4o-mini]
+Text: i feel like i am at disneyland i am thrilled when the whoosh of air comes preceeding the train then the gleaming light floods the tunnel and this wonderful dragony beast pulls in strong and gentle inviting me to board
+Prompt: Ensure joy is present in every word.
+
+

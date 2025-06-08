@@ -1,0 +1,9 @@
+[VITS]
+Text: i panic about how it s going to feel and if it s going to hurt
+Prompt: Speak in a way that embodies surprise.
+
+[GPT-4o-mini]
+Text: i panic about how it s going to feel and if it s going to hurt
+Prompt: Speak in a way that embodies sadness.
+
+

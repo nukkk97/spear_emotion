@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel very flattered to be part of this extremely talented group of people and i cant wait to see what they have created plus besides all the inspiration there will be prizes at some of the blogs maybe even all of them i dont know
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+[VoiceLDM]
+Text: i feel very flattered to be part of this extremely talented group of people and i cant wait to see what they have created plus besides all the inspiration there will be prizes at some of the blogs maybe even all of them i dont know
+Prompt: Express sadness as if you are on the verge of revealing a secret.
+
+

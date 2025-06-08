@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i could probably have slept the entire week to two weeks in and not even blinked an eye because really it just feels like a horrible god awful flu but being a mom is really hard when you have to cut an addiction out its really hard
+Prompt: Make sadness the focus of your speech.
+
+[GPT-4o-mini]
+Text: i could probably have slept the entire week to two weeks in and not even blinked an eye because really it just feels like a horrible god awful flu but being a mom is really hard when you have to cut an addiction out its really hard
+Prompt: Make sadness the focus of your speech.
+
+

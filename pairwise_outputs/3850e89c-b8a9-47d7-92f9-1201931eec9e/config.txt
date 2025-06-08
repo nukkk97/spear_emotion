@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel the warmth of the amazed smile because
+Prompt: Show surprise in your voice.
+
+[VoiceLDM]
+Text: i feel the warmth of the amazed smile because
+Prompt: Show surprise in your voice.
+
+

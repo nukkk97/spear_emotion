@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel is what s the point in living in such a gorgeous world if i can t delight in that beauty
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[GPT-4o-mini]
+Text: i feel is what s the point in living in such a gorgeous world if i can t delight in that beauty
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

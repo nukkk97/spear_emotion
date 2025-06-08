@@ -1,0 +1,9 @@
+[VITS]
+Text: i do so i feel devastated again
+Prompt: Channel sadness in your voice.
+
+[VoiceLDM]
+Text: i do so i feel devastated again
+Prompt: Channel sadness in your voice.
+
+

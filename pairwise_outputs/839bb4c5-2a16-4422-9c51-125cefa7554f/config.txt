@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel a lot of jaded fans are doing i m rating it based on what i ve seen heard and played
+Prompt: Let sadness be present but keep it nuanced.
+
+[GPT-4o-mini]
+Text: i feel a lot of jaded fans are doing i m rating it based on what i ve seen heard and played
+Prompt: Let sadness be present but keep it nuanced.
+
+

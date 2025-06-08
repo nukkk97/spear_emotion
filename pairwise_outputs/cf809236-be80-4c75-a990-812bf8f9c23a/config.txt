@@ -1,0 +1,9 @@
+[VITS]
+Text: ive been feeling ungrateful
+Prompt: Speak with pure sadness.
+
+[VoiceLDM]
+Text: ive been feeling ungrateful
+Prompt: Speak with pure neutral.
+
+

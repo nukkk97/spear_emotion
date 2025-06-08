@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel a bit hopeful again
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i feel a bit hopeful again
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+

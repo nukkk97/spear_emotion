@@ -1,0 +1,9 @@
+[VITS]
+Text: i scored mine but i feel the pain of those that missed out
+Prompt: Show sadness but stay controlled.
+
+[PromptTTS]
+Text: i scored mine but i feel the pain of those that missed out
+Prompt: Show anger but stay controlled.
+
+

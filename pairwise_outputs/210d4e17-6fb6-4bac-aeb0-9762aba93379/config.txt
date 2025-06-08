@@ -1,0 +1,9 @@
+[VITS]
+Text: i struggling with feeling rejected
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+[VoiceLDM]
+Text: i struggling with feeling rejected
+Prompt: A voice that is neutral but with a hint of hesitation.
+
+

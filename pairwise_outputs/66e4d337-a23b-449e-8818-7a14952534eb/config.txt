@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im tired of feeling worthless in his eyes im tired of coming in dead last in his priorities im tired of feeling this way
+Prompt: A touch of sadness like a hidden layer in your voice.
+
+[GPT-4o-mini]
+Text: im tired of feeling worthless in his eyes im tired of coming in dead last in his priorities im tired of feeling this way
+Prompt: A touch of sadness like a hidden layer in your voice.
+
+

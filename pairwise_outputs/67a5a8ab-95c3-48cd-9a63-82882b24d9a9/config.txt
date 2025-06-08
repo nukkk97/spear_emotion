@@ -1,0 +1,9 @@
+[VITS]
+Text: i want to feel like the fearless do anything at any time with anyone kind of person
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i want to feel like the fearless do anything at any time with anyone kind of person
+Prompt: Keep your tone fully joy.
+
+

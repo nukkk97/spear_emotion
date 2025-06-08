@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel reassured no comments posted in a href http www
+Prompt: Speak in a way that embodies joy.
+
+[VoiceLDM]
+Text: i feel reassured no comments posted in a href http www
+Prompt: Speak in a way that embodies joy.
+
+

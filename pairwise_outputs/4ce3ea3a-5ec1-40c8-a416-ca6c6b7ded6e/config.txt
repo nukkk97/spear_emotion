@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel very optimistic about everything at this moment
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[VoiceLDM]
+Text: i feel very optimistic about everything at this moment
+Prompt: Deliver your words as if neutral is weighing on you but you’re trying to hide it.
+
+

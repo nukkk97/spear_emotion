@@ -1,0 +1,9 @@
+[VITS]
+Text: i spent a lot of last year feeling outraged by the literally million toy recalls especially the lead paint
+Prompt: Ensure surprise is present in every word.
+
+[GPT-4o-mini]
+Text: i spent a lot of last year feeling outraged by the literally million toy recalls especially the lead paint
+Prompt: Ensure anger is present in every word.
+
+

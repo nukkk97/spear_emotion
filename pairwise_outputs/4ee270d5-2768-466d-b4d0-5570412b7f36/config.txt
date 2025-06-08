@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel greatly troubled and distressed i dont know why
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+[GPT-4o-mini]
+Text: i feel greatly troubled and distressed i dont know why
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+

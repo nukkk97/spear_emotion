@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel it needs to be said because after i read twilights dawn i read quite a few reviews and i was surprised by the negative response i saw
+Prompt: Express surprise in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: i feel it needs to be said because after i read twilights dawn i read quite a few reviews and i was surprised by the negative response i saw
+Prompt: Express surprise in a conversational and authentic way.
+
+

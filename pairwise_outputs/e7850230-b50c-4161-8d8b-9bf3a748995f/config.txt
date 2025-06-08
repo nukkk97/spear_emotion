@@ -1,0 +1,9 @@
+[VITS]
+Text: i had a lot of time to think about things whilst i was away and have come back to my real life feeling much more positive and refreshed
+Prompt: Let your voice be filled with joy but keep it controlled.
+
+[VoiceLDM]
+Text: i had a lot of time to think about things whilst i was away and have come back to my real life feeling much more positive and refreshed
+Prompt: Let your voice be filled with surprise but keep it controlled.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: im not feeling too joyful about writing this blog because id rather be knitting
+Prompt: Let your words carry joy.
+
+[VoiceLDM]
+Text: im not feeling too joyful about writing this blog because id rather be knitting
+Prompt: Let your words carry joy.
+
+

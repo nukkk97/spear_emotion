@@ -1,0 +1,9 @@
+[VITS]
+Text: i feeling so agitated about
+Prompt: anger.
+
+[VoiceLDM]
+Text: i feeling so agitated about
+Prompt: anger.
+
+

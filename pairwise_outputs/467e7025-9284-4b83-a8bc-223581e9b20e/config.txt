@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i had a good time even though i generally feel unwelcome there
+Prompt: Ensure sadness is present in every word.
+
+[GPT-4o-mini]
+Text: i had a good time even though i generally feel unwelcome there
+Prompt: Ensure sadness is present in every word.
+
+

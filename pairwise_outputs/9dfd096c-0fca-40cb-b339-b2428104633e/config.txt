@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel triumphant or happy when the happiness is as intense as depression
+Prompt: Keep your tone fully joy.
+
+[VoiceLDM]
+Text: i feel triumphant or happy when the happiness is as intense as depression
+Prompt: Keep your tone fully joy.
+
+

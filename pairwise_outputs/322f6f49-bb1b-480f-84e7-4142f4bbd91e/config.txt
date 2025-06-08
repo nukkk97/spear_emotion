@@ -1,0 +1,9 @@
+[VITS]
+Text: i think maybe i am overtired or in need of something stronger than wine but i m feeling like it s kinda shitty to give guys false hope just to fill up another hour of tv
+Prompt: Express surprise clearly.
+
+[GPT-4o-mini]
+Text: i think maybe i am overtired or in need of something stronger than wine but i m feeling like it s kinda shitty to give guys false hope just to fill up another hour of tv
+Prompt: Express sadness clearly.
+
+

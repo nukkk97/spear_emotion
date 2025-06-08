@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have a feeling that by it would be valued less rather than more
+Prompt: Let joy shine through your voice.
+
+[GPT-4o-mini]
+Text: i have a feeling that by it would be valued less rather than more
+Prompt: Let joy shine through your voice.
+
+

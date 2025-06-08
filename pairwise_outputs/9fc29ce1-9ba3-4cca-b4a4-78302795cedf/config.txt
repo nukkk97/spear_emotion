@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like this is a seriously amazing process and once we gather our knowledge all of us and forget about divine beings and such and focus on what is real
+Prompt: Show surprise but stay controlled.
+
+[GPT-4o-mini]
+Text: i feel like this is a seriously amazing process and once we gather our knowledge all of us and forget about divine beings and such and focus on what is real
+Prompt: Show surprise but stay controlled.
+
+

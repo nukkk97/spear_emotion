@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel more self assured
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i feel more self assured
+Prompt: Ensure joy is present in every word.
+
+

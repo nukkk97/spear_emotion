@@ -1,0 +1,9 @@
+[VITS]
+Text: i remember it i still feel shocked l
+Prompt: Keep your voice steady but let surprise seep through.
+
+[GPT-4o-mini]
+Text: i remember it i still feel shocked l
+Prompt: Keep your voice steady but let surprise seep through.
+
+

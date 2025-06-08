@@ -1,0 +1,9 @@
+[VITS]
+Text: i really feel tremendously disadvantaged spending a lot of time on this
+Prompt: Show neutral in your voice.
+
+[GPT-4o-mini]
+Text: i really feel tremendously disadvantaged spending a lot of time on this
+Prompt: Show sadness in your voice.
+
+

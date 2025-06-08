@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am too insecure to be called confident but i m not modest as i have caught myself feeling secretly superior before
+Prompt: A deep joy masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i am too insecure to be called confident but i m not modest as i have caught myself feeling secretly superior before
+Prompt: A deep joy masked by a calm exterior.
+
+

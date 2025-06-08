@@ -1,0 +1,9 @@
+[VITS]
+Text: i love to read them or feel free to contact me through email or im
+Prompt: Speak as if surprise is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i love to read them or feel free to contact me through email or im
+Prompt: Speak as if joy is layered with uncertainty.
+
+

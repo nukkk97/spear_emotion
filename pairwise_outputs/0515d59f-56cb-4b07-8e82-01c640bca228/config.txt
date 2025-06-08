@@ -1,0 +1,9 @@
+[VITS]
+Text: ive known for a couple years now and while i know he thinks im one of the most beautiful women that he knows when im with him i find that often so very often i feel ugly gross less than
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+[VoiceLDM]
+Text: ive known for a couple years now and while i know he thinks im one of the most beautiful women that he knows when im with him i find that often so very often i feel ugly gross less than
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i had just showered and i didn t feel like getting all messy but again
+Prompt: Let sadness shine through your voice.
+
+[GPT-4o-mini]
+Text: i had just showered and i didn t feel like getting all messy but again
+Prompt: Let sadness shine through your voice.
+
+

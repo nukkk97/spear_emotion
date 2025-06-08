@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have an accompanying memory of buying a bottle of fresca from the old timey vending machine and feeling very cool for drinking the sour grapefruit flavored and decidedly grown up soda
+Prompt: Speak in a way that embodies joy.
+
+[VoiceLDM]
+Text: i have an accompanying memory of buying a bottle of fresca from the old timey vending machine and feeling very cool for drinking the sour grapefruit flavored and decidedly grown up soda
+Prompt: Speak in a way that embodies joy.
+
+

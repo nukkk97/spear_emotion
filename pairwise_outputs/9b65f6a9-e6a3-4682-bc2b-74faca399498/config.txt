@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling deprived
+Prompt: Let surprise unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i was feeling deprived
+Prompt: Let sadness unfold gradually in your voice.
+
+

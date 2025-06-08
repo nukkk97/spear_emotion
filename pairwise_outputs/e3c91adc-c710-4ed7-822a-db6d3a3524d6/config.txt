@@ -1,0 +1,9 @@
+[VITS]
+Text: i don t feel like too rushed the night before
+Prompt: Express anger clearly.
+
+[PromptTTS]
+Text: i don t feel like too rushed the night before
+Prompt: Express anger clearly.
+
+

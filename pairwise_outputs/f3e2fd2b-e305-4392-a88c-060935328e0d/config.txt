@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like it belongs in mad men
+Prompt: Deliver your words with anger.
+
+[VoiceLDM]
+Text: i feel like it belongs in mad men
+Prompt: Deliver your words with anger.
+
+

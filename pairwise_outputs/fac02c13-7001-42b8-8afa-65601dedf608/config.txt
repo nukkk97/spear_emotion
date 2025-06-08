@@ -1,0 +1,9 @@
+[VITS]
+Text: when my friends left without waiting for me
+Prompt: Speak in a way that embodies anger.
+
+[VoiceLDM]
+Text: when my friends left without waiting for me
+Prompt: Speak in a way that embodies anger.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like as funny as it is to say now that school is out life is starting to slow down a little
+Prompt: Speak as if surprise is layered with uncertainty.
+
+[PromptTTS]
+Text: i feel like as funny as it is to say now that school is out life is starting to slow down a little
+Prompt: Speak as if anger is layered with uncertainty.
+
+

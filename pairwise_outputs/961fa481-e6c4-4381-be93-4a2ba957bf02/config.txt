@@ -1,0 +1,9 @@
+[VITS]
+Text: i know im acting like this is some great epiphany that id never realized before but i do kind of feel like it all just hit me last night and today that ive got everything i could ever want and millions of reasons to be ecstatic with life
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i know im acting like this is some great epiphany that id never realized before but i do kind of feel like it all just hit me last night and today that ive got everything i could ever want and millions of reasons to be ecstatic with life
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel my troubled years are behind me and i will be a different person someone kind
+Prompt: Show joy in your voice.
+
+[GPT-4o-mini]
+Text: i feel my troubled years are behind me and i will be a different person someone kind
+Prompt: Show sadness in your voice.
+
+

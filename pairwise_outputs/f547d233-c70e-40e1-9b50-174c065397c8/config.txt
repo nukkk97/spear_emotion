@@ -1,0 +1,9 @@
+[VITS]
+Text: ive been exhausted and not feeling very humorous
+Prompt: Speak with a joy tone.
+
+[VoiceLDM]
+Text: ive been exhausted and not feeling very humorous
+Prompt: Speak with a neutral tone.
+
+

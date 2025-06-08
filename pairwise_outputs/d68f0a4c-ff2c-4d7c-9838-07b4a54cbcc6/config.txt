@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i sat in stunned silence after hanging up the phone feeling as if beaten and pummeled into submitting to something that i couldn t as yet comprehend my gaze drifted to the far side of the room where something that looked a bit like an acorn lay all by itself on the bare hardwood floor
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i sat in stunned silence after hanging up the phone feeling as if beaten and pummeled into submitting to something that i couldn t as yet comprehend my gaze drifted to the far side of the room where something that looked a bit like an acorn lay all by itself on the bare hardwood floor
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+

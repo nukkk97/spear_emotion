@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling rejuvenated and delighted to see and spend time with m and meet and get to know other m
+Prompt: Express joy as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i am feeling rejuvenated and delighted to see and spend time with m and meet and get to know other m
+Prompt: Express joy as if you are trying to hold back tears.
+
+

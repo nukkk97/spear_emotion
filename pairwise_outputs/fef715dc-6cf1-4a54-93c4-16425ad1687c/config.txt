@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel entirely satisfied about them
+Prompt: A touch of joy like a hidden layer in your voice.
+
+[VoiceLDM]
+Text: i feel entirely satisfied about them
+Prompt: A touch of anger like a hidden layer in your voice.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: im sure feeling this drained only on the third day of work is not normal right
+Prompt: Express sadness as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: im sure feeling this drained only on the third day of work is not normal right
+Prompt: Express sadness as if you are trying to hold back tears.
+
+

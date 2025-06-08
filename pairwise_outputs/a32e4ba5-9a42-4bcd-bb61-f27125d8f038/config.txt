@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am feeling depressed and why i am doing the things that are so self destructive are my best weapon against them
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+[VoiceLDM]
+Text: i am feeling depressed and why i am doing the things that are so self destructive are my best weapon against them
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+

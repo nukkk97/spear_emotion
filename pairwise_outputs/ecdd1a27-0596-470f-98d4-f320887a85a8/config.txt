@@ -1,0 +1,9 @@
+[VITS]
+Text: i now want the person to be subjected to the story infect them with the psychosis that created it and leave their psyche feeling damaged because of it
+Prompt: Show sadness but stay controlled.
+
+[VoiceLDM]
+Text: i now want the person to be subjected to the story infect them with the psychosis that created it and leave their psyche feeling damaged because of it
+Prompt: Show sadness but stay controlled.
+
+

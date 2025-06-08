@@ -1,0 +1,9 @@
+[VITS]
+Text: when a student of mine at music performed and played remarkably well
+Prompt: Express joy clearly.
+
+[VoiceLDM]
+Text: when a student of mine at music performed and played remarkably well
+Prompt: Express neutral clearly.
+
+

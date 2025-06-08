@@ -1,0 +1,9 @@
+[VITS]
+Text: when after a lot of provocation my child threw a plate on the floor
+Prompt: Speak with pure anger.
+
+[GPT-4o-mini]
+Text: when after a lot of provocation my child threw a plate on the floor
+Prompt: Speak with pure anger.
+
+

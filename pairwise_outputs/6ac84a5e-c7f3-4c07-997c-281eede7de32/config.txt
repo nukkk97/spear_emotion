@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel most satisfied when i know i have made a difference to someone else
+Prompt: Express joy without exaggeration.
+
+[GPT-4o-mini]
+Text: i feel most satisfied when i know i have made a difference to someone else
+Prompt: Express joy without exaggeration.
+
+

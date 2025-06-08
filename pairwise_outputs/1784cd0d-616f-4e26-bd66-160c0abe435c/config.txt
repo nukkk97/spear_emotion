@@ -1,0 +1,9 @@
+[VITS]
+Text: i couldnt quite figure it out but i was feeling grumpy like i was stuck in such a rut of work pick up monkey go home make something b o r i n g for dinner clean up go to bed
+Prompt: Let anger be present but keep it nuanced.
+
+[GPT-4o-mini]
+Text: i couldnt quite figure it out but i was feeling grumpy like i was stuck in such a rut of work pick up monkey go home make something b o r i n g for dinner clean up go to bed
+Prompt: Let anger be present but keep it nuanced.
+
+

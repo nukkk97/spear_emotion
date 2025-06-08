@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i walked away from them feeling discouraged about how technology seems to have replaced relationships in so many ways lately and what did i do
+Prompt: Express sadness as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i walked away from them feeling discouraged about how technology seems to have replaced relationships in so many ways lately and what did i do
+Prompt: Express sadness as if you are trying to hold back tears.
+
+

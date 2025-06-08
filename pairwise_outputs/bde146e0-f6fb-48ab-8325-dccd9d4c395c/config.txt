@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a feeling these are going to be as popular
+Prompt: Let joy be evident but not overwhelming.
+
+[PromptTTS]
+Text: i have a feeling these are going to be as popular
+Prompt: Let joy be evident but not overwhelming.
+
+

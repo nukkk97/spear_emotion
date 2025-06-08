@@ -1,0 +1,9 @@
+[VITS]
+Text: i love feeling productive and am task oriented and focused
+Prompt: Deliver your words with joy.
+
+[VoiceLDM]
+Text: i love feeling productive and am task oriented and focused
+Prompt: Deliver your words with joy.
+
+

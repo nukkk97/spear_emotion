@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i would have my paper written and done i would enjoy to look back at it whenever i feel like i cant handle the pressure of school or even when i just want to remind myself that im striving for a dream that i want to accomplish and feel successful for myself
+Prompt: Make joy the focus of your speech.
+
+[GPT-4o-mini]
+Text: i would have my paper written and done i would enjoy to look back at it whenever i feel like i cant handle the pressure of school or even when i just want to remind myself that im striving for a dream that i want to accomplish and feel successful for myself
+Prompt: Make joy the focus of your speech.
+
+

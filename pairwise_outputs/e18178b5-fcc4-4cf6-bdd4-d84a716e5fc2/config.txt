@@ -1,0 +1,9 @@
+[VITS]
+Text: i can still feel every syllable that reverberated in your throat and came out those gorgeous lips
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+[PromptTTS]
+Text: i can still feel every syllable that reverberated in your throat and came out those gorgeous lips
+Prompt: Speak with surprise but let it be tempered with self-restraint.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i were both feeling homesick so we decided to venture to a relatively new part of town
+Prompt: Let joy guide your speech.
+
+[GPT-4o-mini]
+Text: i were both feeling homesick so we decided to venture to a relatively new part of town
+Prompt: Let sadness guide your speech.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am no longer feeling pain but irritated that my body would decide to take a break now
+Prompt: Maintain composure but allow anger to be subtly felt.
+
+[GPT-4o-mini]
+Text: i am no longer feeling pain but irritated that my body would decide to take a break now
+Prompt: Maintain composure but allow anger to be subtly felt.
+
+

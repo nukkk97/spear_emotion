@@ -1,0 +1,9 @@
+[VITS]
+Text: im still not sure how i feel about it but im glad i read it
+Prompt: Speak with a joy tone.
+
+[PromptTTS]
+Text: im still not sure how i feel about it but im glad i read it
+Prompt: Speak with a joy tone.
+
+

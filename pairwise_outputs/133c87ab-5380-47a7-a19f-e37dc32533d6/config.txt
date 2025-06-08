@@ -1,0 +1,9 @@
+[VITS]
+Text: i have chosen not to share and i don t feel troubled by this
+Prompt: Let sadness shine through your voice.
+
+[PromptTTS]
+Text: i have chosen not to share and i don t feel troubled by this
+Prompt: Let sadness shine through your voice.
+
+

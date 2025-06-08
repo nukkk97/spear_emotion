@@ -1,0 +1,9 @@
+[VITS]
+Text: i have been working with milarepa lately so perhaps this is why i feel mad as a march hare today contemplating the co existing sorrow of the rape culture dialogue as well as the joy of springs first day
+Prompt: Speak with a anger tone.
+
+[VoiceLDM]
+Text: i have been working with milarepa lately so perhaps this is why i feel mad as a march hare today contemplating the co existing sorrow of the rape culture dialogue as well as the joy of springs first day
+Prompt: Speak with a anger tone.
+
+

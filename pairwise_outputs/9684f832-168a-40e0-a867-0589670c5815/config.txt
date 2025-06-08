@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling so stubborn about it that on monday i went to school in skinny jeans and my a href http www
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i was feeling so stubborn about it that on monday i went to school in skinny jeans and my a href http www
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: im totally feeling bitchy at the moment and i really have no idea why
+Prompt: Speak as if anger is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: im totally feeling bitchy at the moment and i really have no idea why
+Prompt: Speak as if anger is layered with uncertainty.
+
+

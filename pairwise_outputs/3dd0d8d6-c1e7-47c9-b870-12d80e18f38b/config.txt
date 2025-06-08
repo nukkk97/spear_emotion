@@ -1,0 +1,9 @@
+[VITS]
+Text: i am to see time stealing my babies from me i m also grateful to see them both enter these turbulent years feeling happy and secure in themselves
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i am to see time stealing my babies from me i m also grateful to see them both enter these turbulent years feeling happy and secure in themselves
+Prompt: Deliver your words with joy.
+
+

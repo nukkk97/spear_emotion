@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i am super woman
+Prompt: Show joy in your voice.
+
+[PromptTTS]
+Text: i feel like i am super woman
+Prompt: Show neutral in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel is times as talented as i am really pushes me to perform better to play better and to write better than i before
+Prompt: Your tone should be filled with joy.
+
+[PromptTTS]
+Text: i feel is times as talented as i am really pushes me to perform better to play better and to write better than i before
+Prompt: Your tone should be filled with joy.
+
+

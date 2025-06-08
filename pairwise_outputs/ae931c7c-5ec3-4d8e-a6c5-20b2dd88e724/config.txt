@@ -1,0 +1,9 @@
+[VITS]
+Text: i wont feel like i can or even entertained enough to listen
+Prompt: Make anger the focus of your speech.
+
+[GPT-4o-mini]
+Text: i wont feel like i can or even entertained enough to listen
+Prompt: Make joy the focus of your speech.
+
+

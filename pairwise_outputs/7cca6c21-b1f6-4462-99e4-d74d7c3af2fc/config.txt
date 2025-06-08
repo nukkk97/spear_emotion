@@ -1,0 +1,9 @@
+[VITS]
+Text: i baked for him shows a little of how i am feeling today a little heartbroken that he is so far away from us as we will all gather together and share in this day
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: i baked for him shows a little of how i am feeling today a little heartbroken that he is so far away from us as we will all gather together and share in this day
+Prompt: Show sadness in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i do really feel it is important that your family comes first
+Prompt: joy.
+
+[PromptTTS]
+Text: i do really feel it is important that your family comes first
+Prompt: joy.
+
+

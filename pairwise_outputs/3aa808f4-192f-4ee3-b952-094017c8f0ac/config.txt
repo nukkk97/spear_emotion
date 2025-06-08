@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i would rather have no friends than someone who makes me feel unhappy
+Prompt: A sadness voice as if talking to a close friend.
+
+[GPT-4o-mini]
+Text: i would rather have no friends than someone who makes me feel unhappy
+Prompt: A sadness voice as if talking to a close friend.
+
+

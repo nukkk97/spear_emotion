@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel quite frustrated that i m not do
+Prompt: Keep your tone fully anger.
+
+[VoiceLDM]
+Text: i feel quite frustrated that i m not do
+Prompt: Keep your tone fully anger.
+
+

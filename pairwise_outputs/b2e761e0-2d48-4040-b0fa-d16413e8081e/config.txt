@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i complain feeling furious about dad s behavior and words in the last conversation with him
+Prompt: Your tone should be filled with anger.
+
+[GPT-4o-mini]
+Text: i complain feeling furious about dad s behavior and words in the last conversation with him
+Prompt: Your tone should be filled with anger.
+
+

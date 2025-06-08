@@ -1,0 +1,9 @@
+[VITS]
+Text: i have weeks where nothing happens and i feel calm and content
+Prompt: Speak with a surprise tone.
+
+[GPT-4o-mini]
+Text: i have weeks where nothing happens and i feel calm and content
+Prompt: Speak with a joy tone.
+
+

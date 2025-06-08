@@ -1,0 +1,9 @@
+[VITS]
+Text: i just went for a gorgeous run in the forest and it felt good my eating plan has been up and running for a week now and i am feeling vital and energized
+Prompt: Let your voice be filled with joy but keep it controlled.
+
+[GPT-4o-mini]
+Text: i just went for a gorgeous run in the forest and it felt good my eating plan has been up and running for a week now and i am feeling vital and energized
+Prompt: Let your voice be filled with joy but keep it controlled.
+
+

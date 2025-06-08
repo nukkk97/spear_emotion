@@ -1,0 +1,9 @@
+[VITS]
+Text: i insult offend of hurt your feelings and i am truly remorseful if i apologize a hundred times you have a choice
+Prompt: Let neutral be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i insult offend of hurt your feelings and i am truly remorseful if i apologize a hundred times you have a choice
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+

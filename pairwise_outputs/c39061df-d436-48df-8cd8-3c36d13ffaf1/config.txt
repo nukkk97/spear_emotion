@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feeling ugly with my appearance and complaining about that
+Prompt: Deliver your words with sadness.
+
+[GPT-4o-mini]
+Text: i feeling ugly with my appearance and complaining about that
+Prompt: Deliver your words with sadness.
+
+

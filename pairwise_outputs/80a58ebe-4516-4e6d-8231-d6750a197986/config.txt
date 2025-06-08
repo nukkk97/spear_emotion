@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i don t feel any aching i don t feel any pains my hamstrings don t hurt
+Prompt: Let sadness unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i don t feel any aching i don t feel any pains my hamstrings don t hurt
+Prompt: Let sadness unfold gradually in your voice.
+
+

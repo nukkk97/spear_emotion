@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am feeling it today i missed my workout and missed a show
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i am feeling it today i missed my workout and missed a show
+Prompt: Deliver your words with sadness.
+
+

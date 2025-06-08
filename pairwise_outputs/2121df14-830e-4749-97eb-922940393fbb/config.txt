@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling a little adventurous this week so i decided to transform my look
+Prompt: Speak as if joy is layered with uncertainty.
+
+[VoiceLDM]
+Text: i was feeling a little adventurous this week so i decided to transform my look
+Prompt: Speak as if anger is layered with uncertainty.
+
+

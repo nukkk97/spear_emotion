@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel strangely resigned strangely at peace
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i feel strangely resigned strangely at peace
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

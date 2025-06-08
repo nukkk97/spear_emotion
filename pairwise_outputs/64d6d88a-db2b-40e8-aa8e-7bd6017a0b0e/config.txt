@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i look around me and i feel guilty
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i look around me and i feel guilty
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+

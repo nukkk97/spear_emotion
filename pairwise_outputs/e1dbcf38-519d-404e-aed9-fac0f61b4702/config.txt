@@ -1,0 +1,9 @@
+[VITS]
+Text: i would still feel awful about how unfairly i was still being treated and i would ask myself is all this working on myself working
+Prompt: Speak as though sadness is lingering in your thoughts.
+
+[VoiceLDM]
+Text: i would still feel awful about how unfairly i was still being treated and i would ask myself is all this working on myself working
+Prompt: Speak as though anger is lingering in your thoughts.
+
+

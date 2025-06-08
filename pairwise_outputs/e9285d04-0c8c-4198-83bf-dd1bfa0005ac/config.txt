@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel something really special and magic in this practice
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i feel something really special and magic in this practice
+Prompt: Channel joy in your voice.
+
+

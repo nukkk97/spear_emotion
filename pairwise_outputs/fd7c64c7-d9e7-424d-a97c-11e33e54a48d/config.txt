@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling a little grumpy as was fairly understandable
+Prompt: Express anger but let it be tinged with another emotion like longing.
+
+[PromptTTS]
+Text: i was feeling a little grumpy as was fairly understandable
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

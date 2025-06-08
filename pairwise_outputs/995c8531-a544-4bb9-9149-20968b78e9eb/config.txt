@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i cry but i couldnt help but feel pity for the situation he was suffering in
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i cry but i couldnt help but feel pity for the situation he was suffering in
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

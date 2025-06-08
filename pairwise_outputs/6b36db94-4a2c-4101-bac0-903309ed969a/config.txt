@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel my mood start to turn gloomy i remind myself that above the fog above the clouds the sun is always shining
+Prompt: Let sadness be evident but not overwhelming.
+
+[VoiceLDM]
+Text: i feel my mood start to turn gloomy i remind myself that above the fog above the clouds the sun is always shining
+Prompt: Let sadness be evident but not overwhelming.
+
+

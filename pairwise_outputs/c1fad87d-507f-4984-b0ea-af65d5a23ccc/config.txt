@@ -1,0 +1,9 @@
+[VITS]
+Text: ive been more in tune with my mind and imagination and im learning what feelings are results of impulse and which are real and sincere
+Prompt: A deep joy masked by a calm exterior.
+
+[PromptTTS]
+Text: ive been more in tune with my mind and imagination and im learning what feelings are results of impulse and which are real and sincere
+Prompt: A deep joy masked by a calm exterior.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel like giving up on one thing to try another and it just gets messy
+Prompt: Speak with pure sadness.
+
+[GPT-4o-mini]
+Text: i feel like giving up on one thing to try another and it just gets messy
+Prompt: Speak with pure sadness.
+
+

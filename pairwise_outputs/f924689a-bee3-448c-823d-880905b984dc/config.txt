@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i love the retro feel of the belt and it is such a cute addition to plain clothes
+Prompt: Speak with a joy tone.
+
+[GPT-4o-mini]
+Text: i love the retro feel of the belt and it is such a cute addition to plain clothes
+Prompt: Speak with a joy tone.
+
+

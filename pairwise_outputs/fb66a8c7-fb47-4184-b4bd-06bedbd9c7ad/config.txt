@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel so invigorated when my treatment is finished like i can take on the world
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i feel so invigorated when my treatment is finished like i can take on the world
+Prompt: Deliver your words with joy.
+
+

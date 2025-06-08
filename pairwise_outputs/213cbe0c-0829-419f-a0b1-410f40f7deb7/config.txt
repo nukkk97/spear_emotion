@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel very peaceful
+Prompt: Speak with joy but make it feel like it’s only partly revealed.
+
+[VoiceLDM]
+Text: i feel very peaceful
+Prompt: Speak with joy but make it feel like it’s only partly revealed.
+
+

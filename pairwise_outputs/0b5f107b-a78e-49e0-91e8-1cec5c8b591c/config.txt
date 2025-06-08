@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so honoured to be included into this amazing group crafty people
+Prompt: joy.
+
+[VoiceLDM]
+Text: i feel so honoured to be included into this amazing group crafty people
+Prompt: joy.
+
+

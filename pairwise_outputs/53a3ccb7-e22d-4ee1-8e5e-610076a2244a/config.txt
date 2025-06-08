@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel as though im having a harder time trusting people even those who have been closest to me
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[VoiceLDM]
+Text: i feel as though im having a harder time trusting people even those who have been closest to me
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

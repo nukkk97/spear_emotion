@@ -1,0 +1,9 @@
+[VITS]
+Text: i mean i would wake up and tell myself that im beautiful and amazing and great but then id feel like all concieted and bitchy and whatever you know
+Prompt: Speak in a way that embodies anger.
+
+[GPT-4o-mini]
+Text: i mean i would wake up and tell myself that im beautiful and amazing and great but then id feel like all concieted and bitchy and whatever you know
+Prompt: Speak in a way that embodies anger.
+
+

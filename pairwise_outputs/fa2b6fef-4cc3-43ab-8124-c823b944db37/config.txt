@@ -1,0 +1,9 @@
+[VITS]
+Text: i must somehow feel like ive wronged myself
+Prompt: Express anger clearly.
+
+[PromptTTS]
+Text: i must somehow feel like ive wronged myself
+Prompt: Express sadness clearly.
+
+

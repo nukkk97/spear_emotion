@@ -1,0 +1,9 @@
+[VITS]
+Text: i proceed to spread sunshine and butterflies of positivity im feeling optimistic and want to share my positivity
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i proceed to spread sunshine and butterflies of positivity im feeling optimistic and want to share my positivity
+Prompt: Let joy be present but make it seem as if you’re struggling to express it.
+
+

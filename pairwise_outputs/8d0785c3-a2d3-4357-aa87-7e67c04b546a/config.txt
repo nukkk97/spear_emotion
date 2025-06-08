@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a feeling this is not what proverbs is talking about but it thrilled my heart for my daughter to take such an interest in fly tying this past
+Prompt: Speak with a joy tone.
+
+[PromptTTS]
+Text: i have a feeling this is not what proverbs is talking about but it thrilled my heart for my daughter to take such an interest in fly tying this past
+Prompt: Speak with a surprise tone.
+
+

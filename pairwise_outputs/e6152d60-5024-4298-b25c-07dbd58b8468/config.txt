@@ -1,0 +1,9 @@
+[VITS]
+Text: i went back to the basic narrow asics shoes and they feel fabulous just as i remember
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+[VoiceLDM]
+Text: i went back to the basic narrow asics shoes and they feel fabulous just as i remember
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i think one of the reasons im so upbeat today is that ive finally been able to communicate my desires to someone i care about and not feel shamed but empowered
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i think one of the reasons im so upbeat today is that ive finally been able to communicate my desires to someone i care about and not feel shamed but empowered
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

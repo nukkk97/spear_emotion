@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i ever feel abused i figure theres a reason for it
+Prompt: Deliver your words with sadness.
+
+[GPT-4o-mini]
+Text: i ever feel abused i figure theres a reason for it
+Prompt: Deliver your words with sadness.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am feeling selfish and so i pray
+Prompt: Let anger unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i am feeling selfish and so i pray
+Prompt: Let anger unfold gradually in your voice.
+
+

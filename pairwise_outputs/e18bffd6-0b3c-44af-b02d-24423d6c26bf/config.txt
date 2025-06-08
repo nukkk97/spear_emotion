@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i ve missed out on too much of life because i m either constantly looking ahead to where i want to be or looking back to better times
+Prompt: A deep anger masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i feel like i ve missed out on too much of life because i m either constantly looking ahead to where i want to be or looking back to better times
+Prompt: A deep sadness masked by a calm exterior.
+
+

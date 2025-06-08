@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i share this to remind myself not today because today i know and feel and believe god is faithful but tomorrow or next week or in ten years when i forget
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i share this to remind myself not today because today i know and feel and believe god is faithful but tomorrow or next week or in ten years when i forget
+Prompt: Keep your tone fully joy.
+
+

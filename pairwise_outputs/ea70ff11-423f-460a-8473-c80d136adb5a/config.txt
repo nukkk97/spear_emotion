@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like im th grade on this board and my loadmouthed obnoxious plus sized friend just hit on my prom date
+Prompt: Let anger guide your speech.
+
+[GPT-4o-mini]
+Text: i feel like im th grade on this board and my loadmouthed obnoxious plus sized friend just hit on my prom date
+Prompt: Let anger guide your speech.
+
+

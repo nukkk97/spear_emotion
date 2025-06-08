@@ -1,0 +1,9 @@
+[VITS]
+Text: im sure lots of folks feel really glad to hear me say that because they would really like for me to pay for messing up their life by putting my own ahead of theirs
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: im sure lots of folks feel really glad to hear me say that because they would really like for me to pay for messing up their life by putting my own ahead of theirs
+Prompt: Deliver your words with joy.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i suppose i am not feeling thrilled that my car has failed its mot and until i can get a certificate for it i cant drive it
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i suppose i am not feeling thrilled that my car has failed its mot and until i can get a certificate for it i cant drive it
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

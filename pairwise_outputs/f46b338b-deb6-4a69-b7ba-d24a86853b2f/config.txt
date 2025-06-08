@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel more impressed by those who can rise up
+Prompt: Show surprise in your voice.
+
+[VoiceLDM]
+Text: i feel more impressed by those who can rise up
+Prompt: Show sadness in your voice.
+
+

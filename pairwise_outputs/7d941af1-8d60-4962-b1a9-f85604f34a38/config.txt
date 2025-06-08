@@ -1,0 +1,9 @@
+[VITS]
+Text: i try to break out of it the worse i feel i guess i am convinced that my new year is starting out bad which is leading me into a downward spiral
+Prompt: Speak as if joy is layered with uncertainty.
+
+[VoiceLDM]
+Text: i try to break out of it the worse i feel i guess i am convinced that my new year is starting out bad which is leading me into a downward spiral
+Prompt: Speak as if joy is layered with uncertainty.
+
+

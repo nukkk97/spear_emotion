@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i was in my vehicle driving and feeling pretty discouraged
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+[VoiceLDM]
+Text: i was in my vehicle driving and feeling pretty discouraged
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+

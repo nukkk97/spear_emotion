@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like im making a triumphant return
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i feel like im making a triumphant return
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

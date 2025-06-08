@@ -1,0 +1,9 @@
+[VITS]
+Text: i don t know whether it because i m now in a bad mood or something after you just finished the short talk on the yahoomessenger with me i feel pretty furious
+Prompt: Speak with a anger tone.
+
+[PromptTTS]
+Text: i don t know whether it because i m now in a bad mood or something after you just finished the short talk on the yahoomessenger with me i feel pretty furious
+Prompt: Speak with a anger tone.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so greedy and idiotic and spoiled for being so upset about losing a plastic tree
+Prompt: Speak as if anger is layered with uncertainty.
+
+[VoiceLDM]
+Text: i feel so greedy and idiotic and spoiled for being so upset about losing a plastic tree
+Prompt: Speak as if anger is layered with uncertainty.
+
+

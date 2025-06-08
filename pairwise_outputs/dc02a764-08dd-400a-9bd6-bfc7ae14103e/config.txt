@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i decide that instead of feeling jealous im going to use it as inspiration to become a better photographer myself
+Prompt: Maintain composure but allow anger to be subtly felt.
+
+[GPT-4o-mini]
+Text: i decide that instead of feeling jealous im going to use it as inspiration to become a better photographer myself
+Prompt: Maintain composure but allow anger to be subtly felt.
+
+

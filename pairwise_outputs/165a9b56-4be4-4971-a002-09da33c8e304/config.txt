@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel more optimistic about pakistan for now why i feel more optimistic about pakistan for now may th
+Prompt: Speak as if joy is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i feel more optimistic about pakistan for now why i feel more optimistic about pakistan for now may th
+Prompt: Speak as if joy is layered with uncertainty.
+
+

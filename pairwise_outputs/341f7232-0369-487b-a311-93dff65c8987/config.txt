@@ -1,0 +1,9 @@
+[VITS]
+Text: im keeping an ice pack to my face and i have faith that ill feel better and better as the day goes on
+Prompt: joy.
+
+[GPT-4o-mini]
+Text: im keeping an ice pack to my face and i have faith that ill feel better and better as the day goes on
+Prompt: joy.
+
+

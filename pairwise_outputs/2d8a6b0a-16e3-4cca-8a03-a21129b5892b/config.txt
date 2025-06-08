@@ -1,0 +1,9 @@
+[VITS]
+Text: i expected that being up on the top it would be much cooler but the sun was still high up and shining intensely so i was feeling quite agitated already
+Prompt: surprise.
+
+[GPT-4o-mini]
+Text: i expected that being up on the top it would be much cooler but the sun was still high up and shining intensely so i was feeling quite agitated already
+Prompt: anger.
+
+

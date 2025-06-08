@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel that this song is superior to that one
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i feel that this song is superior to that one
+Prompt: Ensure joy is present in every word.
+
+

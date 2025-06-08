@@ -1,0 +1,9 @@
+[VITS]
+Text: i also have so much to feel sad about losing
+Prompt: Let sadness unfold gradually in your voice.
+
+[VoiceLDM]
+Text: i also have so much to feel sad about losing
+Prompt: Let sadness unfold gradually in your voice.
+
+

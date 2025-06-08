@@ -1,0 +1,9 @@
+[VITS]
+Text: i didnt feel as isolated from the world as i did during last years holidays
+Prompt: Your tone should be filled with sadness.
+
+[PromptTTS]
+Text: i didnt feel as isolated from the world as i did during last years holidays
+Prompt: Your tone should be filled with sadness.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i was truly beginning to feel awful and of course day after day i was continuing to take this ibuprofen hoping it would help with some pain
+Prompt: Speak as if you're sharing a secret filled with surprise.
+
+[GPT-4o-mini]
+Text: i was truly beginning to feel awful and of course day after day i was continuing to take this ibuprofen hoping it would help with some pain
+Prompt: Speak as if you're sharing a secret filled with sadness.
+
+

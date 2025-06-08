@@ -1,0 +1,9 @@
+[VITS]
+Text: i like feeling accepted by people i respect
+Prompt: A deep joy masked by a calm exterior.
+
+[PromptTTS]
+Text: i like feeling accepted by people i respect
+Prompt: A deep neutral masked by a calm exterior.
+
+

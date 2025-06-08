@@ -1,0 +1,9 @@
+[VITS]
+Text: i almost feel hated by everyone
+Prompt: Speak as if you are recalling a anger memory.
+
+[GPT-4o-mini]
+Text: i almost feel hated by everyone
+Prompt: Speak as if you are recalling a anger memory.
+
+

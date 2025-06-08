@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel really lucky that the people in my family still value this time and carry on this tradition
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+[GPT-4o-mini]
+Text: i feel really lucky that the people in my family still value this time and carry on this tradition
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+

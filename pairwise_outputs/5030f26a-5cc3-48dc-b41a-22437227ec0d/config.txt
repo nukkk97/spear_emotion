@@ -1,0 +1,9 @@
+[VITS]
+Text: i cant get mad at god when i dont follow him and then consiquently feel dissatisfied
+Prompt: Speak with a anger tone.
+
+[GPT-4o-mini]
+Text: i cant get mad at god when i dont follow him and then consiquently feel dissatisfied
+Prompt: Speak with a anger tone.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i said ive been feeling quite troubled lately
+Prompt: sadness.
+
+[VoiceLDM]
+Text: i said ive been feeling quite troubled lately
+Prompt: joy.
+
+

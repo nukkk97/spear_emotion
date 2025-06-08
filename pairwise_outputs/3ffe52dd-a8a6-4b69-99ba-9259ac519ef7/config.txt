@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont want to add to the argument because i feel there have already been some very intelligent comments that convey what i want to say in a much more eloquent way
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i dont want to add to the argument because i feel there have already been some very intelligent comments that convey what i want to say in a much more eloquent way
+Prompt: Let neutral guide your speech.
+
+

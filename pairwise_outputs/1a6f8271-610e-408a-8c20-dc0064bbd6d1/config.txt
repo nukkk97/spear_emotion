@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel better about it and its not that much more expensive
+Prompt: Keep your tone fully joy.
+
+[PromptTTS]
+Text: i feel better about it and its not that much more expensive
+Prompt: Keep your tone fully anger.
+
+

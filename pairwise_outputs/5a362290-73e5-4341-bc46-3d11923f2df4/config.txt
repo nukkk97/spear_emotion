@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i can understand you not feeling valued and even questioning an organization that has had an inordinate amount of staph infections over the past few years
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i can understand you not feeling valued and even questioning an organization that has had an inordinate amount of staph infections over the past few years
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

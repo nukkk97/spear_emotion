@@ -1,0 +1,9 @@
+[VITS]
+Text: i dunno if there were to be a change of plans id just i dunno feel really really terrible
+Prompt: A deep sadness masked by a calm exterior.
+
+[PromptTTS]
+Text: i dunno if there were to be a change of plans id just i dunno feel really really terrible
+Prompt: A deep sadness masked by a calm exterior.
+
+

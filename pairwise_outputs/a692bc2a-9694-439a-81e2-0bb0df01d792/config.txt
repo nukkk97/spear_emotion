@@ -1,0 +1,9 @@
+[VITS]
+Text: i would feel so agitated i would want my life to end
+Prompt: Your voice should carry anger with a sense of warmth.
+
+[PromptTTS]
+Text: i would feel so agitated i would want my life to end
+Prompt: Your voice should carry anger with a sense of warmth.
+
+

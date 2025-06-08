@@ -1,0 +1,9 @@
+[VITS]
+Text: i am still feeling pretty crappy
+Prompt: Express sadness clearly.
+
+[VoiceLDM]
+Text: i am still feeling pretty crappy
+Prompt: Express sadness clearly.
+
+

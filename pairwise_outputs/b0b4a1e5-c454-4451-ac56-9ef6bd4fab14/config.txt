@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i must confess i feel quite discouraged by my colleagues who live on the building but dont bother to join us in prayer
+Prompt: Let sadness be present but keep it nuanced.
+
+[GPT-4o-mini]
+Text: i must confess i feel quite discouraged by my colleagues who live on the building but dont bother to join us in prayer
+Prompt: Let sadness be present but keep it nuanced.
+
+

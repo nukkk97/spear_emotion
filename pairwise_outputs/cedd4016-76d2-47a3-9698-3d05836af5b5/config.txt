@@ -1,0 +1,9 @@
+[VITS]
+Text: im not feeling depressed its minimal
+Prompt: Speak with pure sadness.
+
+[VoiceLDM]
+Text: im not feeling depressed its minimal
+Prompt: Speak with pure sadness.
+
+

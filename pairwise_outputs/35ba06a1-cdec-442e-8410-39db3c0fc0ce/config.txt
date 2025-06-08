@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a feeling that it has to do with these girls being needy and pushy and they say things like oh
+Prompt: joy.
+
+[GPT-4o-mini]
+Text: i have a feeling that it has to do with these girls being needy and pushy and they say things like oh
+Prompt: sadness.
+
+

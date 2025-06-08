@@ -1,0 +1,9 @@
+[VITS]
+Text: im kind of in amazement since i feel like i should feel more beaten up
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: im kind of in amazement since i feel like i should feel more beaten up
+Prompt: Speak with a sadness tone.
+
+

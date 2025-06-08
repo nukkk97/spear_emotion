@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel quite dumb and like a beginner
+Prompt: Let sadness be evident but not overwhelming.
+
+[VoiceLDM]
+Text: i feel quite dumb and like a beginner
+Prompt: Let joy be evident but not overwhelming.
+
+

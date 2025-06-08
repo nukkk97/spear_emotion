@@ -1,0 +1,9 @@
+[VITS]
+Text: i would have masked the book i don t feel you would have gleaned enough useful information
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i would have masked the book i don t feel you would have gleaned enough useful information
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

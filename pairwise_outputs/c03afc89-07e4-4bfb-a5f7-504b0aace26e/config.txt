@@ -1,0 +1,9 @@
+[VITS]
+Text: i just feel so determined to get things right and back on track
+Prompt: Speak with pure joy.
+
+[VoiceLDM]
+Text: i just feel so determined to get things right and back on track
+Prompt: Speak with pure sadness.
+
+

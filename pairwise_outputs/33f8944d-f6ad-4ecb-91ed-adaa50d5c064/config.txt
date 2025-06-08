@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i find myself feeling more virtuous when i eat a certain type of food over another
+Prompt: Show joy in your voice.
+
+[GPT-4o-mini]
+Text: i find myself feeling more virtuous when i eat a certain type of food over another
+Prompt: Show joy in your voice.
+
+

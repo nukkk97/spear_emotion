@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel ugly being jealous of other people and their bodies achievements happiness
+Prompt: Make sadness the focus of your speech.
+
+[GPT-4o-mini]
+Text: i feel ugly being jealous of other people and their bodies achievements happiness
+Prompt: Make sadness the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: im just overall feeling hostile right now
+Prompt: Ensure anger is present in every word.
+
+[VoiceLDM]
+Text: im just overall feeling hostile right now
+Prompt: Ensure sadness is present in every word.
+
+

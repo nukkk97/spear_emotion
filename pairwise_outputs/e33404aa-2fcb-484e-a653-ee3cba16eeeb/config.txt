@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel hopeless like no one is on my side or ever will be
+Prompt: A deep sadness masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i feel hopeless like no one is on my side or ever will be
+Prompt: A deep sadness masked by a calm exterior.
+
+

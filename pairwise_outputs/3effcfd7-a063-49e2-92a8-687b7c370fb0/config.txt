@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling stressed and become depressed
+Prompt: Speak with sadness but let it be tempered with self-restraint.
+
+[VoiceLDM]
+Text: i am feeling stressed and become depressed
+Prompt: Speak with surprise but let it be tempered with self-restraint.
+
+

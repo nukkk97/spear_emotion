@@ -1,0 +1,9 @@
+[VITS]
+Text: i never feel ashamed to confess that i need him when i feel so
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i never feel ashamed to confess that i need him when i feel so
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

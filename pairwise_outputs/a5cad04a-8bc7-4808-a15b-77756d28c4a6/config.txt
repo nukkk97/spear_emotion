@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: im feeling really productive i will wear something simple and presentable like a basic t shirt and jeans
+Prompt: Speak with pure joy.
+
+[GPT-4o-mini]
+Text: im feeling really productive i will wear something simple and presentable like a basic t shirt and jeans
+Prompt: Speak with pure joy.
+
+

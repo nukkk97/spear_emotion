@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im feeling adventurous i might even make it multiple tiers too
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: im feeling adventurous i might even make it multiple tiers too
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+

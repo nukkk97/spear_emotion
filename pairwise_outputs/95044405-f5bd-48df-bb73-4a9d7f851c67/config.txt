@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im in a much better mood now and actually feeling a bit festive
+Prompt: Let joy be evident but not overwhelming.
+
+[GPT-4o-mini]
+Text: im in a much better mood now and actually feeling a bit festive
+Prompt: Let joy be evident but not overwhelming.
+
+

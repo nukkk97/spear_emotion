@@ -1,0 +1,9 @@
+[VITS]
+Text: i never realized that deep down i enjoyed feeling suffocated and tortured by having to think of you and having a life with you not just a relationship with you at least once a day because simply because the pain reminds me of you and tells me that you were real
+Prompt: Let your words carry anger.
+
+[PromptTTS]
+Text: i never realized that deep down i enjoyed feeling suffocated and tortured by having to think of you and having a life with you not just a relationship with you at least once a day because simply because the pain reminds me of you and tells me that you were real
+Prompt: Let your words carry sadness.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i write a lot about fairies flowers and princesses on this blog so heres a book that might be a bit more little boy friendly a href http www
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i feel like i write a lot about fairies flowers and princesses on this blog so heres a book that might be a bit more little boy friendly a href http www
+Prompt: Keep your tone fully joy.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i wanted the feeling of being welcomed yet laid back while still having true southern grace
+Prompt: Make joy the focus of your speech.
+
+[VoiceLDM]
+Text: i wanted the feeling of being welcomed yet laid back while still having true southern grace
+Prompt: Make surprise the focus of your speech.
+
+

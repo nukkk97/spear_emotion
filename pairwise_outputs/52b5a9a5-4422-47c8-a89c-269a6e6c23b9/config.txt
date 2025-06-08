@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel resentful because she doesn t understand what i actually love
+Prompt: Express anger clearly.
+
+[VoiceLDM]
+Text: i feel resentful because she doesn t understand what i actually love
+Prompt: Express joy clearly.
+
+

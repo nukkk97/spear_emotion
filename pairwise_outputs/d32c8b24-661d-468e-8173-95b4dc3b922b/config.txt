@@ -1,0 +1,9 @@
+[VITS]
+Text: i have been struggling with a lot of feelings over the last couple weeks just being irritated and frustrated with everything big and small for no reason
+Prompt: Speak with anger as if sharing a personal story.
+
+[VoiceLDM]
+Text: i have been struggling with a lot of feelings over the last couple weeks just being irritated and frustrated with everything big and small for no reason
+Prompt: Speak with anger as if sharing a personal story.
+
+

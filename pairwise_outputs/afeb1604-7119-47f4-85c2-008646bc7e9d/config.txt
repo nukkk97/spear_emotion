@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i lost about pounds already and i feel so much stronger and keen to work out
+Prompt: Speak with a joy tone.
+
+[GPT-4o-mini]
+Text: i lost about pounds already and i feel so much stronger and keen to work out
+Prompt: Speak with a joy tone.
+
+

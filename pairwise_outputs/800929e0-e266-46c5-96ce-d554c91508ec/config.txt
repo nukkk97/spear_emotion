@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel hated and ignored now
+Prompt: Your tone should be filled with sadness.
+
+[VoiceLDM]
+Text: i feel hated and ignored now
+Prompt: Your tone should be filled with neutral.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am grateful for what i have but can never feel resolved or resigned to the loss of my child who just disappeared for no apparent reason
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i am grateful for what i have but can never feel resolved or resigned to the loss of my child who just disappeared for no apparent reason
+Prompt: Ensure joy is present in every word.
+
+

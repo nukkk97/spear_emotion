@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: ive been thinking about this lately with a lot of things i like that i feel are becoming more popular or mainstream or just mainstream enough that people know about them
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[VoiceLDM]
+Text: ive been thinking about this lately with a lot of things i like that i feel are becoming more popular or mainstream or just mainstream enough that people know about them
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+

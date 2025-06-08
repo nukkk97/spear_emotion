@@ -1,0 +1,9 @@
+[VITS]
+Text: when fired unjustly from a job as casual barperson charged with giving away free drinks not done so and had witnesses to prove it both patrons and bar staff other staff were supportive
+Prompt: Speak in a way that embodies anger.
+
+[GPT-4o-mini]
+Text: when fired unjustly from a job as casual barperson charged with giving away free drinks not done so and had witnesses to prove it both patrons and bar staff other staff were supportive
+Prompt: Speak in a way that embodies anger.
+
+

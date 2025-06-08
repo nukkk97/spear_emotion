@@ -1,0 +1,9 @@
+[VITS]
+Text: i actually feel solidarity with the americans who went on to cry for blood in iraq tortured prisoners and the stripping of the bill of rights
+Prompt: Let anger guide your speech.
+
+[GPT-4o-mini]
+Text: i actually feel solidarity with the americans who went on to cry for blood in iraq tortured prisoners and the stripping of the bill of rights
+Prompt: Let anger guide your speech.
+
+

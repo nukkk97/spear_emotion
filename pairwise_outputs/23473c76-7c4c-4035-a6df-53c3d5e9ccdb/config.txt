@@ -1,0 +1,9 @@
+[VITS]
+Text: i exhibit all the features expected of someone who has done little more than lounge around feeling sorry for oneself and compensating by eating accordingly when i got around to eating
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i exhibit all the features expected of someone who has done little more than lounge around feeling sorry for oneself and compensating by eating accordingly when i got around to eating
+Prompt: Ensure sadness is present in every word.
+
+

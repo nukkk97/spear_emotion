@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i have made so many new friends since coming out and feel very much accepted i m very open and i don t hide who i am
+Prompt: Channel joy in your voice.
+
+[GPT-4o-mini]
+Text: i have made so many new friends since coming out and feel very much accepted i m very open and i don t hide who i am
+Prompt: Channel joy in your voice.
+
+

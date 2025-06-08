@@ -1,0 +1,9 @@
+[VITS]
+Text: i woke up at am feeling mildly pissed off and out of sorts
+Prompt: Your tone should be filled with anger.
+
+[VoiceLDM]
+Text: i woke up at am feeling mildly pissed off and out of sorts
+Prompt: Your tone should be filled with surprise.
+
+

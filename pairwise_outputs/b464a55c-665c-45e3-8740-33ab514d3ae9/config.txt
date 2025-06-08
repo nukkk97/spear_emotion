@@ -1,0 +1,9 @@
+[VITS]
+Text: i think the difficulty of being forgiving may have something to do with this desire for the person that hurt you feel as hurt as you do
+Prompt: A joy voice as if talking to a close friend.
+
+[GPT-4o-mini]
+Text: i think the difficulty of being forgiving may have something to do with this desire for the person that hurt you feel as hurt as you do
+Prompt: A sadness voice as if talking to a close friend.
+
+

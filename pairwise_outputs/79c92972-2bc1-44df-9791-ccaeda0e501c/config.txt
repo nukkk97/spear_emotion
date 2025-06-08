@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel so amazed by their connection
+Prompt: Keep your voice steady but let surprise seep through.
+
+[GPT-4o-mini]
+Text: i feel so amazed by their connection
+Prompt: Keep your voice steady but let surprise seep through.
+
+

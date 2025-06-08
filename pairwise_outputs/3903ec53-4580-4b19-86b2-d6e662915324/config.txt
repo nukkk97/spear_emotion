@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i clicked a scrolling button on the google home page when it said im feeling artistic
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i clicked a scrolling button on the google home page when it said im feeling artistic
+Prompt: Keep your tone fully joy.
+
+

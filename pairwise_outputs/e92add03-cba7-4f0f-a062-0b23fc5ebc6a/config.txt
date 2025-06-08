@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i guess the kid goes to foster care or maybe to family members if dcs is feeling generous
+Prompt: Your tone should be filled with joy.
+
+[VoiceLDM]
+Text: i guess the kid goes to foster care or maybe to family members if dcs is feeling generous
+Prompt: Your tone should be filled with joy.
+
+

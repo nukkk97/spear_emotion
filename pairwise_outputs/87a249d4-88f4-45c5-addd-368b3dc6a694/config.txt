@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like being an unfriendly bitch and not attending the weekly suite meeting tonight
+Prompt: Keep your tone fully anger.
+
+[PromptTTS]
+Text: i feel like being an unfriendly bitch and not attending the weekly suite meeting tonight
+Prompt: Keep your tone fully anger.
+
+

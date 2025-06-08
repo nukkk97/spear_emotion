@@ -1,0 +1,9 @@
+[VITS]
+Text: i forgive myself for accepting and allowing myself to exist in a polarity playout between work as feeling stressed unhappy and resentful vs
+Prompt: Deliver your words with anger.
+
+[GPT-4o-mini]
+Text: i forgive myself for accepting and allowing myself to exist in a polarity playout between work as feeling stressed unhappy and resentful vs
+Prompt: Deliver your words with anger.
+
+

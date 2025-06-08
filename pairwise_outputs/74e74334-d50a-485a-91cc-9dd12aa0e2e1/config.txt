@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i have a feeling that even the most casual of readers picking this up will find many problems with the writing and execution of this novel
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i have a feeling that even the most casual of readers picking this up will find many problems with the writing and execution of this novel
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

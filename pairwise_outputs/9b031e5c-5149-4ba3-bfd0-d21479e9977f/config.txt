@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel valued at the other store but that stores getting reorganized because attributing value to your employees is somehow wrong
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i feel valued at the other store but that stores getting reorganized because attributing value to your employees is somehow wrong
+Prompt: Channel surprise in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel wronged that i got cancer
+Prompt: Speak as if you are experiencing anger deeply.
+
+[PromptTTS]
+Text: i feel wronged that i got cancer
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

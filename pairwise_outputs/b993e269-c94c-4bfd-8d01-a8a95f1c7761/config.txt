@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i realize he s protecting himself and probably feels rejected
+Prompt: Let your words carry sadness.
+
+[GPT-4o-mini]
+Text: i realize he s protecting himself and probably feels rejected
+Prompt: Let your words carry sadness.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i kind of feel like being sociable and leaving the house for a change
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+[GPT-4o-mini]
+Text: i kind of feel like being sociable and leaving the house for a change
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+

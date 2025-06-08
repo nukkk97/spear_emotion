@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel beyond blessed to be attending this university
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i feel beyond blessed to be attending this university
+Prompt: Let surprise guide your speech.
+
+

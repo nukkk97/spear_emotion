@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that i have completely damaged our friendship
+Prompt: Express sadness clearly.
+
+[GPT-4o-mini]
+Text: i feel that i have completely damaged our friendship
+Prompt: Express sadness clearly.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling really depressed
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i was feeling really depressed
+Prompt: Deliver your words with sadness.
+
+

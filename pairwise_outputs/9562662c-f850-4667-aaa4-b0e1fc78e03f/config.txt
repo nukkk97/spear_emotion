@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like if we keep doing what were doing hitting on things like we have been to me hendrick motorsports has been as strong as anyone since the start of this year
+Prompt: Speak with joy as if you are trying to comfort someone.
+
+[VoiceLDM]
+Text: i feel like if we keep doing what were doing hitting on things like we have been to me hendrick motorsports has been as strong as anyone since the start of this year
+Prompt: Speak with joy as if you are trying to comfort someone.
+
+

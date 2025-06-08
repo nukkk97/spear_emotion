@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i m on lifestyles of the rich and famous or more likely punked
+Prompt: Express joy clearly.
+
+[VoiceLDM]
+Text: i feel like i m on lifestyles of the rich and famous or more likely punked
+Prompt: Express joy clearly.
+
+

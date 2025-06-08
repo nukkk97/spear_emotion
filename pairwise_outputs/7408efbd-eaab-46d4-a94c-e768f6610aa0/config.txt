@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel to disadvantaged and these goals feel out of reach for me
+Prompt: Express sadness in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: i feel to disadvantaged and these goals feel out of reach for me
+Prompt: Express sadness in a conversational and authentic way.
+
+

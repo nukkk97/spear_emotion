@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i hope perhaps my bff was here for me at least he is someone i feel the most comfortable with and i know he is always there for me
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[GPT-4o-mini]
+Text: i hope perhaps my bff was here for me at least he is someone i feel the most comfortable with and i know he is always there for me
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

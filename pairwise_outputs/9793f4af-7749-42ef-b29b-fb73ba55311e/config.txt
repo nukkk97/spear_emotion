@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont want to post this that much because i feel like its all fake and for attention
+Prompt: Let sadness be evident but not overwhelming.
+
+[VoiceLDM]
+Text: i dont want to post this that much because i feel like its all fake and for attention
+Prompt: Let sadness be evident but not overwhelming.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i didnt feel an ounce of chemistry between these characters and i am seriously disturbed by claire ability to tumble her wild scotsman with barely an ounce of compunction over her betrayal of frank which leads me to my next point
+Prompt: Deliver your words with sadness.
+
+[GPT-4o-mini]
+Text: i didnt feel an ounce of chemistry between these characters and i am seriously disturbed by claire ability to tumble her wild scotsman with barely an ounce of compunction over her betrayal of frank which leads me to my next point
+Prompt: Deliver your words with sadness.
+
+

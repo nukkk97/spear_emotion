@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: ive been working hard on uni projects last week so am currently feeling a bit drained and my outfits seem to get more casual and comfier as the days go on to reflect that
+Prompt: sadness.
+
+[GPT-4o-mini]
+Text: ive been working hard on uni projects last week so am currently feeling a bit drained and my outfits seem to get more casual and comfier as the days go on to reflect that
+Prompt: sadness.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have a feeling target blank img src http www
+Prompt: Channel sadness in your voice.
+
+[GPT-4o-mini]
+Text: i have a feeling target blank img src http www
+Prompt: Channel sadness in your voice.
+
+

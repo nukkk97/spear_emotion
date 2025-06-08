@@ -1,0 +1,9 @@
+[VITS]
+Text: im not saying that you have to enjoy the feeling of suffering unless you want to but you can enjoy what comes out of suffering
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: im not saying that you have to enjoy the feeling of suffering unless you want to but you can enjoy what comes out of suffering
+Prompt: Speak with a sadness tone.
+
+

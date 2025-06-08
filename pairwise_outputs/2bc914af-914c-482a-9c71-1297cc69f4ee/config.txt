@@ -1,0 +1,9 @@
+[VITS]
+Text: i heard you weren t feeling well i started the conversation
+Prompt: Your tone should be filled with joy.
+
+[VoiceLDM]
+Text: i heard you weren t feeling well i started the conversation
+Prompt: Your tone should be filled with joy.
+
+

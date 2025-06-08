@@ -1,0 +1,9 @@
+[VITS]
+Text: i like watching movies and wishing they were touching enough to make me cry or watch them and wish theyd bring more far above the clouds into this alternate reality and after it ends id just feel a part of mes still left in the theatre feeling moving aching cheering as one of the characters
+Prompt: Keep your tone fully sadness.
+
+[VoiceLDM]
+Text: i like watching movies and wishing they were touching enough to make me cry or watch them and wish theyd bring more far above the clouds into this alternate reality and after it ends id just feel a part of mes still left in the theatre feeling moving aching cheering as one of the characters
+Prompt: Keep your tone fully sadness.
+
+

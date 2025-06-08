@@ -1,0 +1,9 @@
+[VITS]
+Text: i stand in the middle of my kitchen this morning feeling dissatisfied instead of simply relieved
+Prompt: Your tone should be filled with anger.
+
+[PromptTTS]
+Text: i stand in the middle of my kitchen this morning feeling dissatisfied instead of simply relieved
+Prompt: Your tone should be filled with surprise.
+
+

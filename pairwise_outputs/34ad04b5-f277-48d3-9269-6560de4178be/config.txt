@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel betrayed by those people who would ask others about me but act all jolly with me
+Prompt: Speak with pure surprise.
+
+[GPT-4o-mini]
+Text: i feel betrayed by those people who would ask others about me but act all jolly with me
+Prompt: Speak with pure joy.
+
+

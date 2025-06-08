@@ -1,0 +1,9 @@
+[VITS]
+Text: i miss it s beautiful feel glamorous look and fabulous to wear over nice clothes
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: i miss it s beautiful feel glamorous look and fabulous to wear over nice clothes
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+

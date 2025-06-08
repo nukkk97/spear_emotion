@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like an ungrateful little shit for behaving the way i am toward dom whos been nothing short of fantastic since the moment he stepped into my apartment not to mention my life but i just cant seem to bring myself to respond to his attempts to draw me out and make me smile
+Prompt: Speak with a sadness tone.
+
+[PromptTTS]
+Text: i feel like an ungrateful little shit for behaving the way i am toward dom whos been nothing short of fantastic since the moment he stepped into my apartment not to mention my life but i just cant seem to bring myself to respond to his attempts to draw me out and make me smile
+Prompt: Speak with a sadness tone.
+
+

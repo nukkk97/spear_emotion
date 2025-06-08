@@ -1,0 +1,9 @@
+[VITS]
+Text: i cant believe how fast the time is passing now and feel so inadequate for the job ahead
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i cant believe how fast the time is passing now and feel so inadequate for the job ahead
+Prompt: Deliver your words with sadness.
+
+

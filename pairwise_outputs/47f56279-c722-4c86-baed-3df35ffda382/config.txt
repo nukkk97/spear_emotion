@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling pretty bummed that i didnt take one single picture all week
+Prompt: Express joy clearly.
+
+[VoiceLDM]
+Text: im feeling pretty bummed that i didnt take one single picture all week
+Prompt: Express joy clearly.
+
+

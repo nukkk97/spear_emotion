@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like squidward after so many times saying he hated krabby patties and then he tasted one
+Prompt: Speak in a way that embodies sadness.
+
+[PromptTTS]
+Text: i feel like squidward after so many times saying he hated krabby patties and then he tasted one
+Prompt: Speak in a way that embodies sadness.
+
+

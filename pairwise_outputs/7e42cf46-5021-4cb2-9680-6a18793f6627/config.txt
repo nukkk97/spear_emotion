@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel victimized a little bit
+Prompt: Speak with a neutral tone.
+
+[GPT-4o-mini]
+Text: i feel victimized a little bit
+Prompt: Speak with a sadness tone.
+
+

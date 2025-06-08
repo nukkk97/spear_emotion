@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel somewhat successful
+Prompt: Your voice should carry anger with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i feel somewhat successful
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

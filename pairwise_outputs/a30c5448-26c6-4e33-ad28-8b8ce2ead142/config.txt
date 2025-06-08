@@ -1,0 +1,9 @@
+[VITS]
+Text: i do help out a lot within my family and the community which makes me feel wonderful about myself
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+[VoiceLDM]
+Text: i do help out a lot within my family and the community which makes me feel wonderful about myself
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+

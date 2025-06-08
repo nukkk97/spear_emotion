@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i find myself feeling embarrassed that i don t even know where to start to plan to travel internationally like this
+Prompt: Express sadness in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: i find myself feeling embarrassed that i don t even know where to start to plan to travel internationally like this
+Prompt: Express sadness in a conversational and authentic way.
+
+

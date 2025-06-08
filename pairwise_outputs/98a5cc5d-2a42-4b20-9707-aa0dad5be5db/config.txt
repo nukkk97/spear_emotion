@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i was double crossing mercy and maria they one day came to know each other i was found by mercy redhaded when i was with maria
+Prompt: Channel anger in your voice.
+
+[GPT-4o-mini]
+Text: i was double crossing mercy and maria they one day came to know each other i was found by mercy redhaded when i was with maria
+Prompt: Channel anger in your voice.
+
+

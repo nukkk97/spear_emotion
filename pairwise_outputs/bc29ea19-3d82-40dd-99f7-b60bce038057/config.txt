@@ -1,0 +1,9 @@
+[VITS]
+Text: i started feeling unwelcome on my own facebook page
+Prompt: Ensure sadness is present in every word.
+
+[PromptTTS]
+Text: i started feeling unwelcome on my own facebook page
+Prompt: Ensure neutral is present in every word.
+
+

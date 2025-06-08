@@ -1,0 +1,9 @@
+[VITS]
+Text: i find myself worrying about every single detail of every single thing and find myself feeling more bitter than better
+Prompt: Show anger but stay controlled.
+
+[GPT-4o-mini]
+Text: i find myself worrying about every single detail of every single thing and find myself feeling more bitter than better
+Prompt: Show anger but stay controlled.
+
+

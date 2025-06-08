@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel humiliated and discriminated against said basinger a rap artist who performs locally
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i feel humiliated and discriminated against said basinger a rap artist who performs locally
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel totally lost i just found out that my grandmother father s mother has been hallucinating
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i feel totally lost i just found out that my grandmother father s mother has been hallucinating
+Prompt: Deliver your words with joy.
+
+

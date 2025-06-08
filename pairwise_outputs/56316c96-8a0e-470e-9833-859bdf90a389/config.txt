@@ -1,0 +1,9 @@
+[VITS]
+Text: i have spent a whole afternoon picking up toys and wiping spaghetti sauce off of my new throw pillows i do it because i feel resentful towards other mothers who seem to have it all together and wrapped up in a shiny bow
+Prompt: Speak with pure anger.
+
+[VoiceLDM]
+Text: i have spent a whole afternoon picking up toys and wiping spaghetti sauce off of my new throw pillows i do it because i feel resentful towards other mothers who seem to have it all together and wrapped up in a shiny bow
+Prompt: Speak with pure surprise.
+
+

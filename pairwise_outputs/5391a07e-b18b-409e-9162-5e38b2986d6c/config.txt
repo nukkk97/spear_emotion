@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i get that theres always this feeling that if you say something that you instead to be innocent people will turn it around on you
+Prompt: Show joy in your voice.
+
+[VoiceLDM]
+Text: i get that theres always this feeling that if you say something that you instead to be innocent people will turn it around on you
+Prompt: Show joy in your voice.
+
+

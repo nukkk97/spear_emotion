@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel really hateful today and i didnt draw a comic because i didnt want to talk about it
+Prompt: Express anger clearly.
+
+[VoiceLDM]
+Text: i feel really hateful today and i didnt draw a comic because i didnt want to talk about it
+Prompt: Express anger clearly.
+
+

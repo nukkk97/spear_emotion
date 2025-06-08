@@ -1,0 +1,9 @@
+[VITS]
+Text: i still feel the aching pain inside that spreads through my veins and makes me feel like im withering away
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i still feel the aching pain inside that spreads through my veins and makes me feel like im withering away
+Prompt: Deliver your words with sadness.
+
+

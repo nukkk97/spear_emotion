@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel as if i have tortured you enough for the present
+Prompt: Your tone should be filled with anger.
+
+[PromptTTS]
+Text: i feel as if i have tortured you enough for the present
+Prompt: Your tone should be filled with joy.
+
+

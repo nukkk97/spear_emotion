@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel heartless which seems like an oxymoron because im having too many feelings
+Prompt: Your tone should be filled with anger.
+
+[VoiceLDM]
+Text: i feel heartless which seems like an oxymoron because im having too many feelings
+Prompt: Your tone should be filled with anger.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i find myself barely feeling the presence of divine love and need to spend some time clearing myself and shifting frequencies
+Prompt: Express joy as if you are trying to hold back tears.
+
+[VoiceLDM]
+Text: i find myself barely feeling the presence of divine love and need to spend some time clearing myself and shifting frequencies
+Prompt: Express sadness as if you are trying to hold back tears.
+
+

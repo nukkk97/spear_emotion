@@ -1,0 +1,9 @@
+[VITS]
+Text: im going to bed feeling glad
+Prompt: A joy voice as if talking to a close friend.
+
+[GPT-4o-mini]
+Text: im going to bed feeling glad
+Prompt: A joy voice as if talking to a close friend.
+
+

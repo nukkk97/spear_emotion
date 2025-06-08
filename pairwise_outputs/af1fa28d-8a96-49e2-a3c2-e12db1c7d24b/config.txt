@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like a missed something
+Prompt: Let sadness guide your speech.
+
+[PromptTTS]
+Text: i feel like a missed something
+Prompt: Let surprise guide your speech.
+
+

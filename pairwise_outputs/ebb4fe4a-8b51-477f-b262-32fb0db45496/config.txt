@@ -1,0 +1,9 @@
+[VITS]
+Text: i catch myself feeling envious i must admit
+Prompt: Speak with anger but let it be tempered with self-restraint.
+
+[GPT-4o-mini]
+Text: i catch myself feeling envious i must admit
+Prompt: Speak with anger but let it be tempered with self-restraint.
+
+

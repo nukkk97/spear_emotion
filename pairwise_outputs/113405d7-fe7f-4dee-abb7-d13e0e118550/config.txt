@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel melancholy and it may or may not feel the same way as it would feel if you were melancholy
+Prompt: Keep your voice steady but let sadness seep through.
+
+[PromptTTS]
+Text: i feel melancholy and it may or may not feel the same way as it would feel if you were melancholy
+Prompt: Keep your voice steady but let anger seep through.
+
+

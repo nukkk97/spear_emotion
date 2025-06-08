@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel stupid for thinking that somebody loved me
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i feel stupid for thinking that somebody loved me
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

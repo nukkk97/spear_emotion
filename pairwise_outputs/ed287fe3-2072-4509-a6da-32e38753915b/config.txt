@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like there should be less homework because if they feel like homework is not dangerous then i feel like they should make you go to less classes so you dont feel so everwelmed
+Prompt: Express anger without exaggeration.
+
+[VoiceLDM]
+Text: i feel like there should be less homework because if they feel like homework is not dangerous then i feel like they should make you go to less classes so you dont feel so everwelmed
+Prompt: Express anger without exaggeration.
+
+

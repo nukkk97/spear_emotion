@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling generous lets make it a a href https www
+Prompt: Express joy in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: im feeling generous lets make it a a href https www
+Prompt: Express joy in a conversational and authentic way.
+
+

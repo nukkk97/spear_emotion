@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel doomed to a certain degree to be forever relagated to the female s friend place
+Prompt: Speak with pure sadness.
+
+[GPT-4o-mini]
+Text: i feel doomed to a certain degree to be forever relagated to the female s friend place
+Prompt: Speak with pure sadness.
+
+

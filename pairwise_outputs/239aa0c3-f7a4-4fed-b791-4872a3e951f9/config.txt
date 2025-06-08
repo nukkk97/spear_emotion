@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel my time isn t going to be in vain
+Prompt: Express sadness clearly.
+
+[VoiceLDM]
+Text: i feel my time isn t going to be in vain
+Prompt: Express sadness clearly.
+
+

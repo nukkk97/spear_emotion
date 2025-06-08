@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i felt that what made you a christian was in standing in judgement of others actions and in feeling superior in saying well mines not as bad as hers
+Prompt: Express joy without exaggeration.
+
+[GPT-4o-mini]
+Text: i felt that what made you a christian was in standing in judgement of others actions and in feeling superior in saying well mines not as bad as hers
+Prompt: Express joy without exaggeration.
+
+

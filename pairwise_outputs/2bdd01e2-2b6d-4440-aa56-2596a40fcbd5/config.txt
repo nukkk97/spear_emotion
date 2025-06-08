@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so hopeless hopeless hopeless and seriously useless during the competition
+Prompt: Let sadness be evident but not overwhelming.
+
+[PromptTTS]
+Text: i feel so hopeless hopeless hopeless and seriously useless during the competition
+Prompt: Let sadness be evident but not overwhelming.
+
+

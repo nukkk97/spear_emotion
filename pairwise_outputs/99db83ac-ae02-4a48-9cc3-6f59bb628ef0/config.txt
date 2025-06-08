@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel my grouchy self resurfacing again
+Prompt: Speak in a way that embodies anger.
+
+[VoiceLDM]
+Text: i feel my grouchy self resurfacing again
+Prompt: Speak in a way that embodies sadness.
+
+

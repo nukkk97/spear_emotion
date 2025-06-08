@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel i need to eat sugar every day or else i get grumpy
+Prompt: Deliver your words with neutral.
+
+[GPT-4o-mini]
+Text: i feel i need to eat sugar every day or else i get grumpy
+Prompt: Deliver your words with anger.
+
+

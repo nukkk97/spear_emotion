@@ -1,0 +1,9 @@
+[VITS]
+Text: i should just relax for now but it feels so distinctly strange for me
+Prompt: Let your voice be filled with surprise but keep it controlled.
+
+[GPT-4o-mini]
+Text: i should just relax for now but it feels so distinctly strange for me
+Prompt: Let your voice be filled with surprise but keep it controlled.
+
+

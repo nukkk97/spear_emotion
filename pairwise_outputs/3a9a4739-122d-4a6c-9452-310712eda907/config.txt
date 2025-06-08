@@ -1,0 +1,9 @@
+[VITS]
+Text: i walk away feeling a little dirty like i told a lie even though i know it was the easy answer
+Prompt: A deep sadness masked by a calm exterior.
+
+[VoiceLDM]
+Text: i walk away feeling a little dirty like i told a lie even though i know it was the easy answer
+Prompt: A deep sadness masked by a calm exterior.
+
+

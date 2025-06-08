@@ -1,0 +1,9 @@
+[VITS]
+Text: i threw himself down on a seat feeling utterly infuriated by her
+Prompt: Speak in a way that embodies anger.
+
+[GPT-4o-mini]
+Text: i threw himself down on a seat feeling utterly infuriated by her
+Prompt: Speak in a way that embodies anger.
+
+

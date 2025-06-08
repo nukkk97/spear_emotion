@@ -1,0 +1,9 @@
+[VITS]
+Text: i have read personal articles about transgender or bisexual people feeling rejected by gay or lesbian normative groups
+Prompt: Channel sadness in your voice.
+
+[VoiceLDM]
+Text: i have read personal articles about transgender or bisexual people feeling rejected by gay or lesbian normative groups
+Prompt: Channel sadness in your voice.
+
+

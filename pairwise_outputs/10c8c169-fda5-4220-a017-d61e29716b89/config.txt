@@ -1,0 +1,9 @@
+[VITS]
+Text: i make the move i am feeling very excited to be out on my own like this
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[PromptTTS]
+Text: i make the move i am feeling very excited to be out on my own like this
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

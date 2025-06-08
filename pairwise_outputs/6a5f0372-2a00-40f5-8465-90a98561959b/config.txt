@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel ridiculously burdened with this approaching move out date and im afraid we wont find anything desirable within our price range close to work
+Prompt: Speak with pure sadness.
+
+[PromptTTS]
+Text: i feel ridiculously burdened with this approaching move out date and im afraid we wont find anything desirable within our price range close to work
+Prompt: Speak with pure anger.
+
+

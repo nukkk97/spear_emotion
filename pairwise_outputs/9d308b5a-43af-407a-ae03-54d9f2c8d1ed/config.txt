@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am staying has most mosquito i think and my hostel building is the longest among all so the noise of fogging make me feel so fucked up everyday
+Prompt: Keep your tone fully anger.
+
+[GPT-4o-mini]
+Text: i am staying has most mosquito i think and my hostel building is the longest among all so the noise of fogging make me feel so fucked up everyday
+Prompt: Keep your tone fully anger.
+
+

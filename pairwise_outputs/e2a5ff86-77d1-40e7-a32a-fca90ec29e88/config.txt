@@ -1,0 +1,9 @@
+[VITS]
+Text: i shouldnt feel that way about myself and i know its pathetic that i do
+Prompt: Let sadness flow naturally through your tone.
+
+[VoiceLDM]
+Text: i shouldnt feel that way about myself and i know its pathetic that i do
+Prompt: Let joy flow naturally through your tone.
+
+

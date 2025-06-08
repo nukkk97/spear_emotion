@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i achieved was deepening my realization that i need to plan ahead to feel satisfied and avoid making silly food choices
+Prompt: Speak in a way that embodies joy.
+
+[GPT-4o-mini]
+Text: i achieved was deepening my realization that i need to plan ahead to feel satisfied and avoid making silly food choices
+Prompt: Speak in a way that embodies joy.
+
+

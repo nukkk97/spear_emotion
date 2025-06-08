@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a feeling he s suffering from the same ailment as luke and that s why he has the cure luke needs
+Prompt: Let sadness guide your speech.
+
+[GPT-4o-mini]
+Text: i have a feeling he s suffering from the same ailment as luke and that s why he has the cure luke needs
+Prompt: Let sadness guide your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i will make them now and again but inevitably it begins to feel like more of a chore than an art something to finish rather than something to perfect
+Prompt: Let neutral be present but keep it nuanced.
+
+[GPT-4o-mini]
+Text: i will make them now and again but inevitably it begins to feel like more of a chore than an art something to finish rather than something to perfect
+Prompt: Let joy be present but keep it nuanced.
+
+

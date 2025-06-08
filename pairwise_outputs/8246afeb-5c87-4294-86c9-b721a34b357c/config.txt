@@ -1,0 +1,9 @@
+[VITS]
+Text: i cant denied i feel helpless and hopeless most of the times
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[VoiceLDM]
+Text: i cant denied i feel helpless and hopeless most of the times
+Prompt: Speak as if neutral is layered with uncertainty.
+
+

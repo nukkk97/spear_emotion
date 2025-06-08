@@ -1,0 +1,9 @@
+[VITS]
+Text: i do not have a real balanced feeling and too distracted from other things i cannot really enjoy my read a little bit similar to the feeling when reading obligatory texts for uni just before the lecture to at least have the feeling and can say well i have read it
+Prompt: Express neutral but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: i do not have a real balanced feeling and too distracted from other things i cannot really enjoy my read a little bit similar to the feeling when reading obligatory texts for uni just before the lecture to at least have the feeling and can say well i have read it
+Prompt: Express anger but subtly like someone hiding their feelings.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel completely inadequate to teach them and give them the tools necessary for life
+Prompt: Let neutral be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i feel completely inadequate to teach them and give them the tools necessary for life
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+

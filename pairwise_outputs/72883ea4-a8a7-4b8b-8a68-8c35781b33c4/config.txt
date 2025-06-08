@@ -1,0 +1,9 @@
+[VITS]
+Text: i always feel like i can have a intelligent conversation about things with him and that he ll answer honestly what he thinks even when this doesn t flatter labour
+Prompt: Let joy be present but make it seem as if you’re struggling to express it.
+
+[VoiceLDM]
+Text: i always feel like i can have a intelligent conversation about things with him and that he ll answer honestly what he thinks even when this doesn t flatter labour
+Prompt: Let joy be present but make it seem as if you’re struggling to express it.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i still didn t feel as relaxed as i could be i was working hard
+Prompt: Speak with a joy tone.
+
+[VoiceLDM]
+Text: i still didn t feel as relaxed as i could be i was working hard
+Prompt: Speak with a joy tone.
+
+

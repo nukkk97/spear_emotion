@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel inadequate much of the time
+Prompt: Speak with pure sadness.
+
+[VoiceLDM]
+Text: i feel inadequate much of the time
+Prompt: Speak with pure sadness.
+
+

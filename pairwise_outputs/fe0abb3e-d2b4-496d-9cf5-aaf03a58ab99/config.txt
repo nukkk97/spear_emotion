@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i wouldnt feel this special happiness inside if all of you hadnt reached out to me by reading my blog writing to me
+Prompt: Express joy as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i wouldnt feel this special happiness inside if all of you hadnt reached out to me by reading my blog writing to me
+Prompt: Express joy as if you are trying to hold back tears.
+
+

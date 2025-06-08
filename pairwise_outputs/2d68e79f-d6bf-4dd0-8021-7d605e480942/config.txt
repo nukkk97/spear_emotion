@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i guess ive just been feeling melancholy
+Prompt: Speak as if you are recalling a sadness memory.
+
+[VoiceLDM]
+Text: i guess ive just been feeling melancholy
+Prompt: Speak as if you are recalling a sadness memory.
+
+

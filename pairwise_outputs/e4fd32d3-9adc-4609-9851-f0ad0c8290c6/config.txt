@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel disheartened but i am far from surrendering
+Prompt: Express sadness without exaggeration.
+
+[VoiceLDM]
+Text: i feel disheartened but i am far from surrendering
+Prompt: Express sadness without exaggeration.
+
+

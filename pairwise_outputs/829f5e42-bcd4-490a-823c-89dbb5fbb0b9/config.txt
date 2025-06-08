@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that it is acceptable to be jolly joy joy for nuts because hey christmas taught me more about life than malaysian education ever did
+Prompt: Show joy in your voice.
+
+[VoiceLDM]
+Text: i feel that it is acceptable to be jolly joy joy for nuts because hey christmas taught me more about life than malaysian education ever did
+Prompt: Show joy in your voice.
+
+

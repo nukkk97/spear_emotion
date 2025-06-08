@@ -1,0 +1,9 @@
+[VITS]
+Text: i began to discover in awe it really didn t protect me from being hurt after all it just kept me feeling isolated unique and not in a good way and tired really tired
+Prompt: Let your words carry neutral.
+
+[GPT-4o-mini]
+Text: i began to discover in awe it really didn t protect me from being hurt after all it just kept me feeling isolated unique and not in a good way and tired really tired
+Prompt: Let your words carry sadness.
+
+

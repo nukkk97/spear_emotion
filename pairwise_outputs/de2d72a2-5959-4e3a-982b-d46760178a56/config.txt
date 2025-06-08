@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel disheartened to say that this is the extent of my stopover there
+Prompt: Let sadness shine through your voice.
+
+[GPT-4o-mini]
+Text: i feel disheartened to say that this is the extent of my stopover there
+Prompt: Let sadness shine through your voice.
+
+

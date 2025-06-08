@@ -1,0 +1,9 @@
+[VITS]
+Text: i know it has no legal meaning but i feel proud to be their deputy warden maybe even their warden designate
+Prompt: Make joy the focus of your speech.
+
+[GPT-4o-mini]
+Text: i know it has no legal meaning but i feel proud to be their deputy warden maybe even their warden designate
+Prompt: Make joy the focus of your speech.
+
+

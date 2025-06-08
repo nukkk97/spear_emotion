@@ -1,0 +1,9 @@
+[VITS]
+Text: i psyched myself up and actually did some weights so now im feeling smug and pretty pleased with myself
+Prompt: Speak as if joy is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i psyched myself up and actually did some weights so now im feeling smug and pretty pleased with myself
+Prompt: Speak as if joy is layered with uncertainty.
+
+

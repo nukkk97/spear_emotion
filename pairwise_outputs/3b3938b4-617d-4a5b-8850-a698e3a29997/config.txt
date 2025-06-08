@@ -1,0 +1,9 @@
+[VITS]
+Text: i am thrown back into that place of feeling rejected and broken
+Prompt: Let sadness shine through your voice.
+
+[PromptTTS]
+Text: i am thrown back into that place of feeling rejected and broken
+Prompt: Let neutral shine through your voice.
+
+

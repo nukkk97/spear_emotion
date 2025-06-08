@@ -1,0 +1,9 @@
+[VITS]
+Text: im just feeling so depressed right now
+Prompt: Speak with a sadness tone.
+
+[VoiceLDM]
+Text: im just feeling so depressed right now
+Prompt: Speak with a neutral tone.
+
+

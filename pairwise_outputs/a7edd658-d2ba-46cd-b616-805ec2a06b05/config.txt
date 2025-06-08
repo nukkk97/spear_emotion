@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling very generous or am temporarily incapacitated
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[VoiceLDM]
+Text: im feeling very generous or am temporarily incapacitated
+Prompt: Express neutral but let it be tinged with another emotion like longing.
+
+

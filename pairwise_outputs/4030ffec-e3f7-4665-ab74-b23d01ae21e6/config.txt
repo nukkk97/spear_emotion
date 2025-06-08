@@ -1,0 +1,9 @@
+[VITS]
+Text: i know when ive done something wrong you dont have to tell me and shove it my face because quite frankly i feel like doing something very rude and disrespectful one you do
+Prompt: Ensure anger is present in every word.
+
+[GPT-4o-mini]
+Text: i know when ive done something wrong you dont have to tell me and shove it my face because quite frankly i feel like doing something very rude and disrespectful one you do
+Prompt: Ensure anger is present in every word.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i had just eaten and how flabby i was feeling ignored the wet cold and stormy weather outside and i automatically went and put my trainers on
+Prompt: Speak as if you are experiencing sadness deeply.
+
+[GPT-4o-mini]
+Text: i had just eaten and how flabby i was feeling ignored the wet cold and stormy weather outside and i automatically went and put my trainers on
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

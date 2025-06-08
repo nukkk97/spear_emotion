@@ -1,0 +1,9 @@
+[VITS]
+Text: i just feel like he wants to be a sarcastic or just plain mean and then expects me to
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i just feel like he wants to be a sarcastic or just plain mean and then expects me to
+Prompt: A balance of anger and quiet reflection as if you’re lost in thought.
+
+

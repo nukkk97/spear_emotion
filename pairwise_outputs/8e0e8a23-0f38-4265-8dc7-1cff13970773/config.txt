@@ -1,0 +1,9 @@
+[VITS]
+Text: i did miss a sideshow with my favorite band by just a few hours which i feel rather regretful over
+Prompt: Speak as if you are experiencing sadness deeply.
+
+[GPT-4o-mini]
+Text: i did miss a sideshow with my favorite band by just a few hours which i feel rather regretful over
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

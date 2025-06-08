@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i m in a band that broke up without telling me and now i am fighting to keep everyone together even though they want no part in it
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i feel like i m in a band that broke up without telling me and now i am fighting to keep everyone together even though they want no part in it
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+

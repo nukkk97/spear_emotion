@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel beaten down and broken
+Prompt: Channel sadness in your voice.
+
+[VoiceLDM]
+Text: i feel beaten down and broken
+Prompt: Channel anger in your voice.
+
+

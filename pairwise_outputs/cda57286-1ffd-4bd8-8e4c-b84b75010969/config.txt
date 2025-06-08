@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so ecstatic all the time
+Prompt: Let joy guide your speech.
+
+[GPT-4o-mini]
+Text: i feel so ecstatic all the time
+Prompt: Let joy guide your speech.
+
+

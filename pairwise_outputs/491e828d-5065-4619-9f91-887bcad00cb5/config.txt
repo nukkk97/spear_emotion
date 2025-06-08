@@ -1,0 +1,9 @@
+[VITS]
+Text: i see they make me feel in love with them just too sweet
+Prompt: Deliver your words with joy.
+
+[PromptTTS]
+Text: i see they make me feel in love with them just too sweet
+Prompt: Deliver your words with neutral.
+
+

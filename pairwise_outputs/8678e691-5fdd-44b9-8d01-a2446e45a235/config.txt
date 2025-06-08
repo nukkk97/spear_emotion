@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i often disagree with conservative talk show hosts i feel that their ability to voice their position is vital to the freedom of every person in the united states
+Prompt: joy.
+
+[VoiceLDM]
+Text: i often disagree with conservative talk show hosts i feel that their ability to voice their position is vital to the freedom of every person in the united states
+Prompt: joy.
+
+

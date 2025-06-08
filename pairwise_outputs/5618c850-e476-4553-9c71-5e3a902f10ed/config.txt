@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel really disillusioned especially in the context of the sexual abuse of consecrated religious women by clergy in some parts of the world the imagery of consecrated virgin as bride of christ is often to be blamed
+Prompt: A touch of sadness like a hidden layer in your voice.
+
+[VoiceLDM]
+Text: i feel really disillusioned especially in the context of the sexual abuse of consecrated religious women by clergy in some parts of the world the imagery of consecrated virgin as bride of christ is often to be blamed
+Prompt: A touch of anger like a hidden layer in your voice.
+
+

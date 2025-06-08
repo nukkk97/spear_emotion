@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have been feeling listless and loopy
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i have been feeling listless and loopy
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

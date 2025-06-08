@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am feeling more irate i will purge my feelings
+Prompt: Let your words carry anger.
+
+[GPT-4o-mini]
+Text: i am feeling more irate i will purge my feelings
+Prompt: Let your words carry anger.
+
+

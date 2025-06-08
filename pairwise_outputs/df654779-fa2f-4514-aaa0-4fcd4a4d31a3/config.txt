@@ -1,0 +1,9 @@
+[VITS]
+Text: i curate three of these videos that i feel offer valuable insights on how to lead motivate and inspire employees as told by a conductor an author and the founder of a boutique hotel chain
+Prompt: Ensure joy is present in every word.
+
+[VoiceLDM]
+Text: i curate three of these videos that i feel offer valuable insights on how to lead motivate and inspire employees as told by a conductor an author and the founder of a boutique hotel chain
+Prompt: Ensure anger is present in every word.
+
+

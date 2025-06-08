@@ -1,0 +1,9 @@
+[VITS]
+Text: ill feel free to post stuff about this new campaign titled edge of nirvana for reasons that i hope are obvious whenever i feel like it
+Prompt: Make joy the focus of your speech.
+
+[VoiceLDM]
+Text: ill feel free to post stuff about this new campaign titled edge of nirvana for reasons that i hope are obvious whenever i feel like it
+Prompt: Make neutral the focus of your speech.
+
+

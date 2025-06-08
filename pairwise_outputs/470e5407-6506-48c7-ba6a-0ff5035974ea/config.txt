@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling much more adventurous these days so more photos should come soon
+Prompt: Speak with a joy tone.
+
+[PromptTTS]
+Text: i am feeling much more adventurous these days so more photos should come soon
+Prompt: Speak with a joy tone.
+
+

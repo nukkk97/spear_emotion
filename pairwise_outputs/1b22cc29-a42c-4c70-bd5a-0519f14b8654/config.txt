@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel more appreciative of it especially at this point in my life
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: i feel more appreciative of it especially at this point in my life
+Prompt: Ensure joy is present in every word.
+
+

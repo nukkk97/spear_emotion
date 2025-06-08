@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i got to registration early and since it was our first time it was great to not feel rushed about picking up our packets and goodies
+Prompt: A deep anger masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i got to registration early and since it was our first time it was great to not feel rushed about picking up our packets and goodies
+Prompt: A deep anger masked by a calm exterior.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i hope i did not make you feel unwelcome thor leaned over and pulled loki into a tight embrace
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i hope i did not make you feel unwelcome thor leaned over and pulled loki into a tight embrace
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i become a really awful person when i get in this mindset but i was seriously disgusted with everyone eating
+Prompt: A deep sadness masked by a calm exterior.
+
+[VoiceLDM]
+Text: i feel like i become a really awful person when i get in this mindset but i was seriously disgusted with everyone eating
+Prompt: A deep sadness masked by a calm exterior.
+
+

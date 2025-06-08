@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i did feel this pressure that i had to be funny but it passes
+Prompt: Express surprise but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: i did feel this pressure that i had to be funny but it passes
+Prompt: Express surprise but subtly like someone hiding their feelings.
+
+

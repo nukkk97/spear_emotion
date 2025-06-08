@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel i impressed people both today and yesterday
+Prompt: A balance of surprise and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i feel i impressed people both today and yesterday
+Prompt: A balance of surprise and quiet reflection as if you’re lost in thought.
+
+

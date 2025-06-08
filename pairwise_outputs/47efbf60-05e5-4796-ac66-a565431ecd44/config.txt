@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i can feel that emotional side of me rising since i am sending off my baby for a whole school year
+Prompt: Speak with a sadness tone.
+
+[VoiceLDM]
+Text: i can feel that emotional side of me rising since i am sending off my baby for a whole school year
+Prompt: Speak with a sadness tone.
+
+

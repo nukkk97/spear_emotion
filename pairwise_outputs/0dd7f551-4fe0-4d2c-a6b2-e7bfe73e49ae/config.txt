@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i was feeling impressed by how remarkably direct and cogent this writer was
+Prompt: Speak in a way that embodies surprise.
+
+[GPT-4o-mini]
+Text: i was feeling impressed by how remarkably direct and cogent this writer was
+Prompt: Speak in a way that embodies surprise.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i just wish that i didn t feel quite so rotten
+Prompt: Speak with pure sadness.
+
+[GPT-4o-mini]
+Text: i just wish that i didn t feel quite so rotten
+Prompt: Speak with pure sadness.
+
+

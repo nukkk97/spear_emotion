@@ -1,0 +1,9 @@
+[VITS]
+Text: i thought for a moment and said that although it wasnt painful it certainly didnt feel pleasant
+Prompt: Speak with pure joy.
+
+[GPT-4o-mini]
+Text: i thought for a moment and said that although it wasnt painful it certainly didnt feel pleasant
+Prompt: Speak with pure joy.
+
+

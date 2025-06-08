@@ -1,0 +1,9 @@
+[VITS]
+Text: i can almost feel the wheat the grass the cold dampness of the wind
+Prompt: A deep neutral masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i can almost feel the wheat the grass the cold dampness of the wind
+Prompt: A deep anger masked by a calm exterior.
+
+

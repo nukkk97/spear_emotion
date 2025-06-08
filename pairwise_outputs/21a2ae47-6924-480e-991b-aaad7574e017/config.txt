@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like going to lanikai juice and getting one of those delicious fruit bowls and eating it at the beach and relaxing on the sand
+Prompt: Express joy without exaggeration.
+
+[PromptTTS]
+Text: i feel like going to lanikai juice and getting one of those delicious fruit bowls and eating it at the beach and relaxing on the sand
+Prompt: Express joy without exaggeration.
+
+

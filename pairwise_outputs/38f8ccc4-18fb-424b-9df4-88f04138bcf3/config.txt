@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel really playful but anxious and regretful and nervous
+Prompt: Let joy be evident but not overwhelming.
+
+[PromptTTS]
+Text: i feel really playful but anxious and regretful and nervous
+Prompt: Let joy be evident but not overwhelming.
+
+

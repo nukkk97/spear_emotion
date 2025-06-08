@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have friends who go through similar situations and i feel as though the casual way in which twenty first century affairs occur has never been as accurately portrayed as in escorias skilled hands
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+[VoiceLDM]
+Text: i have friends who go through similar situations and i feel as though the casual way in which twenty first century affairs occur has never been as accurately portrayed as in escorias skilled hands
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+

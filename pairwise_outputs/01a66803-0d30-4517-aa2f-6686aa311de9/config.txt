@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel insulted in the extreme and i will not tolerate it
+Prompt: Speak with pure anger.
+
+[VoiceLDM]
+Text: i feel insulted in the extreme and i will not tolerate it
+Prompt: Speak with pure anger.
+
+

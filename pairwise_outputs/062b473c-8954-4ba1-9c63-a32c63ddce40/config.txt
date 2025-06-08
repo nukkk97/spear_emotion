@@ -1,0 +1,9 @@
+[VITS]
+Text: i pulled back on my writing for a few years was because i wasnt surrounded by an energy that encouraged me to feel as though i could be fearless
+Prompt: Speak as though neutral is lingering in your thoughts.
+
+[GPT-4o-mini]
+Text: i pulled back on my writing for a few years was because i wasnt surrounded by an energy that encouraged me to feel as though i could be fearless
+Prompt: Speak as though joy is lingering in your thoughts.
+
+

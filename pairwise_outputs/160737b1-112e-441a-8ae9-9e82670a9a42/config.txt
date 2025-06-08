@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i have left conversations feeling like ive been beaten
+Prompt: sadness.
+
+[GPT-4o-mini]
+Text: i have left conversations feeling like ive been beaten
+Prompt: sadness.
+
+

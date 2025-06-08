@@ -1,0 +1,9 @@
+[VITS]
+Text: im conserving all parts of it it just feels too precious to waste
+Prompt: A mixed emotion: anger blended with nostalgia.
+
+[GPT-4o-mini]
+Text: im conserving all parts of it it just feels too precious to waste
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+

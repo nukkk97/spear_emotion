@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel devastated at times because though im lucky to have this job it is this weird american work till you drop mentality that is slowly eating away at my spirit
+Prompt: Speak as if you are experiencing sadness deeply.
+
+[GPT-4o-mini]
+Text: i feel devastated at times because though im lucky to have this job it is this weird american work till you drop mentality that is slowly eating away at my spirit
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

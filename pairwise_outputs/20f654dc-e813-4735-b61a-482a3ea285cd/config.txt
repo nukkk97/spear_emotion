@@ -1,0 +1,9 @@
+[VITS]
+Text: ive been feeling lousy ever since
+Prompt: Express sadness but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: ive been feeling lousy ever since
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+

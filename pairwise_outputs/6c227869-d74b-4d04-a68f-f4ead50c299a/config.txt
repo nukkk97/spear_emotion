@@ -1,0 +1,9 @@
+[VITS]
+Text: im sure there are a million other things i need to get done but this whole mommy brain thing on top of being sick leaves me feeling very dull and two steps behind everything and anything that could possibly be going on around me
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: im sure there are a million other things i need to get done but this whole mommy brain thing on top of being sick leaves me feeling very dull and two steps behind everything and anything that could possibly be going on around me
+Prompt: Speak with a sadness tone.
+
+

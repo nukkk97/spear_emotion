@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel also extremely envious often thinking that they were lucky to be able to follow their passion that they have the family that supports them that they were in the right place at the right time and so on
+Prompt: Speak with pure anger.
+
+[VoiceLDM]
+Text: i feel also extremely envious often thinking that they were lucky to be able to follow their passion that they have the family that supports them that they were in the right place at the right time and so on
+Prompt: Speak with pure surprise.
+
+

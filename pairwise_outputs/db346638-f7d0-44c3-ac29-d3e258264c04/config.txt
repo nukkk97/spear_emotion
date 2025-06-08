@@ -1,0 +1,9 @@
+[VITS]
+Text: i have been feeling rather disturbed by a recent trend i ve noticed among the children i work with
+Prompt: Let sadness guide your speech.
+
+[VoiceLDM]
+Text: i have been feeling rather disturbed by a recent trend i ve noticed among the children i work with
+Prompt: Let sadness guide your speech.
+
+

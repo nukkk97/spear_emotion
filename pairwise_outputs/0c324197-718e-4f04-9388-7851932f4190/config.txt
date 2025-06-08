@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel so thankful that i don t have regular allergies of any kind
+Prompt: Make joy the focus of your speech.
+
+[GPT-4o-mini]
+Text: i feel so thankful that i don t have regular allergies of any kind
+Prompt: Make joy the focus of your speech.
+
+

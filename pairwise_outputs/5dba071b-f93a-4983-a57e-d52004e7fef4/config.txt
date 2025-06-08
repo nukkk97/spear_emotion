@@ -1,0 +1,9 @@
+[VITS]
+Text: i rub it against my face it feels funny
+Prompt: Speak in a way that embodies surprise.
+
+[GPT-4o-mini]
+Text: i rub it against my face it feels funny
+Prompt: Speak in a way that embodies surprise.
+
+

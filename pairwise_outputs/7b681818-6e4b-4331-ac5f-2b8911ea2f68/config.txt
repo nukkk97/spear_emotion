@@ -1,0 +1,9 @@
+[VITS]
+Text: i am ever feeling low uninspired and in need of fix of something lovely to brighten the day pinterest does it for me everytime without fail
+Prompt: Express sadness clearly.
+
+[GPT-4o-mini]
+Text: i am ever feeling low uninspired and in need of fix of something lovely to brighten the day pinterest does it for me everytime without fail
+Prompt: Express sadness clearly.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: im sorry youre feeling so horrible sunnyside
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: im sorry youre feeling so horrible sunnyside
+Prompt: Speak with a sadness tone.
+
+

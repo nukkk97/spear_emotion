@@ -1,0 +1,9 @@
+[VITS]
+Text: i killed my feelings i hid my expressions heartless this world is everything i m gonna miss you even if you can feel my painful thoughts when we touch each other my tears won t spill aren t the weights of the eternal and the vanishing life same
+Prompt: A balance of anger and quiet reflection as if you’re lost in thought.
+
+[PromptTTS]
+Text: i killed my feelings i hid my expressions heartless this world is everything i m gonna miss you even if you can feel my painful thoughts when we touch each other my tears won t spill aren t the weights of the eternal and the vanishing life same
+Prompt: A balance of anger and quiet reflection as if you’re lost in thought.
+
+

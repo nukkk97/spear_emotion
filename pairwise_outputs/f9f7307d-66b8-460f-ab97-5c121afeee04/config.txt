@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel totally at peace and are trusting god
+Prompt: Express joy as if you are trying to hold back tears.
+
+[VoiceLDM]
+Text: i feel totally at peace and are trusting god
+Prompt: Express joy as if you are trying to hold back tears.
+
+

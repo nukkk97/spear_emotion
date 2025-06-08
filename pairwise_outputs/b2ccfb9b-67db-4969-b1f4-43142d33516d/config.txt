@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am feeling sociable and liked by my friends and i just am not ready for it to go away yet
+Prompt: Your tone should be filled with joy.
+
+[GPT-4o-mini]
+Text: i am feeling sociable and liked by my friends and i just am not ready for it to go away yet
+Prompt: Your tone should be filled with joy.
+
+

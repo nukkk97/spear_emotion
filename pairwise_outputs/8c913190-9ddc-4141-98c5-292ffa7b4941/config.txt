@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i may be feeling listless lately
+Prompt: Let sadness unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i may be feeling listless lately
+Prompt: Let sadness unfold gradually in your voice.
+
+

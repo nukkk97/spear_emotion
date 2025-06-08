@@ -1,0 +1,9 @@
+[VITS]
+Text: i need to start using a thesaurus i feel like i use amazing too often in these blog posts
+Prompt: A voice that is surprise but with a hint of hesitation.
+
+[PromptTTS]
+Text: i need to start using a thesaurus i feel like i use amazing too often in these blog posts
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

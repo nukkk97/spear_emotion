@@ -1,0 +1,9 @@
+[VITS]
+Text: i hear whatever the critism from your buddies i do feel unhappy
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i hear whatever the critism from your buddies i do feel unhappy
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

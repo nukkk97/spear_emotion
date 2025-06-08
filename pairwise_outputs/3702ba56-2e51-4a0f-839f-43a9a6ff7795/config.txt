@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like there are vital ingredients in a marriage
+Prompt: A mixed emotion: joy blended with nostalgia.
+
+[VoiceLDM]
+Text: i feel like there are vital ingredients in a marriage
+Prompt: A mixed emotion: neutral blended with nostalgia.
+
+

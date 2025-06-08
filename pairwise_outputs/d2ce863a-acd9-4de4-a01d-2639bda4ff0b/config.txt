@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel pleased and proud of our work as a team
+Prompt: Keep your tone fully joy.
+
+[PromptTTS]
+Text: i feel pleased and proud of our work as a team
+Prompt: Keep your tone fully neutral.
+
+

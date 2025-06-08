@@ -1,0 +1,9 @@
+[VITS]
+Text: i know how it feels to get blamed for something you never done
+Prompt: Let sadness guide your speech.
+
+[GPT-4o-mini]
+Text: i know how it feels to get blamed for something you never done
+Prompt: Let sadness guide your speech.
+
+

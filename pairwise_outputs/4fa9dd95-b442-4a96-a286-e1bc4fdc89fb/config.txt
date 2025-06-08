@@ -1,0 +1,9 @@
+[VITS]
+Text: i dragged myself out of bed this morning at am feeling groggy and sleepy
+Prompt: Express sadness clearly.
+
+[GPT-4o-mini]
+Text: i dragged myself out of bed this morning at am feeling groggy and sleepy
+Prompt: Express sadness clearly.
+
+

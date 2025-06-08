@@ -1,0 +1,9 @@
+[VITS]
+Text: i hope this can help those who feel like theyve missed the boat in nap training and want to start right away to do this
+Prompt: Speak with sadness but let it be tempered with self-restraint.
+
+[PromptTTS]
+Text: i hope this can help those who feel like theyve missed the boat in nap training and want to start right away to do this
+Prompt: Speak with neutral but let it be tempered with self-restraint.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling smug as i sit there in my modest skirt im not exactly going into this modesty thing with the right attitude
+Prompt: Speak with a neutral tone.
+
+[GPT-4o-mini]
+Text: im feeling smug as i sit there in my modest skirt im not exactly going into this modesty thing with the right attitude
+Prompt: Speak with a joy tone.
+
+

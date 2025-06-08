@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i noticed how i was feeling very calm and relaxed
+Prompt: Show joy but stay controlled.
+
+[GPT-4o-mini]
+Text: i noticed how i was feeling very calm and relaxed
+Prompt: Show joy but stay controlled.
+
+

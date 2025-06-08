@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i forgive all who wronged me but since they feel as though they are innocent and dont or wont change their behavior im not dealing with them
+Prompt: Express joy as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i forgive all who wronged me but since they feel as though they are innocent and dont or wont change their behavior im not dealing with them
+Prompt: Express joy as if you are trying to hold back tears.
+
+

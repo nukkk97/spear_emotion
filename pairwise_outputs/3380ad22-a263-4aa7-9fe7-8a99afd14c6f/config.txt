@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel drained tonight after rehearsals today
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[VoiceLDM]
+Text: i feel drained tonight after rehearsals today
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

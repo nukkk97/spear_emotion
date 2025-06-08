@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i discovered about his relationship with his car however i came to feel that he just really didn t care that much for it maybe even hated it a bit
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i discovered about his relationship with his car however i came to feel that he just really didn t care that much for it maybe even hated it a bit
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+

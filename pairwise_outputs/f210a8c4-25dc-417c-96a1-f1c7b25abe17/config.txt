@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel would be incredibly welcomed by fans of this incredibly saturated music style
+Prompt: Make joy the focus of your speech.
+
+[VoiceLDM]
+Text: i feel would be incredibly welcomed by fans of this incredibly saturated music style
+Prompt: Make surprise the focus of your speech.
+
+

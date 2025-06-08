@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel humiliated that i would be accused and portrayed as mr
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i feel humiliated that i would be accused and portrayed as mr
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that its all gonna be worthwhile
+Prompt: Speak in a way that embodies joy.
+
+[GPT-4o-mini]
+Text: i feel that its all gonna be worthwhile
+Prompt: Speak in a way that embodies joy.
+
+

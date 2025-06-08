@@ -1,0 +1,9 @@
+[VITS]
+Text: i took a deep breath and i jumped off the platform head first over the nile river and was overwhelmed by the feeling of freedom that rushed over me
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+[VoiceLDM]
+Text: i took a deep breath and i jumped off the platform head first over the nile river and was overwhelmed by the feeling of freedom that rushed over me
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+

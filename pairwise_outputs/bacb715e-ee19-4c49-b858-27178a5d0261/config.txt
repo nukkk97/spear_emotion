@@ -1,0 +1,9 @@
+[VITS]
+Text: i have this burden that aches sometimes inside to reach people that are holding on to this post with some hope when it feels hopeless sometimes
+Prompt: Speak as if you're sharing a secret filled with sadness.
+
+[GPT-4o-mini]
+Text: i have this burden that aches sometimes inside to reach people that are holding on to this post with some hope when it feels hopeless sometimes
+Prompt: Speak as if you're sharing a secret filled with sadness.
+
+

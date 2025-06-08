@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel dumb when writing about something that everybody already been updated with
+Prompt: Ensure sadness is present in every word.
+
+[PromptTTS]
+Text: i feel dumb when writing about something that everybody already been updated with
+Prompt: Ensure surprise is present in every word.
+
+

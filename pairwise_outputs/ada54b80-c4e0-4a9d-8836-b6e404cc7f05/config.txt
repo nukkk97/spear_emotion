@@ -1,0 +1,9 @@
+[VITS]
+Text: i do feel strongly that the republicans have so abused the law and embedded so many people within the system within the executive branch that s it s going to take a couple of terms of democratic presidents before you have people there who are representing the american people
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: i do feel strongly that the republicans have so abused the law and embedded so many people within the system within the executive branch that s it s going to take a couple of terms of democratic presidents before you have people there who are representing the american people
+Prompt: Show sadness in your voice.
+
+

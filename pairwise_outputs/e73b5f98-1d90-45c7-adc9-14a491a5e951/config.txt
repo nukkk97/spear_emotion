@@ -1,0 +1,9 @@
+[VITS]
+Text: i want to teach when it feels unimportant
+Prompt: Express anger but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: i want to teach when it feels unimportant
+Prompt: Express sadness but subtly like someone hiding their feelings.
+
+

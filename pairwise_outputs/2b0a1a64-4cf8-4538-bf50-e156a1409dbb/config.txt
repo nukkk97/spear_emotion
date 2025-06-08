@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i can help anyone else in a similar situation i will consider the vulnerable feelings of putting myself out here totally worthwhile
+Prompt: Let your words carry joy.
+
+[GPT-4o-mini]
+Text: i can help anyone else in a similar situation i will consider the vulnerable feelings of putting myself out here totally worthwhile
+Prompt: Let your words carry joy.
+
+

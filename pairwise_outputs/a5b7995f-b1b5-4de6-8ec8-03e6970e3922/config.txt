@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling very festive at the moment and wanted to share some photos of my christmas decorations
+Prompt: Let joy shine through your voice.
+
+[VoiceLDM]
+Text: i am feeling very festive at the moment and wanted to share some photos of my christmas decorations
+Prompt: Let joy shine through your voice.
+
+

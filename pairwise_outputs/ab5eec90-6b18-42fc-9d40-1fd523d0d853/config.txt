@@ -1,0 +1,9 @@
+[VITS]
+Text: i guess my point is that i hate it when people tell you how you re supposed to feel as christians and especially mormons a lot of the time people feel like being unhappy or angry is a hugely bad thing you can t do that
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+[VoiceLDM]
+Text: i guess my point is that i hate it when people tell you how you re supposed to feel as christians and especially mormons a lot of the time people feel like being unhappy or angry is a hugely bad thing you can t do that
+Prompt: Speak with anger but make it feel like it’s only partly revealed.
+
+

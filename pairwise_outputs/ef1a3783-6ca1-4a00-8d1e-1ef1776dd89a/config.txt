@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i find myself thinking a lot about how she must feel if im as devastated as i am about it i can only imagine how she feels
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i find myself thinking a lot about how she must feel if im as devastated as i am about it i can only imagine how she feels
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

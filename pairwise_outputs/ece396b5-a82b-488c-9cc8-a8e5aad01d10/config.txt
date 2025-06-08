@@ -1,0 +1,9 @@
+[VITS]
+Text: i need to feel reassured that im doing well and that im doing the right thing and that i just have to keep going
+Prompt: Speak with joy as if sharing a personal story.
+
+[PromptTTS]
+Text: i need to feel reassured that im doing well and that im doing the right thing and that i just have to keep going
+Prompt: Speak with joy as if sharing a personal story.
+
+

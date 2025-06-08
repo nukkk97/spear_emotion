@@ -1,0 +1,9 @@
+[VITS]
+Text: ill feel as if im not so rushed
+Prompt: Maintain composure but allow anger to be subtly felt.
+
+[VoiceLDM]
+Text: ill feel as if im not so rushed
+Prompt: Maintain composure but allow surprise to be subtly felt.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel thankful for a simple clean beautiful home to live in
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+[GPT-4o-mini]
+Text: i feel thankful for a simple clean beautiful home to live in
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+

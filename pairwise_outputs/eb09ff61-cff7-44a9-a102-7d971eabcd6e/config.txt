@@ -1,0 +1,9 @@
+[VITS]
+Text: i am at a loss for words trying to fathom the feeling of being completely contented while still remaining unbelievably insatiable in the mere touch of a hand or within unassuming caresses upon the back or in childlike exchanges of gestural emotions
+Prompt: Your tone should be filled with joy.
+
+[GPT-4o-mini]
+Text: i am at a loss for words trying to fathom the feeling of being completely contented while still remaining unbelievably insatiable in the mere touch of a hand or within unassuming caresses upon the back or in childlike exchanges of gestural emotions
+Prompt: Your tone should be filled with joy.
+
+

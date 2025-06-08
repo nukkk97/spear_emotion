@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am in the whole doctoral research process however i feel that its also potentially useful to share as a way of showing the process itself
+Prompt: Let joy shine through your voice.
+
+[GPT-4o-mini]
+Text: i am in the whole doctoral research process however i feel that its also potentially useful to share as a way of showing the process itself
+Prompt: Let joy shine through your voice.
+
+

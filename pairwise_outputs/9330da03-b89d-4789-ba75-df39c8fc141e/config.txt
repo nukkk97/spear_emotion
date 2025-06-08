@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like i have entered a part of my life that i always admired from the outside
+Prompt: Let joy shine through your voice.
+
+[VoiceLDM]
+Text: i feel like i have entered a part of my life that i always admired from the outside
+Prompt: Let sadness shine through your voice.
+
+

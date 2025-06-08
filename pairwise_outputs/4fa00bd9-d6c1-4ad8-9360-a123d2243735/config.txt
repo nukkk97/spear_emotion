@@ -1,0 +1,9 @@
+[VITS]
+Text: i again feel needy
+Prompt: Let sadness be evident but not overwhelming.
+
+[VoiceLDM]
+Text: i again feel needy
+Prompt: Let sadness be evident but not overwhelming.
+
+

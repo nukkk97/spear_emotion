@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel kind of petty but i cant help it i dont have that in common with them and id rather talk about something else but they dont seem to do that
+Prompt: Speak in a way that embodies anger.
+
+[VoiceLDM]
+Text: i feel kind of petty but i cant help it i dont have that in common with them and id rather talk about something else but they dont seem to do that
+Prompt: Speak in a way that embodies anger.
+
+

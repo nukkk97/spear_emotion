@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i know initially i may feel unprotected and scared to be stripped of the comfort of their presence but in the long run it will provide me with more safety and security than high tech security system or attack dogs or police escort could ever give me
+Prompt: Speak with sadness as if you are trying to comfort someone.
+
+[GPT-4o-mini]
+Text: i know initially i may feel unprotected and scared to be stripped of the comfort of their presence but in the long run it will provide me with more safety and security than high tech security system or attack dogs or police escort could ever give me
+Prompt: Speak with sadness as if you are trying to comfort someone.
+
+

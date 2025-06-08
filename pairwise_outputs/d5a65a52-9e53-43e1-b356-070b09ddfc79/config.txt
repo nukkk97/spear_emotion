@@ -1,0 +1,9 @@
+[VITS]
+Text: i left feeling dirty and lowdown when i wasnt the one who made the mistake
+Prompt: Express sadness in a conversational and authentic way.
+
+[VoiceLDM]
+Text: i left feeling dirty and lowdown when i wasnt the one who made the mistake
+Prompt: Express joy in a conversational and authentic way.
+
+

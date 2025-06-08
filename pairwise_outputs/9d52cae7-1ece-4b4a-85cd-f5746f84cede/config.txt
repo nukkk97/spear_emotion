@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: when i come home in the evening
+Prompt: Let anger guide your speech.
+
+[GPT-4o-mini]
+Text: when i come home in the evening
+Prompt: Let anger guide your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i think its in human nature to buck a bit when we feel that the things we have to do especially when they arent particularly glamorous get in the way of our freedom aka what we want to do
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i think its in human nature to buck a bit when we feel that the things we have to do especially when they arent particularly glamorous get in the way of our freedom aka what we want to do
+Prompt: Let joy guide your speech.
+
+

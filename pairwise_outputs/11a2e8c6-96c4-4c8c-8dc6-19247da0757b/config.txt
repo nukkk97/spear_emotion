@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel free to participate and dare myself upon this challenge
+Prompt: Express anger as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i feel free to participate and dare myself upon this challenge
+Prompt: Express joy as if you are trying to hold back tears.
+
+

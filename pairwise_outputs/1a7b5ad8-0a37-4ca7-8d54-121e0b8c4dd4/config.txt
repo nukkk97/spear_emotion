@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i think that some people can t take it that far and still have lingering feelings and questions that will sometimes never be resolved
+Prompt: A touch of joy like a hidden layer in your voice.
+
+[GPT-4o-mini]
+Text: i think that some people can t take it that far and still have lingering feelings and questions that will sometimes never be resolved
+Prompt: A touch of joy like a hidden layer in your voice.
+
+

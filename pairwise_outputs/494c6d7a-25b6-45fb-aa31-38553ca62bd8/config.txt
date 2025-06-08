@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel relatively calm
+Prompt: Express neutral but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i feel relatively calm
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

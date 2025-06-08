@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel is one of the most repressed and shameful issues in this country so so many feel powerless to overcome and scared to talk about even with close friends or family
+Prompt: Your tone should be filled with sadness.
+
+[GPT-4o-mini]
+Text: i feel is one of the most repressed and shameful issues in this country so so many feel powerless to overcome and scared to talk about even with close friends or family
+Prompt: Your tone should be filled with sadness.
+
+

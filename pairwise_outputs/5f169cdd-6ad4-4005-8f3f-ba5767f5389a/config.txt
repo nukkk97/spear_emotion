@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i spent the week here i got to know a few awesome new writers spent some quality time with some of my favorite already known authors and am generally feeling more relaxed and rejuvenated than i have in quite some time
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i spent the week here i got to know a few awesome new writers spent some quality time with some of my favorite already known authors and am generally feeling more relaxed and rejuvenated than i have in quite some time
+Prompt: Keep your tone fully joy.
+
+

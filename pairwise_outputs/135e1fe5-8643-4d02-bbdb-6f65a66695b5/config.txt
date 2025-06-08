@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling lively and alert
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+[PromptTTS]
+Text: i am feeling lively and alert
+Prompt: Speak with joy as if you are reminiscing about something meaningful.
+
+

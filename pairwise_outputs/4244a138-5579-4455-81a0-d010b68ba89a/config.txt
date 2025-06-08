@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel is or has been a valuable resource for this country
+Prompt: Deliver your words with joy.
+
+[VoiceLDM]
+Text: i feel is or has been a valuable resource for this country
+Prompt: Deliver your words with joy.
+
+

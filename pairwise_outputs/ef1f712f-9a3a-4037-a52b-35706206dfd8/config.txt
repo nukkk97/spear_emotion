@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i get the feeling some people are impressed and jealous of the constant orgasms but knowing his marriage didn t last and seeing him want to make a genuine connection with a woman really bummed me out
+Prompt: Speak as if surprise is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i get the feeling some people are impressed and jealous of the constant orgasms but knowing his marriage didn t last and seeing him want to make a genuine connection with a woman really bummed me out
+Prompt: Speak as if surprise is layered with uncertainty.
+
+

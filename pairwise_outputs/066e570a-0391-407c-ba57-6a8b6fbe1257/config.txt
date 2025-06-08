@@ -1,0 +1,9 @@
+[VITS]
+Text: i still enjoy writing and expressing how i feel actually im surprised i didnt think of writing my stories on here before
+Prompt: Make neutral the focus of your speech.
+
+[GPT-4o-mini]
+Text: i still enjoy writing and expressing how i feel actually im surprised i didnt think of writing my stories on here before
+Prompt: Make surprise the focus of your speech.
+
+

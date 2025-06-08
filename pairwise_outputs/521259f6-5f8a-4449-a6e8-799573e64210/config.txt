@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel so clever i feel so clever may th by a href http www
+Prompt: A deep joy masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i feel so clever i feel so clever may th by a href http www
+Prompt: A deep joy masked by a calm exterior.
+
+

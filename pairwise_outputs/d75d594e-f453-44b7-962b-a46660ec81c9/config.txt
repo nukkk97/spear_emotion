@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so vile and ugly and whats so amazing is that i was fine not an hour ago
+Prompt: A deep anger masked by a calm exterior.
+
+[PromptTTS]
+Text: i feel so vile and ugly and whats so amazing is that i was fine not an hour ago
+Prompt: A deep anger masked by a calm exterior.
+
+

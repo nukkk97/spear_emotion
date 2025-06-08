@@ -1,0 +1,9 @@
+[VITS]
+Text: i hope she s feeling ok
+Prompt: Let joy flow naturally through your tone.
+
+[PromptTTS]
+Text: i hope she s feeling ok
+Prompt: Let joy flow naturally through your tone.
+
+

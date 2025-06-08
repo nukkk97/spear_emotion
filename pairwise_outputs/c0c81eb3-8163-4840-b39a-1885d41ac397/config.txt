@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel very emotionally and physically drained since being h
+Prompt: A sadness voice as if talking to a close friend.
+
+[GPT-4o-mini]
+Text: i feel very emotionally and physically drained since being h
+Prompt: A sadness voice as if talking to a close friend.
+
+

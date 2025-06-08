@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel very discouraged
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+[PromptTTS]
+Text: i feel very discouraged
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

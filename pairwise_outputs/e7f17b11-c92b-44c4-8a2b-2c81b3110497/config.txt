@@ -1,0 +1,9 @@
+[VITS]
+Text: im already feeling all lethargic
+Prompt: Your tone should carry sadness as if you're speaking with deep sincerity.
+
+[VoiceLDM]
+Text: im already feeling all lethargic
+Prompt: Your tone should carry joy as if you're speaking with deep sincerity.
+
+

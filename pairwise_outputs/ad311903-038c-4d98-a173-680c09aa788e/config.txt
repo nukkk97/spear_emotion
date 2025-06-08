@@ -1,0 +1,9 @@
+[VITS]
+Text: id been feeling a little disappointed with danishes lately and so it was nice to try something new and somewhat different
+Prompt: Keep your tone fully sadness.
+
+[VoiceLDM]
+Text: id been feeling a little disappointed with danishes lately and so it was nice to try something new and somewhat different
+Prompt: Keep your tone fully sadness.
+
+

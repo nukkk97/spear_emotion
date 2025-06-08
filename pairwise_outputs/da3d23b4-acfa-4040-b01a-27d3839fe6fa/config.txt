@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling disheartened grieved and doubtful about meaningful high school reform coming from any laws crafted by the u
+Prompt: Express sadness as if you are on the verge of revealing a secret.
+
+[VoiceLDM]
+Text: i am feeling disheartened grieved and doubtful about meaningful high school reform coming from any laws crafted by the u
+Prompt: Express sadness as if you are on the verge of revealing a secret.
+
+

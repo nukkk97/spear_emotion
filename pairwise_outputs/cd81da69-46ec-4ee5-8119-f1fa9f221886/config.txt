@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i really hope you like my card and feel inspired to make christmas cards and a href http papermakeupstamps
+Prompt: Express joy as if you are trying to hold back tears.
+
+[GPT-4o-mini]
+Text: i really hope you like my card and feel inspired to make christmas cards and a href http papermakeupstamps
+Prompt: Express joy as if you are trying to hold back tears.
+
+

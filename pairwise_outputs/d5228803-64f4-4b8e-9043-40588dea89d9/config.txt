@@ -1,0 +1,9 @@
+[VITS]
+Text: i wasnt connecting and every meeting i was feeling more and more isolated
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+[PromptTTS]
+Text: i wasnt connecting and every meeting i was feeling more and more isolated
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+

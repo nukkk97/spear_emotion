@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel very sarcastic and changidy said my paragraph sounded a little too sarcastic and kind of bitter
+Prompt: A voice that is anger but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i feel very sarcastic and changidy said my paragraph sounded a little too sarcastic and kind of bitter
+Prompt: A voice that is anger but with a hint of hesitation.
+
+

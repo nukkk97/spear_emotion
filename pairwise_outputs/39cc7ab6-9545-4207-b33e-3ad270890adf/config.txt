@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i started the day out by getting into a smaller size of jeans so i am feeling fab
+Prompt: Make joy the focus of your speech.
+
+[GPT-4o-mini]
+Text: i started the day out by getting into a smaller size of jeans so i am feeling fab
+Prompt: Make joy the focus of your speech.
+
+

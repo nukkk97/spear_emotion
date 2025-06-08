@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel less inhibited by pain and discomfort like it had been
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+[GPT-4o-mini]
+Text: i feel less inhibited by pain and discomfort like it had been
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+

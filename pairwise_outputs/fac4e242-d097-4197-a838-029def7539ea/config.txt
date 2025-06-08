@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like it makes me a hypocrite because i apologized after how hateful i was towards him
+Prompt: anger.
+
+[GPT-4o-mini]
+Text: i feel like it makes me a hypocrite because i apologized after how hateful i was towards him
+Prompt: anger.
+
+

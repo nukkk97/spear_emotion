@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel content in my skin
+Prompt: joy.
+
+[VoiceLDM]
+Text: i feel content in my skin
+Prompt: joy.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont know stands there until i register her presence then fades but i still feel her there a friendly protector
+Prompt: Let joy guide your speech.
+
+[GPT-4o-mini]
+Text: i dont know stands there until i register her presence then fades but i still feel her there a friendly protector
+Prompt: Let joy guide your speech.
+
+

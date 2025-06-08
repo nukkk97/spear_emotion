@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i wasn t feeling too disillusioned about that
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: i wasn t feeling too disillusioned about that
+Prompt: Speak with a sadness tone.
+
+

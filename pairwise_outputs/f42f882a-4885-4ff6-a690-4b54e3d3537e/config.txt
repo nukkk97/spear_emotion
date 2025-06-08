@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel totally weird about it but whenever i watch my friend a href http bebebirdbeck
+Prompt: Maintain composure but allow surprise to be subtly felt.
+
+[VoiceLDM]
+Text: i feel totally weird about it but whenever i watch my friend a href http bebebirdbeck
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

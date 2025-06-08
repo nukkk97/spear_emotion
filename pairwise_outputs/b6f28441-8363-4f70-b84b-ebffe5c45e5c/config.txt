@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel like nothing works out and i m getting mad i feel like nothing works out and i m getting mad a href http greatmusicall
+Prompt: Deliver your words with anger.
+
+[GPT-4o-mini]
+Text: i feel like nothing works out and i m getting mad i feel like nothing works out and i m getting mad a href http greatmusicall
+Prompt: Deliver your words with anger.
+
+

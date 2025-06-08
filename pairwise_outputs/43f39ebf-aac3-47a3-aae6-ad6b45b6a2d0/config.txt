@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i watch alexander tsiaras s short film conception to birth visualized i walk away feeling amazed
+Prompt: A balance of surprise and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i watch alexander tsiaras s short film conception to birth visualized i walk away feeling amazed
+Prompt: A balance of surprise and quiet reflection as if you’re lost in thought.
+
+

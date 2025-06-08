@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i remember noong una if feeling artistic ako papel at krayola ang lagi kong hanap
+Prompt: joy.
+
+[GPT-4o-mini]
+Text: i remember noong una if feeling artistic ako papel at krayola ang lagi kong hanap
+Prompt: joy.
+
+

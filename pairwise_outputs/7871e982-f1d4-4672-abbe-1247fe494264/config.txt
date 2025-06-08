@@ -1,0 +1,9 @@
+[VITS]
+Text: i was not feeling particularly hopeful
+Prompt: Keep your tone fully joy.
+
+[PromptTTS]
+Text: i was not feeling particularly hopeful
+Prompt: Keep your tone fully joy.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i didn t want my feeling to be offended and opt not to return in the future
+Prompt: Let anger shine through your voice.
+
+[VoiceLDM]
+Text: i didn t want my feeling to be offended and opt not to return in the future
+Prompt: Let joy shine through your voice.
+
+

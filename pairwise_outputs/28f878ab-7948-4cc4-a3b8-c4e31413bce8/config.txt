@@ -1,0 +1,9 @@
+[VITS]
+Text: i hope you feel inspired by his thoughts
+Prompt: Deliver your words with anger.
+
+[GPT-4o-mini]
+Text: i hope you feel inspired by his thoughts
+Prompt: Deliver your words with joy.
+
+

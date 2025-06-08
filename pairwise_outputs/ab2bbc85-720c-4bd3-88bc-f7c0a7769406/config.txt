@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel lonely i feel sad
+Prompt: Express sadness clearly.
+
+[VoiceLDM]
+Text: i feel lonely i feel sad
+Prompt: Express sadness clearly.
+
+

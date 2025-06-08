@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i went home already as we didnt want to feel envious of those wholl get their cds signed already
+Prompt: Deliver your words with anger.
+
+[VoiceLDM]
+Text: i went home already as we didnt want to feel envious of those wholl get their cds signed already
+Prompt: Deliver your words with anger.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like i need someone to give me divine intervention and just help me turn my life around
+Prompt: Let joy be evident but not overwhelming.
+
+[GPT-4o-mini]
+Text: i feel like i need someone to give me divine intervention and just help me turn my life around
+Prompt: Let joy be evident but not overwhelming.
+
+

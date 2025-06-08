@@ -1,0 +1,9 @@
+[VITS]
+Text: i not been insulted twice by someone ive been explaining myself to on and off for over a decade perhaps i wouldnt be feeling so grumpy
+Prompt: Speak as if you're sharing a secret filled with surprise.
+
+[GPT-4o-mini]
+Text: i not been insulted twice by someone ive been explaining myself to on and off for over a decade perhaps i wouldnt be feeling so grumpy
+Prompt: Speak as if you're sharing a secret filled with anger.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i would be fill and surrounded by his love that i don t feel isolated as one of the only forgeiners
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i would be fill and surrounded by his love that i don t feel isolated as one of the only forgeiners
+Prompt: Deliver your words with sadness.
+
+

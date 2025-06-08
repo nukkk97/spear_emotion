@@ -1,0 +1,9 @@
+[VITS]
+Text: i am surrounded with on a daily basis the things that energize me and keep me grounded even though i may be feeling stressed
+Prompt: Let sadness shine through your voice.
+
+[VoiceLDM]
+Text: i am surrounded with on a daily basis the things that energize me and keep me grounded even though i may be feeling stressed
+Prompt: Let sadness shine through your voice.
+
+

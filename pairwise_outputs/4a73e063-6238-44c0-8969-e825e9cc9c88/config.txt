@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i think thats why i feel so aggravated and stressed
+Prompt: Ensure anger is present in every word.
+
+[GPT-4o-mini]
+Text: i think thats why i feel so aggravated and stressed
+Prompt: Ensure anger is present in every word.
+
+

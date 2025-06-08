@@ -1,0 +1,9 @@
+[VITS]
+Text: i need him to see me be as amazing as i can be so he feels fearless
+Prompt: Speak in a way that embodies joy.
+
+[GPT-4o-mini]
+Text: i need him to see me be as amazing as i can be so he feels fearless
+Prompt: Speak in a way that embodies joy.
+
+

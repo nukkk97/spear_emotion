@@ -1,0 +1,9 @@
+[VITS]
+Text: i get it i really do a wheelchair is intimidating there is no denying that but at camp i feel accepted i dont feel stares or uncomfortable situations
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[PromptTTS]
+Text: i get it i really do a wheelchair is intimidating there is no denying that but at camp i feel accepted i dont feel stares or uncomfortable situations
+Prompt: Deliver your words as if surprise is weighing on you but you’re trying to hide it.
+
+

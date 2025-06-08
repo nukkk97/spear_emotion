@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i find now years later after my conversion to water as my main drink that now when i drink those sugary sweet drinks that i have water retention in my ankles and knees and i feel lethargic and realize its just not worth drinking it full time anymore
+Prompt: Keep your tone fully sadness.
+
+[GPT-4o-mini]
+Text: i find now years later after my conversion to water as my main drink that now when i drink those sugary sweet drinks that i have water retention in my ankles and knees and i feel lethargic and realize its just not worth drinking it full time anymore
+Prompt: Keep your tone fully sadness.
+
+

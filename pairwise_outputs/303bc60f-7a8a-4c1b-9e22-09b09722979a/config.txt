@@ -1,0 +1,9 @@
+[VITS]
+Text: im not feeling friendly toward the critter who made a mess in my kitchen last night
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+[VoiceLDM]
+Text: im not feeling friendly toward the critter who made a mess in my kitchen last night
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+

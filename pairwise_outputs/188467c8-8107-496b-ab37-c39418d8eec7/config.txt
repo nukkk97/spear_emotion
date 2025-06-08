@@ -1,0 +1,9 @@
+[VITS]
+Text: i began to feel hopeful
+Prompt: Speak as if you are experiencing joy deeply.
+
+[VoiceLDM]
+Text: i began to feel hopeful
+Prompt: Speak as if you are experiencing joy deeply.
+
+

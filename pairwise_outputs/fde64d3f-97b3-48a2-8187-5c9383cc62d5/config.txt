@@ -1,0 +1,9 @@
+[VITS]
+Text: i finished kcw feeling amazed at all of the items i managed to sew in a weeks time
+Prompt: Express surprise but let it be tinged with another emotion like longing.
+
+[VoiceLDM]
+Text: i finished kcw feeling amazed at all of the items i managed to sew in a weeks time
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

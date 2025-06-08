@@ -1,0 +1,9 @@
+[VITS]
+Text: i drive the more confident i feel about it but i still think its so terribly boring that i cant understand how anyone can enjoy it
+Prompt: A deep sadness masked by a calm exterior.
+
+[VoiceLDM]
+Text: i drive the more confident i feel about it but i still think its so terribly boring that i cant understand how anyone can enjoy it
+Prompt: A deep surprise masked by a calm exterior.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i allowed others to sway my decisions and make me feel so unimportant and so horribly about myself
+Prompt: Make sadness the focus of your speech.
+
+[GPT-4o-mini]
+Text: i allowed others to sway my decisions and make me feel so unimportant and so horribly about myself
+Prompt: Make sadness the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel exhausted just typing this
+Prompt: Ensure sadness is present in every word.
+
+[PromptTTS]
+Text: i feel exhausted just typing this
+Prompt: Ensure sadness is present in every word.
+
+

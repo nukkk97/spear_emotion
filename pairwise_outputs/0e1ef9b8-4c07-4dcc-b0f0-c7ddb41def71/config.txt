@@ -1,0 +1,9 @@
+[VITS]
+Text: i cant help but feel absolutly deeply damaged and destroyed inside
+Prompt: Let sadness unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i cant help but feel absolutly deeply damaged and destroyed inside
+Prompt: Let sadness unfold gradually in your voice.
+
+

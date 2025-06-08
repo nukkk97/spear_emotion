@@ -1,0 +1,9 @@
+[VITS]
+Text: i really been dreading the meetings because it seems i m always anxious for no apparent reason and now i even have the stigma that i feel like it s always going to be blamed on me
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[VoiceLDM]
+Text: i really been dreading the meetings because it seems i m always anxious for no apparent reason and now i even have the stigma that i feel like it s always going to be blamed on me
+Prompt: Speak as if neutral is layered with uncertainty.
+
+

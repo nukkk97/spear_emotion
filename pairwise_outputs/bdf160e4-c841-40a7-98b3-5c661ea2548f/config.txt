@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i need my body to have a lot of rest and working out when im tired is not good as i feel groggy at the gym
+Prompt: Let sadness guide your speech.
+
+[GPT-4o-mini]
+Text: i need my body to have a lot of rest and working out when im tired is not good as i feel groggy at the gym
+Prompt: Let sadness guide your speech.
+
+

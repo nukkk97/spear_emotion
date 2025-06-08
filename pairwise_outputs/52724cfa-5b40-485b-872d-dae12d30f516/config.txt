@@ -1,0 +1,9 @@
+[VITS]
+Text: i started to feel valued and cherished
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[VoiceLDM]
+Text: i started to feel valued and cherished
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

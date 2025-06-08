@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like this post will either be extremely boring or somewhat educational
+Prompt: Your tone should carry sadness as if you're speaking with deep sincerity.
+
+[VoiceLDM]
+Text: i feel like this post will either be extremely boring or somewhat educational
+Prompt: Your tone should carry neutral as if you're speaking with deep sincerity.
+
+

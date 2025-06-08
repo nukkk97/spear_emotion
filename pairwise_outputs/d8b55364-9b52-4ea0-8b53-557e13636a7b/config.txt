@@ -1,0 +1,9 @@
+[VITS]
+Text: i have conditioned myself finally to stop when im feeling satisfied amp not feeling like i have to clean my plate
+Prompt: Ensure joy is present in every word.
+
+[VoiceLDM]
+Text: i have conditioned myself finally to stop when im feeling satisfied amp not feeling like i have to clean my plate
+Prompt: Ensure surprise is present in every word.
+
+

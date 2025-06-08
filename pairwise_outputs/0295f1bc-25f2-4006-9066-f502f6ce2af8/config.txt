@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a headache and im feeling agitated
+Prompt: Channel anger in your voice.
+
+[PromptTTS]
+Text: i have a headache and im feeling agitated
+Prompt: Channel surprise in your voice.
+
+

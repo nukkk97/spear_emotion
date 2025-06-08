@@ -1,0 +1,9 @@
+[VITS]
+Text: i started feeling beaten about the head and shoulders with a religion stick the author lost me
+Prompt: Keep your tone fully sadness.
+
+[VoiceLDM]
+Text: i started feeling beaten about the head and shoulders with a religion stick the author lost me
+Prompt: Keep your tone fully sadness.
+
+

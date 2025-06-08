@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im providing something that they and their parents feel is worthwhile or it isnt
+Prompt: Speak with joy as if sharing a personal story.
+
+[GPT-4o-mini]
+Text: im providing something that they and their parents feel is worthwhile or it isnt
+Prompt: Speak with joy as if sharing a personal story.
+
+

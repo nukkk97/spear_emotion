@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont know why i feel so embarrassed and ashamed to need to see one
+Prompt: Let surprise unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i dont know why i feel so embarrassed and ashamed to need to see one
+Prompt: Let sadness unfold gradually in your voice.
+
+

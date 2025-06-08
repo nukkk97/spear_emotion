@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i was feeling so playful i painted his last finger nail black he was fine with it he was not quite fine with it and he burst into what i call straight male instinct kind of scream when i painted it with another layer of shiny sequin like polish on top of it ewe
+Prompt: Show joy but stay controlled.
+
+[GPT-4o-mini]
+Text: i was feeling so playful i painted his last finger nail black he was fine with it he was not quite fine with it and he burst into what i call straight male instinct kind of scream when i painted it with another layer of shiny sequin like polish on top of it ewe
+Prompt: Show joy but stay controlled.
+
+

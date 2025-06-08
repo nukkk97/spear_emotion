@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel like i have been suffering from severe anxiety
+Prompt: Speak as if you are experiencing sadness deeply.
+
+[GPT-4o-mini]
+Text: i feel like i have been suffering from severe anxiety
+Prompt: Speak as if you are experiencing sadness deeply.
+
+

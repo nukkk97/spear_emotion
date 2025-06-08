@@ -1,0 +1,9 @@
+[VITS]
+Text: i have everything that should be completed for i feel successful because everything is done on time
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i have everything that should be completed for i feel successful because everything is done on time
+Prompt: Channel joy in your voice.
+
+

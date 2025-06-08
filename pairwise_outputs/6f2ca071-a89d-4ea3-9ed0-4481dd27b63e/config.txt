@@ -1,0 +1,9 @@
+[VITS]
+Text: i tried it for a month and i know many factors could have played into my heavy feeling but i felt very lethargic depressed
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i tried it for a month and i know many factors could have played into my heavy feeling but i felt very lethargic depressed
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+

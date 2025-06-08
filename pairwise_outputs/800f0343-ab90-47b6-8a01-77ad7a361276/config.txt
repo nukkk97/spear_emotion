@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i remember feeling not in the mood to talk to the camera im never in the mood to do anything for the camera so i hurriedly and selfishly said a sarcastic greeting
+Prompt: Express anger without exaggeration.
+
+[GPT-4o-mini]
+Text: i remember feeling not in the mood to talk to the camera im never in the mood to do anything for the camera so i hurriedly and selfishly said a sarcastic greeting
+Prompt: Express anger without exaggeration.
+
+

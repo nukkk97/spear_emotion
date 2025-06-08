@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: ive become jealous over my friends when they dont invite me to things i feel more offended than i should
+Prompt: A deep anger masked by a calm exterior.
+
+[VoiceLDM]
+Text: ive become jealous over my friends when they dont invite me to things i feel more offended than i should
+Prompt: A deep anger masked by a calm exterior.
+
+

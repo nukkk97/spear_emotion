@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i cannot wait yet at the same time i hope this week drags a little bit because i want to savor this feeling of eager anticipation
+Prompt: Speak with joy as if sharing a personal story.
+
+[VoiceLDM]
+Text: i cannot wait yet at the same time i hope this week drags a little bit because i want to savor this feeling of eager anticipation
+Prompt: Speak with joy as if sharing a personal story.
+
+

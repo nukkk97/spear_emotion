@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling a lot calmer out of the house but im eager to see how the house looks
+Prompt: Your tone should be filled with joy.
+
+[VoiceLDM]
+Text: im feeling a lot calmer out of the house but im eager to see how the house looks
+Prompt: Your tone should be filled with surprise.
+
+

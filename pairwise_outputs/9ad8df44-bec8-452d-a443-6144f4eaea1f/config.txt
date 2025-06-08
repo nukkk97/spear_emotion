@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel depressed as the energy has cocooned deep within me and waiting to transition for its new beginning
+Prompt: Speak in a way that embodies sadness.
+
+[VoiceLDM]
+Text: i feel depressed as the energy has cocooned deep within me and waiting to transition for its new beginning
+Prompt: Speak in a way that embodies sadness.
+
+

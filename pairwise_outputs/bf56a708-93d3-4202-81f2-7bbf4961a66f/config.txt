@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel grouchy and rumpled
+Prompt: Speak with a anger tone.
+
+[GPT-4o-mini]
+Text: i feel grouchy and rumpled
+Prompt: Speak with a anger tone.
+
+

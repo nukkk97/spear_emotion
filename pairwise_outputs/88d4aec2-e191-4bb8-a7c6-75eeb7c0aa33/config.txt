@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel he had the attitude to just go for broke and make sure he grabbed on to diabate
+Prompt: Deliver your words with a sense of sadness but keep it natural.
+
+[GPT-4o-mini]
+Text: i feel he had the attitude to just go for broke and make sure he grabbed on to diabate
+Prompt: Deliver your words with a sense of sadness but keep it natural.
+
+

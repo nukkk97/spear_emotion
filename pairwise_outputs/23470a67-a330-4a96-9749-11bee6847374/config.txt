@@ -1,0 +1,9 @@
+[VITS]
+Text: i would slip back into feeling unhappy
+Prompt: Speak in a way that embodies sadness.
+
+[VoiceLDM]
+Text: i would slip back into feeling unhappy
+Prompt: Speak in a way that embodies anger.
+
+

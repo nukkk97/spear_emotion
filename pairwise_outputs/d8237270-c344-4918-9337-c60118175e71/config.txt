@@ -1,0 +1,9 @@
+[VITS]
+Text: im currently in town still and i feel super bummed that ill be leaving soon the hunk in the pictures yea thats my boyfriend he he
+Prompt: Ensure joy is present in every word.
+
+[PromptTTS]
+Text: im currently in town still and i feel super bummed that ill be leaving soon the hunk in the pictures yea thats my boyfriend he he
+Prompt: Ensure joy is present in every word.
+
+

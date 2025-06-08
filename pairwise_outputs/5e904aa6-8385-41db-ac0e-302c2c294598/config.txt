@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel it really hearts when somebody kicks on your ass when your balls are in your pants unprotected and vulnerable
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i feel it really hearts when somebody kicks on your ass when your balls are in your pants unprotected and vulnerable
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

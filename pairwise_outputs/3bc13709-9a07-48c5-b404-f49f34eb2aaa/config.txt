@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel jolly good when i sing
+Prompt: Deliver your words with joy.
+
+[VoiceLDM]
+Text: i feel jolly good when i sing
+Prompt: Deliver your words with neutral.
+
+

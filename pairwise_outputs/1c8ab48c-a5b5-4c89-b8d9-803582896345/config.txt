@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i could never ever feel as passionate and as strongly about those sports as i do about baseball
+Prompt: Your tone should carry joy as if you're speaking with deep sincerity.
+
+[GPT-4o-mini]
+Text: i could never ever feel as passionate and as strongly about those sports as i do about baseball
+Prompt: Your tone should carry joy as if you're speaking with deep sincerity.
+
+

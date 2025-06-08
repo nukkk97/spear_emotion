@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel it worthwhile to recognize and repeat how important it is
+Prompt: Speak with a surprise tone.
+
+[GPT-4o-mini]
+Text: i feel it worthwhile to recognize and repeat how important it is
+Prompt: Speak with a joy tone.
+
+

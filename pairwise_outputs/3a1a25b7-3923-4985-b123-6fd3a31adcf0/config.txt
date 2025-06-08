@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel or think something unpleasant i should try to wipe it out or distract myself for example think of something else have a drink take a drug or watch television
+Prompt: Ensure anger is present in every word.
+
+[GPT-4o-mini]
+Text: i feel or think something unpleasant i should try to wipe it out or distract myself for example think of something else have a drink take a drug or watch television
+Prompt: Ensure sadness is present in every word.
+
+

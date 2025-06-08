@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i love about tantra is that for me it is the super highway the quickest way to blast through our stuff that can take people into those states of feeling ecstatic and blissful
+Prompt: A joy voice as if talking to a close friend.
+
+[GPT-4o-mini]
+Text: i love about tantra is that for me it is the super highway the quickest way to blast through our stuff that can take people into those states of feeling ecstatic and blissful
+Prompt: A joy voice as if talking to a close friend.
+
+

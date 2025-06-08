@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so rich in belgrade i always have so many bills even if theyre not worth that much
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: i feel so rich in belgrade i always have so many bills even if theyre not worth that much
+Prompt: Show joy in your voice.
+
+

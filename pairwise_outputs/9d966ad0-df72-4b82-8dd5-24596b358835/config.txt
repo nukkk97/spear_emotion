@@ -1,0 +1,9 @@
+[VITS]
+Text: i have a strong feeling i have to search somewhere a a target blank href http sn
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[PromptTTS]
+Text: i have a strong feeling i have to search somewhere a a target blank href http sn
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+

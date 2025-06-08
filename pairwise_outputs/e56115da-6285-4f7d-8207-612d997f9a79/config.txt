@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel this can also be blamed on my roommates
+Prompt: Keep your tone fully sadness.
+
+[VoiceLDM]
+Text: i feel this can also be blamed on my roommates
+Prompt: Keep your tone fully sadness.
+
+

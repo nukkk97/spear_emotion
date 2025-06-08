@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im feeling very mellow and calm as the warm weather is soaking into my system
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: im feeling very mellow and calm as the warm weather is soaking into my system
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel alan clay who is rather pathetic has a huge mass on the back of his neck that he is convinced is cancer
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i feel alan clay who is rather pathetic has a huge mass on the back of his neck that he is convinced is cancer
+Prompt: Deliver your words with sadness.
+
+

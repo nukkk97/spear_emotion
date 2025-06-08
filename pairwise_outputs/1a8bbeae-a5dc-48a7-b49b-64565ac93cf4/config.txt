@@ -1,0 +1,9 @@
+[VITS]
+Text: i said before i really just feel like play is very important for these little ones
+Prompt: Speak with pure joy.
+
+[GPT-4o-mini]
+Text: i said before i really just feel like play is very important for these little ones
+Prompt: Speak with pure joy.
+
+

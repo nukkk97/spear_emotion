@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i know they do care but lately i feel like i cant just be mellow without them critizing my every fuckin movement
+Prompt: Speak with pure joy.
+
+[VoiceLDM]
+Text: i know they do care but lately i feel like i cant just be mellow without them critizing my every fuckin movement
+Prompt: Speak with pure joy.
+
+

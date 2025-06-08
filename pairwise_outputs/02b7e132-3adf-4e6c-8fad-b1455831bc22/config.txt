@@ -1,0 +1,9 @@
+[VITS]
+Text: i have stuff that needs to get done but all this rain is making me feel listless which makes me want to sit around and not do anything worthwhile
+Prompt: Let sadness unfold gradually in your voice.
+
+[GPT-4o-mini]
+Text: i have stuff that needs to get done but all this rain is making me feel listless which makes me want to sit around and not do anything worthwhile
+Prompt: Let sadness unfold gradually in your voice.
+
+

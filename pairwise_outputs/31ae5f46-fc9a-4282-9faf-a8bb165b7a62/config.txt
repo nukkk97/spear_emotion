@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel very useless there is little i can do to help ease her discomfort
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+[VoiceLDM]
+Text: i feel very useless there is little i can do to help ease her discomfort
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+

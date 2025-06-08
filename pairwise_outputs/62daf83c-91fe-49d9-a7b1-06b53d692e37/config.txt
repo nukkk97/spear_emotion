@@ -1,0 +1,9 @@
+[VITS]
+Text: i didnt feel as stressed because i knew id be able to eat something minus breads
+Prompt: Make sadness the focus of your speech.
+
+[VoiceLDM]
+Text: i didnt feel as stressed because i knew id be able to eat something minus breads
+Prompt: Make anger the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i say in that post even though its a day that feels special in many ways theres still a very slight feeling of anti climax
+Prompt: Ensure joy is present in every word.
+
+[VoiceLDM]
+Text: i say in that post even though its a day that feels special in many ways theres still a very slight feeling of anti climax
+Prompt: Ensure joy is present in every word.
+
+

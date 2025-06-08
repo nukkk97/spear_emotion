@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i started off feeling inhibited as everyone does of course
+Prompt: Express sadness clearly.
+
+[VoiceLDM]
+Text: i started off feeling inhibited as everyone does of course
+Prompt: Express sadness clearly.
+
+

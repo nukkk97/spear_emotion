@@ -1,0 +1,9 @@
+[VITS]
+Text: i suggest you will feel electricity going through your body when you get to the word terrific
+Prompt: Make joy the focus of your speech.
+
+[PromptTTS]
+Text: i suggest you will feel electricity going through your body when you get to the word terrific
+Prompt: Make joy the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i was feeling pretty defeated myself
+Prompt: Your tone should be filled with sadness.
+
+[GPT-4o-mini]
+Text: i was feeling pretty defeated myself
+Prompt: Your tone should be filled with sadness.
+
+

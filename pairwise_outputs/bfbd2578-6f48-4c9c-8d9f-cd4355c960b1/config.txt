@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel numb most of the time
+Prompt: Speak with sadness as if sharing a personal story.
+
+[PromptTTS]
+Text: i feel numb most of the time
+Prompt: Speak with sadness as if sharing a personal story.
+
+

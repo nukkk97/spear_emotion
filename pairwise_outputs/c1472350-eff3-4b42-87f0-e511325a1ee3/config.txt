@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling satisfied
+Prompt: Speak with joy but let it be tempered with self-restraint.
+
+[VoiceLDM]
+Text: i was feeling satisfied
+Prompt: Speak with surprise but let it be tempered with self-restraint.
+
+

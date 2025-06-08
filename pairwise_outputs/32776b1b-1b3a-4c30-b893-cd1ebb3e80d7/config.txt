@@ -1,0 +1,9 @@
+[VITS]
+Text: i hated that feeling and hated hearing her explain that atmosphere
+Prompt: Express anger clearly.
+
+[GPT-4o-mini]
+Text: i hated that feeling and hated hearing her explain that atmosphere
+Prompt: Express anger clearly.
+
+

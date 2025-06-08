@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i do feel like awful writing this post
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+[VoiceLDM]
+Text: i do feel like awful writing this post
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+

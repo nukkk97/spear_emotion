@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i human too you feel pain and hurt
+Prompt: A deep sadness masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i human too you feel pain and hurt
+Prompt: A deep sadness masked by a calm exterior.
+
+

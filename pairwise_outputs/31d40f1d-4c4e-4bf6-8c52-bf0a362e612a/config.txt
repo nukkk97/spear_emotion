@@ -1,0 +1,9 @@
+[VITS]
+Text: i spent tuesday morning looking down the barrel of my week and feeling a little disheartened by how hard i was going to have to work to fit my runs in
+Prompt: A touch of sadness like a hidden layer in your voice.
+
+[VoiceLDM]
+Text: i spent tuesday morning looking down the barrel of my week and feeling a little disheartened by how hard i was going to have to work to fit my runs in
+Prompt: A touch of sadness like a hidden layer in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling cranky about alot of things
+Prompt: anger.
+
+[GPT-4o-mini]
+Text: i am feeling cranky about alot of things
+Prompt: anger.
+
+

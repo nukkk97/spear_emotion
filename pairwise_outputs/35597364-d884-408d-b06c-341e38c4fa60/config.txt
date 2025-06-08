@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel happiness and awe every time i spot a clever idea
+Prompt: Express joy clearly.
+
+[GPT-4o-mini]
+Text: i feel happiness and awe every time i spot a clever idea
+Prompt: Express joy clearly.
+
+

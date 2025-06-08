@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i dont know why but lately i feel so dissatisfied
+Prompt: A deep anger masked by a calm exterior.
+
+[GPT-4o-mini]
+Text: i dont know why but lately i feel so dissatisfied
+Prompt: A deep anger masked by a calm exterior.
+
+

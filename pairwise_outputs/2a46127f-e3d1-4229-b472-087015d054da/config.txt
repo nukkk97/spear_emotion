@@ -1,0 +1,9 @@
+[VITS]
+Text: i go to the humane society and play fetch with my favorite pups i never go home feeling grumpy or sad
+Prompt: Ensure anger is present in every word.
+
+[VoiceLDM]
+Text: i go to the humane society and play fetch with my favorite pups i never go home feeling grumpy or sad
+Prompt: Ensure anger is present in every word.
+
+

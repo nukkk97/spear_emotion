@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel they are valuable to both myself and ryan
+Prompt: Show joy in your voice.
+
+[PromptTTS]
+Text: i feel they are valuable to both myself and ryan
+Prompt: Show joy in your voice.
+
+

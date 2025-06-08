@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so lucky to have these two beautiful and healthy girls as my daughters
+Prompt: Express joy without exaggeration.
+
+[VoiceLDM]
+Text: i feel so lucky to have these two beautiful and healthy girls as my daughters
+Prompt: Express joy without exaggeration.
+
+

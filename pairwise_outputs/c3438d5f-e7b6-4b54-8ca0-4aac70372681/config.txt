@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel i should say the los angeles dodgers to remain faithful to the family and what i grew up with
+Prompt: Express joy clearly.
+
+[GPT-4o-mini]
+Text: i feel i should say the los angeles dodgers to remain faithful to the family and what i grew up with
+Prompt: Express joy clearly.
+
+

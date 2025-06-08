@@ -1,0 +1,9 @@
+[VITS]
+Text: i get to feel fabulous about what im putting on my skin too
+Prompt: Speak with joy as if sharing a personal story.
+
+[VoiceLDM]
+Text: i get to feel fabulous about what im putting on my skin too
+Prompt: Speak with joy as if sharing a personal story.
+
+

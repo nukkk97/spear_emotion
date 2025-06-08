@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel energetic i might do a post on that
+Prompt: Express joy in a conversational and authentic way.
+
+[VoiceLDM]
+Text: i feel energetic i might do a post on that
+Prompt: Express sadness in a conversational and authentic way.
+
+

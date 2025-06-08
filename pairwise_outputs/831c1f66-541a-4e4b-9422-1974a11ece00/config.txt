@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel submissive sometimes and it is difficult accepting the will of others before you
+Prompt: Let surprise be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i feel submissive sometimes and it is difficult accepting the will of others before you
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+

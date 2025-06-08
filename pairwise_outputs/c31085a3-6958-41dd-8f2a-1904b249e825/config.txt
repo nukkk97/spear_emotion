@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel that those angsty need to be cool kids are at a really important age where they are starting to focus on creating their individual identities and are formulate opinions about how they want to live so by teaching middle school i may be able to have a real impact on my students lives
+Prompt: Deliver your words with a sense of joy but keep it natural.
+
+[GPT-4o-mini]
+Text: i feel that those angsty need to be cool kids are at a really important age where they are starting to focus on creating their individual identities and are formulate opinions about how they want to live so by teaching middle school i may be able to have a real impact on my students lives
+Prompt: Deliver your words with a sense of joy but keep it natural.
+
+

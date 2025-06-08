@@ -1,0 +1,9 @@
+[VITS]
+Text: i am tsubomi and today i am feeling very complacent
+Prompt: Speak with joy but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i am tsubomi and today i am feeling very complacent
+Prompt: Speak with joy but make it feel like it’s only partly revealed.
+
+

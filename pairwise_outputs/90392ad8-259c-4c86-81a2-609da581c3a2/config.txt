@@ -1,0 +1,9 @@
+[VITS]
+Text: i threw away an opportunity to turn my negative feelings into a positive moment of dialogue with volunteers on why i think all people deserve equal rights to participate in any outdoorsy woodsman like activities they choose
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[GPT-4o-mini]
+Text: i threw away an opportunity to turn my negative feelings into a positive moment of dialogue with volunteers on why i think all people deserve equal rights to participate in any outdoorsy woodsman like activities they choose
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am too tired to change that of him so i feel disturbed about myself too
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i am too tired to change that of him so i feel disturbed about myself too
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+

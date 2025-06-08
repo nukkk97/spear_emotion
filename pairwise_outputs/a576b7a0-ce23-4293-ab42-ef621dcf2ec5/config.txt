@@ -1,0 +1,9 @@
+[VITS]
+Text: i guess i see the whole with different eyes than most but i feel her excuse is lame and i am right
+Prompt: Let your words carry sadness.
+
+[GPT-4o-mini]
+Text: i guess i see the whole with different eyes than most but i feel her excuse is lame and i am right
+Prompt: Let your words carry sadness.
+
+

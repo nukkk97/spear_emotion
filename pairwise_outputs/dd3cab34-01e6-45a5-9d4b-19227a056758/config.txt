@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel it has helped me to grow and evolve and to align with the divine
+Prompt: Make joy the focus of your speech.
+
+[PromptTTS]
+Text: i feel it has helped me to grow and evolve and to align with the divine
+Prompt: Make surprise the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i am in my element wearing frumpy pajamas and feeling like a carefree child does she choose to remind me that im not anymore
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i am in my element wearing frumpy pajamas and feeling like a carefree child does she choose to remind me that im not anymore
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+

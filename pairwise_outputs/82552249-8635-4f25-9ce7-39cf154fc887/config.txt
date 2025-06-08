@@ -1,0 +1,9 @@
+[VITS]
+Text: i am normally a pretty positive person but i feel so defeated
+Prompt: Show sadness in your voice.
+
+[PromptTTS]
+Text: i am normally a pretty positive person but i feel so defeated
+Prompt: Show anger in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i can see that ds is off his food that s not surprising if he s feeling rotten
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i can see that ds is off his food that s not surprising if he s feeling rotten
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+

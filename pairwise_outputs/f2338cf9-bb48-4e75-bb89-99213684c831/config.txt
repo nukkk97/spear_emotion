@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel sweet relief when things get cancelled
+Prompt: Keep your tone fully joy.
+
+[PromptTTS]
+Text: i feel sweet relief when things get cancelled
+Prompt: Keep your tone fully joy.
+
+

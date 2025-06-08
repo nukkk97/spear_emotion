@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel sorry for myself and id like the feeling to be reciprocated
+Prompt: Make sadness the focus of your speech.
+
+[VoiceLDM]
+Text: i feel sorry for myself and id like the feeling to be reciprocated
+Prompt: Make sadness the focus of your speech.
+
+

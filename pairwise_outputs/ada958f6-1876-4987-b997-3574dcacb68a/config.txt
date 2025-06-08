@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i love feeling the feeling flow through me i love letting go and trusting
+Prompt: Let your voice be filled with joy but keep it controlled.
+
+[GPT-4o-mini]
+Text: i love feeling the feeling flow through me i love letting go and trusting
+Prompt: Let your voice be filled with joy but keep it controlled.
+
+

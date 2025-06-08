@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel mad crazy for always keep thinking about you i can t get you off of my mind
+Prompt: A deep anger masked by a calm exterior.
+
+[PromptTTS]
+Text: i feel mad crazy for always keep thinking about you i can t get you off of my mind
+Prompt: A deep surprise masked by a calm exterior.
+
+

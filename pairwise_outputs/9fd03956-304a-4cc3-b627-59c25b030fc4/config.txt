@@ -1,0 +1,9 @@
+[VITS]
+Text: i felt a little bit disappointed yesterday but i do understand why they are doing it and because they are doing it i feel more reassured that the saab management won t stop till the production can be restarted and maintained
+Prompt: Let joy shine through your voice.
+
+[VoiceLDM]
+Text: i felt a little bit disappointed yesterday but i do understand why they are doing it and because they are doing it i feel more reassured that the saab management won t stop till the production can be restarted and maintained
+Prompt: Let sadness shine through your voice.
+
+

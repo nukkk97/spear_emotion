@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i will do it somehow i always do but im feeling slightly distracted and faintly stressed like ive forgotten something important which i probably have
+Prompt: Show anger in your voice.
+
+[GPT-4o-mini]
+Text: i will do it somehow i always do but im feeling slightly distracted and faintly stressed like ive forgotten something important which i probably have
+Prompt: Show anger in your voice.
+
+

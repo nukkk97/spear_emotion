@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling spiteful im always like ive never loved anyone blah blah but really in all reality ignore what ive previously said in these things i have felt love i have loved people in the past its just when they piss me off i try to ignore it
+Prompt: Let your words carry anger.
+
+[GPT-4o-mini]
+Text: im feeling spiteful im always like ive never loved anyone blah blah but really in all reality ignore what ive previously said in these things i have felt love i have loved people in the past its just when they piss me off i try to ignore it
+Prompt: Let your words carry anger.
+
+

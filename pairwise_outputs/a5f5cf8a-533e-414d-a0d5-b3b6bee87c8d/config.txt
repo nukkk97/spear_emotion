@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i would feel more optimistic about a bright future for man if he spent less time trying to prove he can outwit nature and more time tasting her sweetness and respecting her seniority
+Prompt: Speak in a way that embodies joy.
+
+[GPT-4o-mini]
+Text: i would feel more optimistic about a bright future for man if he spent less time trying to prove he can outwit nature and more time tasting her sweetness and respecting her seniority
+Prompt: Speak in a way that embodies joy.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i believe that the most critical aspect of the plan is that every team member feels valued and an integral part of gpt
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i believe that the most critical aspect of the plan is that every team member feels valued and an integral part of gpt
+Prompt: Keep your tone fully joy.
+
+

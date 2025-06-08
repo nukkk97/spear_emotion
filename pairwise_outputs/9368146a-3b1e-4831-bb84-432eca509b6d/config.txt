@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel more useful than ever
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i feel more useful than ever
+Prompt: Channel joy in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling those positive thoughts and it meas a lot
+Prompt: Let joy unfold gradually in your voice.
+
+[VoiceLDM]
+Text: i am feeling those positive thoughts and it meas a lot
+Prompt: Let neutral unfold gradually in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling so thankful for the testing done protecting me and our child from this
+Prompt: Speak with joy as if sharing a personal story.
+
+[PromptTTS]
+Text: im feeling so thankful for the testing done protecting me and our child from this
+Prompt: Speak with surprise as if sharing a personal story.
+
+

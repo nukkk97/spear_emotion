@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like i know too much and it has damaged me
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: i feel like i know too much and it has damaged me
+Prompt: Show sadness in your voice.
+
+

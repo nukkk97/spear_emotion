@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i have to say i feel proud of myself for going without dragging evan and brett on a road trip
+Prompt: joy.
+
+[GPT-4o-mini]
+Text: i have to say i feel proud of myself for going without dragging evan and brett on a road trip
+Prompt: joy.
+
+

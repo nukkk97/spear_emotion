@@ -1,0 +1,9 @@
+[VITS]
+Text: i hadnt had a productive day and i didnt feel happy or healthy
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i hadnt had a productive day and i didnt feel happy or healthy
+Prompt: Channel joy in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like a perfect stranger there so i actually could understand now that womans reaction
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[VoiceLDM]
+Text: i feel like a perfect stranger there so i actually could understand now that womans reaction
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

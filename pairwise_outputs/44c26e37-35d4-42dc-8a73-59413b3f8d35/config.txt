@@ -1,0 +1,9 @@
+[VITS]
+Text: i hate feeling grumpy or sad
+Prompt: Make anger the focus of your speech.
+
+[VoiceLDM]
+Text: i hate feeling grumpy or sad
+Prompt: Make surprise the focus of your speech.
+
+

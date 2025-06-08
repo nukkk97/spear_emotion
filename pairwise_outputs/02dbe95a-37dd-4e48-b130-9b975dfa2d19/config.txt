@@ -1,0 +1,9 @@
+[VITS]
+Text: i was not feeling sociable we had friends over on the weekend and i really enjoyed it
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[PromptTTS]
+Text: i was not feeling sociable we had friends over on the weekend and i really enjoyed it
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+

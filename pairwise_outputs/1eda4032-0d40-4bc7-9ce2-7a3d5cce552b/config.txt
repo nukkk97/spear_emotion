@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i can eat plenty here and it will be sugar caffeine gluten dairy and meat free and still feel absolutely fantastic
+Prompt: Show joy in your voice.
+
+[VoiceLDM]
+Text: i can eat plenty here and it will be sugar caffeine gluten dairy and meat free and still feel absolutely fantastic
+Prompt: Show joy in your voice.
+
+

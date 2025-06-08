@@ -1,0 +1,9 @@
+[VITS]
+Text: im not here to provide fodder for the creeps but just the same im not going to shut down the blog nor quit sharing what i feel are precious moments my close friends and family would appreciate enjoying with me
+Prompt: A joy voice as if talking to a close friend.
+
+[PromptTTS]
+Text: im not here to provide fodder for the creeps but just the same im not going to shut down the blog nor quit sharing what i feel are precious moments my close friends and family would appreciate enjoying with me
+Prompt: A anger voice as if talking to a close friend.
+
+

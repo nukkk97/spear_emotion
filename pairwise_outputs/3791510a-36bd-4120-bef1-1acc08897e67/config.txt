@@ -1,0 +1,9 @@
+[VITS]
+Text: i know failing my course will make me feel totally idiotic loser like even
+Prompt: Let sadness shine through your voice.
+
+[VoiceLDM]
+Text: i know failing my course will make me feel totally idiotic loser like even
+Prompt: Let sadness shine through your voice.
+
+

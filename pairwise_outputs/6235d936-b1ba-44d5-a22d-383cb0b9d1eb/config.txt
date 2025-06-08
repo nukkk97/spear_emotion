@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel inhibited around all these people we know
+Prompt: anger.
+
+[GPT-4o-mini]
+Text: i feel inhibited around all these people we know
+Prompt: sadness.
+
+

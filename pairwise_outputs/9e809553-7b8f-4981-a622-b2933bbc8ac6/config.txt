@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel a little embarrassed because i feel the dilemma of wanting to have fun and just let go and trying to keep a respectful reputation of being a teacher in this small town
+Prompt: A voice that is surprise but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i feel a little embarrassed because i feel the dilemma of wanting to have fun and just let go and trying to keep a respectful reputation of being a teacher in this small town
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

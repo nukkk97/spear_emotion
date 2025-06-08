@@ -1,0 +1,9 @@
+[VITS]
+Text: i do want to lose weight and feel better i can see that there is value in determining what works for me
+Prompt: Speak as if you are experiencing joy deeply.
+
+[VoiceLDM]
+Text: i do want to lose weight and feel better i can see that there is value in determining what works for me
+Prompt: Speak as if you are experiencing anger deeply.
+
+

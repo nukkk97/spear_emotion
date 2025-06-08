@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like going on an angry rampage back to that salon and making him lose his job
+Prompt: anger.
+
+[VoiceLDM]
+Text: i feel like going on an angry rampage back to that salon and making him lose his job
+Prompt: anger.
+
+

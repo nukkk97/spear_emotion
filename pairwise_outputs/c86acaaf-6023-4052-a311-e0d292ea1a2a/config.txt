@@ -1,0 +1,9 @@
+[VITS]
+Text: i do not feel jealous
+Prompt: Express anger as if you are on the verge of revealing a secret.
+
+[VoiceLDM]
+Text: i do not feel jealous
+Prompt: Express surprise as if you are on the verge of revealing a secret.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i care about your feelings u never bothered about mine
+Prompt: Speak as though anger is lingering in your thoughts.
+
+[VoiceLDM]
+Text: i care about your feelings u never bothered about mine
+Prompt: Speak as though neutral is lingering in your thoughts.
+
+

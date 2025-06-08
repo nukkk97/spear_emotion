@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that he is very handsome and charming
+Prompt: Let your words carry sadness.
+
+[GPT-4o-mini]
+Text: i feel that he is very handsome and charming
+Prompt: Let your words carry joy.
+
+

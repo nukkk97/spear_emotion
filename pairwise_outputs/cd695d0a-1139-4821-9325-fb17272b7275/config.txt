@@ -1,0 +1,9 @@
+[VITS]
+Text: i dont know how it really works but i have compiled a list of the scariest horror movies ive ever seen for everyone to watch so your other sad feelings will be distracted
+Prompt: A voice that is anger but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i dont know how it really works but i have compiled a list of the scariest horror movies ive ever seen for everyone to watch so your other sad feelings will be distracted
+Prompt: A voice that is anger but with a hint of hesitation.
+
+

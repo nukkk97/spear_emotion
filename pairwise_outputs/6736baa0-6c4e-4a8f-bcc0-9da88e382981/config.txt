@@ -1,0 +1,9 @@
+[VITS]
+Text: i click i feel wonderful
+Prompt: Channel joy in your voice.
+
+[VoiceLDM]
+Text: i click i feel wonderful
+Prompt: Channel joy in your voice.
+
+

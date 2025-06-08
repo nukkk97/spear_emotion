@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel impressed to do so i like to bless young people with a few bucks because i know they need it and it is also a very good way to get them to remember the situation forever
+Prompt: Deliver your words with a sense of anger but keep it natural.
+
+[GPT-4o-mini]
+Text: i feel impressed to do so i like to bless young people with a few bucks because i know they need it and it is also a very good way to get them to remember the situation forever
+Prompt: Deliver your words with a sense of surprise but keep it natural.
+
+

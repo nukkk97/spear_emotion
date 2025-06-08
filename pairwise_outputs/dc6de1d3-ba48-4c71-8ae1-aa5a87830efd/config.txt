@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i could no longer hold back the tears as i shared that i know that this study is going to be very difficult for me because i am afraid that god will tell me that what i am feeling in my heart about being punished for past choices is true
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i could no longer hold back the tears as i shared that i know that this study is going to be very difficult for me because i am afraid that god will tell me that what i am feeling in my heart about being punished for past choices is true
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

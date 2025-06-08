@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel privileged to have a good job right out of school and am super excited to get to stay in bellingham
+Prompt: Your tone should be filled with joy.
+
+[GPT-4o-mini]
+Text: i feel privileged to have a good job right out of school and am super excited to get to stay in bellingham
+Prompt: Your tone should be filled with joy.
+
+

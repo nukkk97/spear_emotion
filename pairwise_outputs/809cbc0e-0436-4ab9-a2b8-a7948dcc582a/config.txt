@@ -1,0 +1,9 @@
+[VITS]
+Text: i remember feeling so proud of myself
+Prompt: Speak as though joy is lingering in your thoughts.
+
+[PromptTTS]
+Text: i remember feeling so proud of myself
+Prompt: Speak as though anger is lingering in your thoughts.
+
+

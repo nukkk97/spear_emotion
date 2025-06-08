@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling unhappy for the whole week because i was feeling inferior as compared to people around me
+Prompt: Speak with neutral but make it feel like it’s only partly revealed.
+
+[GPT-4o-mini]
+Text: i was feeling unhappy for the whole week because i was feeling inferior as compared to people around me
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

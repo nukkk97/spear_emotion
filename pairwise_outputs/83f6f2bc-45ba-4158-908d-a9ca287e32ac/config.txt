@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i believe there is a growing feeling among giants fans that this is a special team
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i believe there is a growing feeling among giants fans that this is a special team
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

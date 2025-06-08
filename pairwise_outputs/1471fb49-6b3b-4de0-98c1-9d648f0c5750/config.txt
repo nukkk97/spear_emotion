@@ -1,0 +1,9 @@
+[VITS]
+Text: i talk about because it still feels somewhat tragic to me
+Prompt: Speak as if surprise is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i talk about because it still feels somewhat tragic to me
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

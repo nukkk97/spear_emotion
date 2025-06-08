@@ -1,0 +1,9 @@
+[VITS]
+Text: i love that they are affordable and i feel that i am supporting a mother run business and the artists behind the products
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i love that they are affordable and i feel that i am supporting a mother run business and the artists behind the products
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

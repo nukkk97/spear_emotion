@@ -1,0 +1,9 @@
+[VITS]
+Text: ive just finished finals and am feeling pretty joyful so i am offering one winner a giftcard to amazon b amp n starbucks itunes or for my international readers a book from the book depository
+Prompt: Speak as if you are experiencing joy deeply.
+
+[VoiceLDM]
+Text: ive just finished finals and am feeling pretty joyful so i am offering one winner a giftcard to amazon b amp n starbucks itunes or for my international readers a book from the book depository
+Prompt: Speak as if you are experiencing neutral deeply.
+
+

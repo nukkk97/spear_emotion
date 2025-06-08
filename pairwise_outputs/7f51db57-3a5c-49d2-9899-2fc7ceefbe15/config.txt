@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel amazing putting on nd class said newly frocked interior communication electrician nd class rachel rice
+Prompt: Speak in a way that embodies surprise.
+
+[VoiceLDM]
+Text: i feel amazing putting on nd class said newly frocked interior communication electrician nd class rachel rice
+Prompt: Speak in a way that embodies neutral.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i depend on the feeling of helping people to feel useful in life
+Prompt: Let joy shine through your voice.
+
+[PromptTTS]
+Text: i depend on the feeling of helping people to feel useful in life
+Prompt: Let joy shine through your voice.
+
+

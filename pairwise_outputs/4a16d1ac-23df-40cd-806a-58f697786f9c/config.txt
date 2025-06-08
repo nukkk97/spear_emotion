@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel really dissatisfied today and now i understand why
+Prompt: Let your words carry anger.
+
+[VoiceLDM]
+Text: i feel really dissatisfied today and now i understand why
+Prompt: Let your words carry anger.
+
+

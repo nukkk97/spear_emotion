@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that the above photo doesnt accurately show the gorgeous orange color of this curry so heres a another shot
+Prompt: Channel sadness in your voice.
+
+[GPT-4o-mini]
+Text: i feel that the above photo doesnt accurately show the gorgeous orange color of this curry so heres a another shot
+Prompt: Channel joy in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i believe the no better feeling than seeing your ex with someone ugly saying is a bunch of crap because as long as they look happy together or pretend to look happy together you will always feel that first minutes sting of pure jealousy
+Prompt: Speak as if joy is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i believe the no better feeling than seeing your ex with someone ugly saying is a bunch of crap because as long as they look happy together or pretend to look happy together you will always feel that first minutes sting of pure jealousy
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

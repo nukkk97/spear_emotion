@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel inside has manifested itself as a messy house and now i see how the manifestation of my being a source of strength has manifested itself as a great weakness the being a phyiscal rock the doing nothing
+Prompt: Speak in a way that embodies sadness.
+
+[GPT-4o-mini]
+Text: i feel inside has manifested itself as a messy house and now i see how the manifestation of my being a source of strength has manifested itself as a great weakness the being a phyiscal rock the doing nothing
+Prompt: Speak in a way that embodies sadness.
+
+

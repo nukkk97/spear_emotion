@@ -1,0 +1,9 @@
+[VITS]
+Text: im gonna say its one of those things i would like to witness myself before i feel comfortable showing it to you
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: im gonna say its one of those things i would like to witness myself before i feel comfortable showing it to you
+Prompt: Express surprise but subtly like someone hiding their feelings.
+
+

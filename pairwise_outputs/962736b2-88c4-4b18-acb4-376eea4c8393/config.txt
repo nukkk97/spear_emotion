@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: is only friend made yuuki feel special
+Prompt: Let your words carry joy.
+
+[GPT-4o-mini]
+Text: is only friend made yuuki feel special
+Prompt: Let your words carry joy.
+
+

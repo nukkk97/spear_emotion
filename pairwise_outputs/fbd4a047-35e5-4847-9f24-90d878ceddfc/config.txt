@@ -1,0 +1,9 @@
+[VITS]
+Text: i have to put myself first at times even if it makes me feel incredibly selfish
+Prompt: anger.
+
+[VoiceLDM]
+Text: i have to put myself first at times even if it makes me feel incredibly selfish
+Prompt: anger.
+
+

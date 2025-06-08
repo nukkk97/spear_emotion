@@ -1,0 +1,9 @@
+[VITS]
+Text: i didnt feel bad
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i didnt feel bad
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+

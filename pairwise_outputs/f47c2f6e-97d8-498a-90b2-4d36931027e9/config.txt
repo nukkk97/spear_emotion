@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling terrific
+Prompt: A deep joy masked by a calm exterior.
+
+[VoiceLDM]
+Text: i am feeling terrific
+Prompt: A deep joy masked by a calm exterior.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling bitchy
+Prompt: Speak with a anger tone.
+
+[VoiceLDM]
+Text: i am feeling bitchy
+Prompt: Speak with a anger tone.
+
+

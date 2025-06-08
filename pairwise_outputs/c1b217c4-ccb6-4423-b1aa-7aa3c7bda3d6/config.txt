@@ -1,0 +1,9 @@
+[VITS]
+Text: i really dont know why i feel so dull after having had such a pleasant beginning yesterday and all
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[VoiceLDM]
+Text: i really dont know why i feel so dull after having had such a pleasant beginning yesterday and all
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

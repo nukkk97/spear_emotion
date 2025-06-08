@@ -1,0 +1,9 @@
+[VITS]
+Text: i wrote a short story and a poem both of which left me feeling hopelessly dissatisfied
+Prompt: A touch of anger like a hidden layer in your voice.
+
+[VoiceLDM]
+Text: i wrote a short story and a poem both of which left me feeling hopelessly dissatisfied
+Prompt: A touch of anger like a hidden layer in your voice.
+
+

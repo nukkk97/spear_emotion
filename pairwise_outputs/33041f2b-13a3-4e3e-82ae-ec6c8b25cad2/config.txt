@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel popular with people who want something a little non traditional but cant be too wild
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[VoiceLDM]
+Text: i feel popular with people who want something a little non traditional but cant be too wild
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

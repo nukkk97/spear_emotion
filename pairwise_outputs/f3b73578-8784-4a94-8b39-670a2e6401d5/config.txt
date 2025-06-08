@@ -1,0 +1,9 @@
+[VITS]
+Text: i no longer wake up in a panic of fear and anxiety never really feeling safe
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i no longer wake up in a panic of fear and anxiety never really feeling safe
+Prompt: Keep your tone fully joy.
+
+

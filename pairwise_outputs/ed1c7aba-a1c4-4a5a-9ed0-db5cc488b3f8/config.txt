@@ -1,0 +1,9 @@
+[VITS]
+Text: i truly feel terrible for how all of these people have been treated back then
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: i truly feel terrible for how all of these people have been treated back then
+Prompt: Show sadness in your voice.
+
+

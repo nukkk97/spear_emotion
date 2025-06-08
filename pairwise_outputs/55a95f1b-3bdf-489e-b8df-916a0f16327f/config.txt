@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i dont wear any other make up day to day apart from mascara and very rarely wear any make up on my face i occasionally sweep some blusher on if im feeling adventurous so dont have a rigorous skin care routine
+Prompt: Deliver your words with joy.
+
+[VoiceLDM]
+Text: i dont wear any other make up day to day apart from mascara and very rarely wear any make up on my face i occasionally sweep some blusher on if im feeling adventurous so dont have a rigorous skin care routine
+Prompt: Deliver your words with joy.
+
+

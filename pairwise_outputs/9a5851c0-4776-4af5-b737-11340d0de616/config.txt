@@ -1,0 +1,9 @@
+[VITS]
+Text: i don t want to apologize for grieving for being angry feeling devastated or for having the homicidal thoughts that creep up in me and come out in a smirk every so often
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+[GPT-4o-mini]
+Text: i don t want to apologize for grieving for being angry feeling devastated or for having the homicidal thoughts that creep up in me and come out in a smirk every so often
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+

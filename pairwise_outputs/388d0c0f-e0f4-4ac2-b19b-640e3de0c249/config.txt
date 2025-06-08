@@ -1,0 +1,9 @@
+[VITS]
+Text: i really do like using the machines but i found myself feeling rather hostile toward some of the other folks there last night which could have been my pms or whatever it is or it could have been my latent gymphobia rearing its head
+Prompt: Deliver your words with anger.
+
+[GPT-4o-mini]
+Text: i really do like using the machines but i found myself feeling rather hostile toward some of the other folks there last night which could have been my pms or whatever it is or it could have been my latent gymphobia rearing its head
+Prompt: Deliver your words with anger.
+
+

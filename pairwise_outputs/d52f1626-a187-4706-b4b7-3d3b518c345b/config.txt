@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: ill start feeling creative and write about something crafty or perhaps ill just rant about whatever pops into my head
+Prompt: Speak with a joy tone.
+
+[GPT-4o-mini]
+Text: ill start feeling creative and write about something crafty or perhaps ill just rant about whatever pops into my head
+Prompt: Speak with a joy tone.
+
+

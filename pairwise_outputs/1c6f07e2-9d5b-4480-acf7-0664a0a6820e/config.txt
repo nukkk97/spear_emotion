@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel so unimportant and distanced
+Prompt: sadness.
+
+[GPT-4o-mini]
+Text: i feel so unimportant and distanced
+Prompt: sadness.
+
+

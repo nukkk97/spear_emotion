@@ -1,0 +1,9 @@
+[VITS]
+Text: i do it feels as if im the only one who sees this planet and its inhabitants as indefinitly doomed
+Prompt: Express sadness but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: i do it feels as if im the only one who sees this planet and its inhabitants as indefinitly doomed
+Prompt: Express sadness but subtly like someone hiding their feelings.
+
+

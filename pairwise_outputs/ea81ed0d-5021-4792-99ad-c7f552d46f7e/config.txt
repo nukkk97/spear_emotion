@@ -1,0 +1,9 @@
+[VITS]
+Text: i created to try feel invigorated
+Prompt: Speak in a way that embodies joy.
+
+[VoiceLDM]
+Text: i created to try feel invigorated
+Prompt: Speak in a way that embodies joy.
+
+

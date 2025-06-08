@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling grouchy tonight
+Prompt: Express anger in a conversational and authentic way.
+
+[VoiceLDM]
+Text: im feeling grouchy tonight
+Prompt: Express surprise in a conversational and authentic way.
+
+

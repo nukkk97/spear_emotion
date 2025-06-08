@@ -1,0 +1,9 @@
+[VITS]
+Text: i have to think there is something deeper which incited this seemingly meaningless violence be it a class resentment a feeling of being wronged and deserving more pure ignorance and selfishness or just some on the spot opportunism with no fear of conviction
+Prompt: Your voice should carry anger with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i have to think there is something deeper which incited this seemingly meaningless violence be it a class resentment a feeling of being wronged and deserving more pure ignorance and selfishness or just some on the spot opportunism with no fear of conviction
+Prompt: Your voice should carry anger with a sense of warmth.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel unimportant sitting on the sideline
+Prompt: Let sadness guide your speech.
+
+[GPT-4o-mini]
+Text: i feel unimportant sitting on the sideline
+Prompt: Let sadness guide your speech.
+
+

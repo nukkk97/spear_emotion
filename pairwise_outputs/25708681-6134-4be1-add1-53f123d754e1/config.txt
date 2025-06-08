@@ -1,0 +1,9 @@
+[VITS]
+Text: i love science and sometimes i feel like im discouraged from exploring the mixing of science and art
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+[GPT-4o-mini]
+Text: i love science and sometimes i feel like im discouraged from exploring the mixing of science and art
+Prompt: Let your voice be filled with sadness but keep it controlled.
+
+

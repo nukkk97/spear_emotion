@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel totally delighted and impassioned and anxious and giddy
+Prompt: Let your words carry joy.
+
+[PromptTTS]
+Text: i feel totally delighted and impassioned and anxious and giddy
+Prompt: Let your words carry neutral.
+
+

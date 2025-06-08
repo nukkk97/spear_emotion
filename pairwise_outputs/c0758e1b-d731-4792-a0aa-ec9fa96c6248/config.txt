@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i realized i struggle in feeling valued i think because i ve had so many people and employers take me for granted and treat me poorly
+Prompt: A deep joy masked by a calm exterior.
+
+[VoiceLDM]
+Text: i realized i struggle in feeling valued i think because i ve had so many people and employers take me for granted and treat me poorly
+Prompt: A deep joy masked by a calm exterior.
+
+

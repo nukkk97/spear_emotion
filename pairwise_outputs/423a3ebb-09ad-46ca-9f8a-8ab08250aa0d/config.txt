@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel sad because my relationship with my husband is still sour but our relationship is the only thing we ve got
+Prompt: Speak with pure surprise.
+
+[GPT-4o-mini]
+Text: i feel sad because my relationship with my husband is still sour but our relationship is the only thing we ve got
+Prompt: Speak with pure sadness.
+
+

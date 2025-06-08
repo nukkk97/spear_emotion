@@ -1,0 +1,9 @@
+[VITS]
+Text: i suppose i shouldnt feel jaded but i kind of do
+Prompt: Express sadness clearly.
+
+[PromptTTS]
+Text: i suppose i shouldnt feel jaded but i kind of do
+Prompt: Express sadness clearly.
+
+

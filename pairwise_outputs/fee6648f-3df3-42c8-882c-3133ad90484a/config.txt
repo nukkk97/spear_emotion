@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel bad when im at the cash register fumbling with my money digging through my huge pile of change just to find a nickel and of course its the only coin i dont have
+Prompt: Speak with pure sadness.
+
+[VoiceLDM]
+Text: i feel bad when im at the cash register fumbling with my money digging through my huge pile of change just to find a nickel and of course its the only coin i dont have
+Prompt: Speak with pure sadness.
+
+

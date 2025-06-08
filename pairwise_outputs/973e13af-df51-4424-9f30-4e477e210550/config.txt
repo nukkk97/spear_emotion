@@ -1,0 +1,9 @@
+[VITS]
+Text: i woke up feeling energized and optimistic
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+[GPT-4o-mini]
+Text: i woke up feeling energized and optimistic
+Prompt: Maintain composure but allow joy to be subtly felt.
+
+

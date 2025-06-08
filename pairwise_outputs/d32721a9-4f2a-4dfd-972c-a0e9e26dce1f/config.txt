@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel truly blessed to have him in my life
+Prompt: Let joy be present but keep it nuanced.
+
+[PromptTTS]
+Text: i feel truly blessed to have him in my life
+Prompt: Let joy be present but keep it nuanced.
+
+

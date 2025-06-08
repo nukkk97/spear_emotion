@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i always feel exhausted from commuting at the end of the day and it is not due to the fact that i had to take three means of public transportation bus from damansara utama to mid valley komuter from mid valley to serdang and bus from ktm serdang to upm
+Prompt: Speak with pure sadness.
+
+[GPT-4o-mini]
+Text: i always feel exhausted from commuting at the end of the day and it is not due to the fact that i had to take three means of public transportation bus from damansara utama to mid valley komuter from mid valley to serdang and bus from ktm serdang to upm
+Prompt: Speak with pure sadness.
+
+

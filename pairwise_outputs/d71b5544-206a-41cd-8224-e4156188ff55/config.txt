@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i were to come out and bluntly say im unsure would anyone feel hostile tricked untrusting uninterested wary disgusted
+Prompt: Express anger as if you are on the verge of revealing a secret.
+
+[GPT-4o-mini]
+Text: i were to come out and bluntly say im unsure would anyone feel hostile tricked untrusting uninterested wary disgusted
+Prompt: Express anger as if you are on the verge of revealing a secret.
+
+

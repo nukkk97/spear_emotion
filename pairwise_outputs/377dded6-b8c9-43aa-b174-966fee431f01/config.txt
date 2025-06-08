@@ -1,0 +1,9 @@
+[VITS]
+Text: i can listen to tacky s christmas hits and still feel festive and nostalgic
+Prompt: Speak with a joy tone.
+
+[VoiceLDM]
+Text: i can listen to tacky s christmas hits and still feel festive and nostalgic
+Prompt: Speak with a anger tone.
+
+

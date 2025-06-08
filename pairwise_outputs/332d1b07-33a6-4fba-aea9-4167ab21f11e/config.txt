@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling pretty melancholy
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i was feeling pretty melancholy
+Prompt: Deliver your words with sadness.
+
+

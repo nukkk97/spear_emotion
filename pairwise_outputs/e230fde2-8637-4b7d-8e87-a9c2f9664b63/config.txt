@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i suppose it is no wonder that i have trouble hanging on to myself to a rooted sense of identity and firm purpose when the winds of life kick up and no surprise when i find myself feeling listless when they subside
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i suppose it is no wonder that i have trouble hanging on to myself to a rooted sense of identity and firm purpose when the winds of life kick up and no surprise when i find myself feeling listless when they subside
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

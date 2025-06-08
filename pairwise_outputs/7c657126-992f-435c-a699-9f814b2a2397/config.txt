@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling rather pleased with myself
+Prompt: Deliver your words with joy.
+
+[VoiceLDM]
+Text: i was feeling rather pleased with myself
+Prompt: Deliver your words with joy.
+
+

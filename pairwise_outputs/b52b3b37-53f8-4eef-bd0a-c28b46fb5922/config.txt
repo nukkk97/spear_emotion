@@ -1,0 +1,9 @@
+[VITS]
+Text: i was elated and excited to talk about it with anyone who would listen but about two days after the race i started to feel depressed antsy and just bummed out about life
+Prompt: Your tone should be filled with sadness.
+
+[VoiceLDM]
+Text: i was elated and excited to talk about it with anyone who would listen but about two days after the race i started to feel depressed antsy and just bummed out about life
+Prompt: Your tone should be filled with sadness.
+
+

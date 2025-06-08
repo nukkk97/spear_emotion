@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel the single version was kind of messy and strained
+Prompt: Let sadness shine through your voice.
+
+[GPT-4o-mini]
+Text: i feel the single version was kind of messy and strained
+Prompt: Let sadness shine through your voice.
+
+

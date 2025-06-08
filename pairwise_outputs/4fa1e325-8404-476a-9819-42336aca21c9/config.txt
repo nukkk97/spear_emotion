@@ -1,0 +1,9 @@
+[VITS]
+Text: i turned to pinterest to then feel completely inadequate
+Prompt: Let sadness shine through your voice.
+
+[GPT-4o-mini]
+Text: i turned to pinterest to then feel completely inadequate
+Prompt: Let sadness shine through your voice.
+
+

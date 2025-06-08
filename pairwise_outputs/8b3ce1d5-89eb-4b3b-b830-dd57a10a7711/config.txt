@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel thankful that someone went out of their way to help me
+Prompt: Your tone should be filled with sadness.
+
+[GPT-4o-mini]
+Text: i feel thankful that someone went out of their way to help me
+Prompt: Your tone should be filled with joy.
+
+

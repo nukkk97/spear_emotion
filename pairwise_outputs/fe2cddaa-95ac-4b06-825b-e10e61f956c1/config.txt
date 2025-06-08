@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i left work with a migraine building i feel terrific now the headache is gone
+Prompt: Speak with pure joy.
+
+[VoiceLDM]
+Text: i left work with a migraine building i feel terrific now the headache is gone
+Prompt: Speak with pure joy.
+
+

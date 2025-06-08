@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling more mellow jazz or blues works great and especially when im cheery classic rock does the trick
+Prompt: Express neutral in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: im feeling more mellow jazz or blues works great and especially when im cheery classic rock does the trick
+Prompt: Express joy in a conversational and authentic way.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i smile i feel friendly and my smile portrays every emotion i feel at that moment if i m shy happy nervous excited it s all visible in my smile
+Prompt: Speak as if you are experiencing anger deeply.
+
+[GPT-4o-mini]
+Text: i smile i feel friendly and my smile portrays every emotion i feel at that moment if i m shy happy nervous excited it s all visible in my smile
+Prompt: Speak as if you are experiencing joy deeply.
+
+

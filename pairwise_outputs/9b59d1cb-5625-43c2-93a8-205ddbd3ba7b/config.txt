@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i am giving him finger food for a starter to make me feel like i m still a slightly virtuous organic middle class mum followed by jarfood followed by stewed fruit or pieces of kiwi or whatever for pudding
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[GPT-4o-mini]
+Text: i am giving him finger food for a starter to make me feel like i m still a slightly virtuous organic middle class mum followed by jarfood followed by stewed fruit or pieces of kiwi or whatever for pudding
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i do feel very hopeful for the future
+Prompt: Speak with joy but make it feel like it’s only partly revealed.
+
+[VoiceLDM]
+Text: i do feel very hopeful for the future
+Prompt: Speak with sadness but make it feel like it’s only partly revealed.
+
+

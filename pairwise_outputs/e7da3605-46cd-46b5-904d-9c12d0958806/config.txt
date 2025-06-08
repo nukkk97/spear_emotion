@@ -1,0 +1,9 @@
+[VITS]
+Text: i recall dropping into my local abuja supermarket to pick up some milk and feeling irritated at being accosted by red roses discounted chocolates rotund hanging hearts and barry white on the supermarket radio girrrrrl its just you and me
+Prompt: Speak with pure anger.
+
+[VoiceLDM]
+Text: i recall dropping into my local abuja supermarket to pick up some milk and feeling irritated at being accosted by red roses discounted chocolates rotund hanging hearts and barry white on the supermarket radio girrrrrl its just you and me
+Prompt: Speak with pure anger.
+
+

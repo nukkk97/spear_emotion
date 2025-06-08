@@ -1,0 +1,9 @@
+[VITS]
+Text: i answered feeling quite amused at his attempt to trick me
+Prompt: Let joy be evident but not overwhelming.
+
+[GPT-4o-mini]
+Text: i answered feeling quite amused at his attempt to trick me
+Prompt: Let joy be evident but not overwhelming.
+
+

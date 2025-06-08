@@ -1,0 +1,9 @@
+[VITS]
+Text: i did i asked the question why did i feel grouchy
+Prompt: Channel anger in your voice.
+
+[VoiceLDM]
+Text: i did i asked the question why did i feel grouchy
+Prompt: Channel anger in your voice.
+
+

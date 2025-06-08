@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel disappointed in myself for my tardiness and workaholic tendencies
+Prompt: Ensure sadness is present in every word.
+
+[VoiceLDM]
+Text: i feel disappointed in myself for my tardiness and workaholic tendencies
+Prompt: Ensure sadness is present in every word.
+
+

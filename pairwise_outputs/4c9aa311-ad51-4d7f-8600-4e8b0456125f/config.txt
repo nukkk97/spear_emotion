@@ -1,0 +1,9 @@
+[VITS]
+Text: i just feel a sense of calm and peace now when i think about god
+Prompt: Speak as if you are recalling a joy memory.
+
+[VoiceLDM]
+Text: i just feel a sense of calm and peace now when i think about god
+Prompt: Speak as if you are recalling a joy memory.
+
+

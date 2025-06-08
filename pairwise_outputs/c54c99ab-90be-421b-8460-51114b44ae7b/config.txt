@@ -1,0 +1,9 @@
+[VITS]
+Text: i really only update them when i feel enough of your clever comm
+Prompt: Speak with neutral as if you are trying to comfort someone.
+
+[GPT-4o-mini]
+Text: i really only update them when i feel enough of your clever comm
+Prompt: Speak with joy as if you are trying to comfort someone.
+
+

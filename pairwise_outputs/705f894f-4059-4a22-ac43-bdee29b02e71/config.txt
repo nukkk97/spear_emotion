@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: ive been feeling violent lately but well leave those thoughts in my head
+Prompt: Your tone should be filled with anger.
+
+[GPT-4o-mini]
+Text: ive been feeling violent lately but well leave those thoughts in my head
+Prompt: Your tone should be filled with anger.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i normally dont like to do such things because i feel rather lame but the cake was quite spectacular so i relented
+Prompt: Let sadness shine through your voice.
+
+[GPT-4o-mini]
+Text: i normally dont like to do such things because i feel rather lame but the cake was quite spectacular so i relented
+Prompt: Let sadness shine through your voice.
+
+

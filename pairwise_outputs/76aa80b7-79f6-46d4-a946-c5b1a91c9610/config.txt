@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that it is acceptable to moderate an exceptional run of good or bad dice
+Prompt: Show joy in your voice.
+
+[VoiceLDM]
+Text: i feel that it is acceptable to moderate an exceptional run of good or bad dice
+Prompt: Show surprise in your voice.
+
+

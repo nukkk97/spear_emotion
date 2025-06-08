@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i shall try and be more regular here meanwhile because it feels terrible to be marooned alone in blogosphere
+Prompt: Express sadness clearly.
+
+[GPT-4o-mini]
+Text: i shall try and be more regular here meanwhile because it feels terrible to be marooned alone in blogosphere
+Prompt: Express sadness clearly.
+
+

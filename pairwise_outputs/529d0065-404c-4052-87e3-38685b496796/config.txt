@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling burdened or run down i turn to these things to bring me a sense of comfort and security
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+[GPT-4o-mini]
+Text: i am feeling burdened or run down i turn to these things to bring me a sense of comfort and security
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

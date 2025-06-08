@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel as though im being selfish and letting nate down
+Prompt: Speak as though anger is lingering in your thoughts.
+
+[VoiceLDM]
+Text: i feel as though im being selfish and letting nate down
+Prompt: Speak as though anger is lingering in your thoughts.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling overwhelmed by so much these days there is way too much on my plate but none of it can come off and i didnt need fungus
+Prompt: Speak as if surprise is layered with uncertainty.
+
+[VoiceLDM]
+Text: im feeling overwhelmed by so much these days there is way too much on my plate but none of it can come off and i didnt need fungus
+Prompt: Speak as if surprise is layered with uncertainty.
+
+

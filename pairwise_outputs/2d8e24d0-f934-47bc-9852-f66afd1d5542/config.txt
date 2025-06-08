@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel adventurous i actually try it
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i feel adventurous i actually try it
+Prompt: Let joy guide your speech.
+
+

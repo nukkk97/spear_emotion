@@ -1,0 +1,9 @@
+[VITS]
+Text: i left the theater feeling dissatisfied on a level i could not express lady in the water fairly good and monster house surprisingly funny
+Prompt: Speak with pure anger.
+
+[PromptTTS]
+Text: i left the theater feeling dissatisfied on a level i could not express lady in the water fairly good and monster house surprisingly funny
+Prompt: Speak with pure anger.
+
+

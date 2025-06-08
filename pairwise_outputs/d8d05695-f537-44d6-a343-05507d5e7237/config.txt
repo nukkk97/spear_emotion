@@ -1,0 +1,9 @@
+[VITS]
+Text: i can tell stories with images something i feel would take too long painting or drawing mostly because i am too impatient
+Prompt: Let your voice be filled with anger but keep it controlled.
+
+[PromptTTS]
+Text: i can tell stories with images something i feel would take too long painting or drawing mostly because i am too impatient
+Prompt: Let your voice be filled with anger but keep it controlled.
+
+

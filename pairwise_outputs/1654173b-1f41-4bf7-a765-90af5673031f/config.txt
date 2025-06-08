@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel its too carefree and silly and lacks any conviction
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+[GPT-4o-mini]
+Text: i feel its too carefree and silly and lacks any conviction
+Prompt: Express joy but subtly like someone hiding their feelings.
+
+

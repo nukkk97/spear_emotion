@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i started to feel even disgusted
+Prompt: Express anger without exaggeration.
+
+[GPT-4o-mini]
+Text: i started to feel even disgusted
+Prompt: Express anger without exaggeration.
+
+

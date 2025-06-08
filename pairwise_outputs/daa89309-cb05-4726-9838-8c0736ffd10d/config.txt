@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel pleased with the way our lesson went
+Prompt: Keep your tone fully joy.
+
+[VoiceLDM]
+Text: i feel pleased with the way our lesson went
+Prompt: Keep your tone fully joy.
+
+

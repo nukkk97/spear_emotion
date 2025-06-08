@@ -1,0 +1,9 @@
+[VITS]
+Text: i have searched for a long time and found an energy healing method that i feel comfortable with
+Prompt: Your voice should carry joy with a sense of warmth.
+
+[VoiceLDM]
+Text: i have searched for a long time and found an energy healing method that i feel comfortable with
+Prompt: Your voice should carry joy with a sense of warmth.
+
+

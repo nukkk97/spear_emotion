@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel so emotional right now
+Prompt: Speak as though sadness is lingering in your thoughts.
+
+[GPT-4o-mini]
+Text: i feel so emotional right now
+Prompt: Speak as though sadness is lingering in your thoughts.
+
+

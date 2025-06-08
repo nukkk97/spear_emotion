@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel joyful is delusion about p ti
+Prompt: Speak with a joy tone.
+
+[VoiceLDM]
+Text: i feel joyful is delusion about p ti
+Prompt: Speak with a joy tone.
+
+

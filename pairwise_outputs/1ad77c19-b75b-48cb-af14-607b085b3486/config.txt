@@ -1,0 +1,9 @@
+[VITS]
+Text: im actually feeling pretty pissed off that im always there for people when they need it and ive had to end up going at a lot of this totally alone and vulnerable
+Prompt: Express anger but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: im actually feeling pretty pissed off that im always there for people when they need it and ive had to end up going at a lot of this totally alone and vulnerable
+Prompt: Express anger but let it be tinged with another emotion like longing.
+
+

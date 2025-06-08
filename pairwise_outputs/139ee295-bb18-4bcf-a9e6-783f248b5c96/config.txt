@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel hes so much more superior than i was
+Prompt: Let joy guide your speech.
+
+[VoiceLDM]
+Text: i feel hes so much more superior than i was
+Prompt: Let joy guide your speech.
+
+

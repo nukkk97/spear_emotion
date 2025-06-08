@@ -1,0 +1,9 @@
+[VITS]
+Text: i tend to be forgetful and only remember it like a few weeks later it makes me feel so petty having bothered to remember such a thing for so long
+Prompt: Express anger in a conversational and authentic way.
+
+[GPT-4o-mini]
+Text: i tend to be forgetful and only remember it like a few weeks later it makes me feel so petty having bothered to remember such a thing for so long
+Prompt: Express anger in a conversational and authentic way.
+
+

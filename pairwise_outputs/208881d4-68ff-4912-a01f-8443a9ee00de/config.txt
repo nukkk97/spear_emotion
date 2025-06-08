@@ -1,0 +1,9 @@
+[VITS]
+Text: i didnt know what was making me feel so lousy and then a particular incident happened that sent me in a downward spiral
+Prompt: A mixed emotion: neutral blended with nostalgia.
+
+[GPT-4o-mini]
+Text: i didnt know what was making me feel so lousy and then a particular incident happened that sent me in a downward spiral
+Prompt: A mixed emotion: sadness blended with nostalgia.
+
+

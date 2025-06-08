@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel bouncy current song sundown gordon lightfoot
+Prompt: Let your words carry joy.
+
+[GPT-4o-mini]
+Text: i feel bouncy current song sundown gordon lightfoot
+Prompt: Let your words carry joy.
+
+

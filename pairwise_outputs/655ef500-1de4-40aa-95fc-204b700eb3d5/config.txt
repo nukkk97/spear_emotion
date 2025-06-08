@@ -1,0 +1,9 @@
+[VITS]
+Text: i only share my them here presently in hopes that perhaps they will resonate with another human reading this who feels lonely or like theyre receiving a spiritual silent treatment of sorts
+Prompt: Ensure anger is present in every word.
+
+[GPT-4o-mini]
+Text: i only share my them here presently in hopes that perhaps they will resonate with another human reading this who feels lonely or like theyre receiving a spiritual silent treatment of sorts
+Prompt: Ensure sadness is present in every word.
+
+

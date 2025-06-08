@@ -1,0 +1,9 @@
+[VITS]
+Text: i am a teacher in arts and crafts boys from years for them it is obligatory and they dislike it they tease me when one of them cut up some material i flared up
+Prompt: Let anger be evident but not overwhelming.
+
+[VoiceLDM]
+Text: i am a teacher in arts and crafts boys from years for them it is obligatory and they dislike it they tease me when one of them cut up some material i flared up
+Prompt: Let anger be evident but not overwhelming.
+
+

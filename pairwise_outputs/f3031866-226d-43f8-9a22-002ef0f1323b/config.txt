@@ -1,0 +1,9 @@
+[VITS]
+Text: i watch grown ups fighting like cats and dogs i feel amused and in more personal environments shake my head and cluck my tongue in disapproval and launch into mommy like speeches on proper etiqutte
+Prompt: Express joy without exaggeration.
+
+[PromptTTS]
+Text: i watch grown ups fighting like cats and dogs i feel amused and in more personal environments shake my head and cluck my tongue in disapproval and launch into mommy like speeches on proper etiqutte
+Prompt: Express surprise without exaggeration.
+
+

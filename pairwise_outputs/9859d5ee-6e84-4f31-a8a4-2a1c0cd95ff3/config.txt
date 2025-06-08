@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: ive missed you clear non smoggy blue skies and fresh mountain air non sickly looking non artificial feeling flora delicious non drugged tap water dry crisp winds agonizing heat pollen and allergies galore
+Prompt: Ensure joy is present in every word.
+
+[GPT-4o-mini]
+Text: ive missed you clear non smoggy blue skies and fresh mountain air non sickly looking non artificial feeling flora delicious non drugged tap water dry crisp winds agonizing heat pollen and allergies galore
+Prompt: Ensure joy is present in every word.
+
+

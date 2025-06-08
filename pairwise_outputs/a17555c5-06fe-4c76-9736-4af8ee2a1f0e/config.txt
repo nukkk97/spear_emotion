@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling broke and craving vegetables
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[VoiceLDM]
+Text: im feeling broke and craving vegetables
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+

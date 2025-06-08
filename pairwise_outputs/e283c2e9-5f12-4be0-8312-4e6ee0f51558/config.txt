@@ -1,0 +1,9 @@
+[VITS]
+Text: im starting to feel like im just a very ungrateful and unhappy person
+Prompt: sadness.
+
+[GPT-4o-mini]
+Text: im starting to feel like im just a very ungrateful and unhappy person
+Prompt: sadness.
+
+

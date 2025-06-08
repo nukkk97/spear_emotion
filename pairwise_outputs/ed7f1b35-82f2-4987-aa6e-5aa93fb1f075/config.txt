@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i sometimes feel envious of how she can do it when i cant
+Prompt: Channel anger in your voice.
+
+[GPT-4o-mini]
+Text: i sometimes feel envious of how she can do it when i cant
+Prompt: Channel anger in your voice.
+
+

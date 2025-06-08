@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel out of place in this room but not unwelcome
+Prompt: Your tone should be filled with sadness.
+
+[VoiceLDM]
+Text: i feel out of place in this room but not unwelcome
+Prompt: Your tone should be filled with joy.
+
+

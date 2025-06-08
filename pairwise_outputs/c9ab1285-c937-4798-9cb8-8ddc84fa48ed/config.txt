@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i wasnt feeling it and i definitely wasnt convinced with it
+Prompt: Express joy clearly.
+
+[GPT-4o-mini]
+Text: i wasnt feeling it and i definitely wasnt convinced with it
+Prompt: Express joy clearly.
+
+

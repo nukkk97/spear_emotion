@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i dashed trample accelerator and feel like a pair of special stimulation
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i dashed trample accelerator and feel like a pair of special stimulation
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+

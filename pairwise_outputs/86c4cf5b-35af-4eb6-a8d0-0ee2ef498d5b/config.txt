@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel truly sorry for
+Prompt: Let your words carry sadness.
+
+[VoiceLDM]
+Text: i feel truly sorry for
+Prompt: Let your words carry sadness.
+
+

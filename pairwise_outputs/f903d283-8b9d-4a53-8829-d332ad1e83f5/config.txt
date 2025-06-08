@@ -1,0 +1,9 @@
+[VITS]
+Text: i think everybody has had that feeling of wishing they could return to that innocent time when they were a kid and had no worries
+Prompt: Express surprise without exaggeration.
+
+[GPT-4o-mini]
+Text: i think everybody has had that feeling of wishing they could return to that innocent time when they were a kid and had no worries
+Prompt: Express joy without exaggeration.
+
+

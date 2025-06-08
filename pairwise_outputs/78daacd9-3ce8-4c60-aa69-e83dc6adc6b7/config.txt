@@ -1,0 +1,9 @@
+[VITS]
+Text: i suppose thats enough for today my fingertips are actually feeling numb from typing and i need to go grab my dinner i wasnt hungry yet when marty amp nick ate
+Prompt: Let sadness shine through your voice.
+
+[VoiceLDM]
+Text: i suppose thats enough for today my fingertips are actually feeling numb from typing and i need to go grab my dinner i wasnt hungry yet when marty amp nick ate
+Prompt: Let sadness shine through your voice.
+
+

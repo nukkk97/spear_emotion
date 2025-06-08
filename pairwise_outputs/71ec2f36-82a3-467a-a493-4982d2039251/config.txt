@@ -1,0 +1,9 @@
+[VITS]
+Text: i want this look to make her feel supremely gorgeous
+Prompt: Deliver your words with a sense of joy but keep it natural.
+
+[PromptTTS]
+Text: i want this look to make her feel supremely gorgeous
+Prompt: Deliver your words with a sense of sadness but keep it natural.
+
+

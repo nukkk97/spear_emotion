@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: ive wanted to be here since i was ten years old and i feel like i should still want it but there is an aching in me telling me that this isnt where i am supposed to be
+Prompt: Make sadness the focus of your speech.
+
+[GPT-4o-mini]
+Text: ive wanted to be here since i was ten years old and i feel like i should still want it but there is an aching in me telling me that this isnt where i am supposed to be
+Prompt: Make sadness the focus of your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: ive been feeling so irritable bitchy
+Prompt: Let surprise guide your speech.
+
+[GPT-4o-mini]
+Text: ive been feeling so irritable bitchy
+Prompt: Let anger guide your speech.
+
+

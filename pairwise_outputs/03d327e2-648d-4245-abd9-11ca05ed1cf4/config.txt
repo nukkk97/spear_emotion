@@ -1,0 +1,9 @@
+[VITS]
+Text: i think i have to confess i am feeling very dissatisfied with my wardrobe at the moment so yet again i am saying to you i dont have a favourite pair of sunglasses
+Prompt: Your tone should be filled with anger.
+
+[PromptTTS]
+Text: i think i have to confess i am feeling very dissatisfied with my wardrobe at the moment so yet again i am saying to you i dont have a favourite pair of sunglasses
+Prompt: Your tone should be filled with anger.
+
+

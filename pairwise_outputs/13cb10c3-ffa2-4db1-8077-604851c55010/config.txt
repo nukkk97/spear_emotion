@@ -1,0 +1,9 @@
+[VITS]
+Text: i kept coming back to was good feeling by the violent femmes
+Prompt: Speak with a anger tone.
+
+[GPT-4o-mini]
+Text: i kept coming back to was good feeling by the violent femmes
+Prompt: Speak with a anger tone.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel terrible that it happened
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+[VoiceLDM]
+Text: i feel terrible that it happened
+Prompt: A voice that is sadness but with a hint of hesitation.
+
+

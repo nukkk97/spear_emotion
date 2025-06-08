@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel like youre being stubborn
+Prompt: Keep your tone fully anger.
+
+[GPT-4o-mini]
+Text: i feel like youre being stubborn
+Prompt: Keep your tone fully anger.
+
+

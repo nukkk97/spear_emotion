@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i always feel so honored to witness the creation of these mandalas
+Prompt: Speak with pure joy.
+
+[GPT-4o-mini]
+Text: i always feel so honored to witness the creation of these mandalas
+Prompt: Speak with pure joy.
+
+

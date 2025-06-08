@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel slightly awkward as i approach this paper predominantly because i am forced to express outright without much room for explanation or context my thoughts and views regarding ministry
+Prompt: Speak in a way that embodies sadness.
+
+[VoiceLDM]
+Text: i feel slightly awkward as i approach this paper predominantly because i am forced to express outright without much room for explanation or context my thoughts and views regarding ministry
+Prompt: Speak in a way that embodies sadness.
+
+

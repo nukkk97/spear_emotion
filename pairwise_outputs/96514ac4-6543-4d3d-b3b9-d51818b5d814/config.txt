@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i cant sit here without feeling vile and disgusting
+Prompt: Express anger in a conversational and authentic way.
+
+[VoiceLDM]
+Text: i cant sit here without feeling vile and disgusting
+Prompt: Express anger in a conversational and authentic way.
+
+

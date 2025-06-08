@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i may break down and call barb but i am ashamed at what she thinks about me and feel like she will be so annoyed
+Prompt: A touch of anger like a hidden layer in your voice.
+
+[VoiceLDM]
+Text: i may break down and call barb but i am ashamed at what she thinks about me and feel like she will be so annoyed
+Prompt: A touch of anger like a hidden layer in your voice.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like a failure when my house is messy and i have to ask my family to help me out
+Prompt: Let your words carry sadness.
+
+[PromptTTS]
+Text: i feel like a failure when my house is messy and i have to ask my family to help me out
+Prompt: Let your words carry surprise.
+
+

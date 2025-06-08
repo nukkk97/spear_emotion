@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i let myself enjoy myself or really have fun on my days off i might get used to that feeling and that would be dangerous
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i let myself enjoy myself or really have fun on my days off i might get used to that feeling and that would be dangerous
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+

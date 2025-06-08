@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel passionate about genocide capital punishment crime and rehabilitation the importance of understanding between people who are different culture language ethnicity etc
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+[GPT-4o-mini]
+Text: i feel passionate about genocide capital punishment crime and rehabilitation the importance of understanding between people who are different culture language ethnicity etc
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i hold it for a full day my arm will likely cramp up and feel numb and paralyzed forcing me to drop the glass to the floor
+Prompt: Speak with sadness as if you are reminiscing about something meaningful.
+
+[PromptTTS]
+Text: i hold it for a full day my arm will likely cramp up and feel numb and paralyzed forcing me to drop the glass to the floor
+Prompt: Speak with sadness as if you are reminiscing about something meaningful.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i also don t have luck with sex and relationships and feel depress now because my ex girlfriend broke up with me
+Prompt: Speak with a sadness tone.
+
+[GPT-4o-mini]
+Text: i also don t have luck with sex and relationships and feel depress now because my ex girlfriend broke up with me
+Prompt: Speak with a sadness tone.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: id feel crappy swear i was done then do it all over again
+Prompt: Show sadness in your voice.
+
+[GPT-4o-mini]
+Text: id feel crappy swear i was done then do it all over again
+Prompt: Show sadness in your voice.
+
+

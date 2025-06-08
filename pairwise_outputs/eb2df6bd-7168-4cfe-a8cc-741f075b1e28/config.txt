@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel extremely lucky to be on the verge of a new project that carries with it support from university of michigan press and hastac as well as the enthusiasm of my colleagues at rrchnm the gmu history and art history department
+Prompt: Keep your tone fully anger.
+
+[GPT-4o-mini]
+Text: i feel extremely lucky to be on the verge of a new project that carries with it support from university of michigan press and hastac as well as the enthusiasm of my colleagues at rrchnm the gmu history and art history department
+Prompt: Keep your tone fully joy.
+
+

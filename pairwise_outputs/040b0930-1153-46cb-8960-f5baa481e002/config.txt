@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel useless and frustrated
+Prompt: Speak in a way that embodies sadness.
+
+[GPT-4o-mini]
+Text: i feel useless and frustrated
+Prompt: Speak in a way that embodies sadness.
+
+

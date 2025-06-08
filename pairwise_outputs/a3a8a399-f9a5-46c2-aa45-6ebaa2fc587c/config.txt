@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am when a much older kid is mean to my loving little manny im feeling an unwelcome urge to smack em one
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i am when a much older kid is mean to my loving little manny im feeling an unwelcome urge to smack em one
+Prompt: Let sadness be present but make it seem as if you’re struggling to express it.
+
+

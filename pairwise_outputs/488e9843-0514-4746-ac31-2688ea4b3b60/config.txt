@@ -1,0 +1,9 @@
+[VITS]
+Text: i feeling so unhappy when i know that youve fallen in love with another girl
+Prompt: sadness.
+
+[GPT-4o-mini]
+Text: i feeling so unhappy when i know that youve fallen in love with another girl
+Prompt: sadness.
+
+

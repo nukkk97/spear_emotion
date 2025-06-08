@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel the vile rising in my throat flipping up the lid on the toilet to let it out
+Prompt: Let your voice be filled with anger but keep it controlled.
+
+[PromptTTS]
+Text: i feel the vile rising in my throat flipping up the lid on the toilet to let it out
+Prompt: Let your voice be filled with anger but keep it controlled.
+
+

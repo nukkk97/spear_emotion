@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel easily satisfied d i hope no one steals my bennjerry at home o
+Prompt: Keep your tone fully surprise.
+
+[GPT-4o-mini]
+Text: i feel easily satisfied d i hope no one steals my bennjerry at home o
+Prompt: Keep your tone fully joy.
+
+

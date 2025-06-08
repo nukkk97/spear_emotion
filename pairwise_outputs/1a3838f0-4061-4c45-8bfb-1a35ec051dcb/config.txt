@@ -1,0 +1,9 @@
+[VITS]
+Text: i was ahead of my target earnings for the month and was feeling very positive about the whole thing seeing my new life unfolding before me
+Prompt: Express joy as if you are on the verge of revealing a secret.
+
+[VoiceLDM]
+Text: i was ahead of my target earnings for the month and was feeling very positive about the whole thing seeing my new life unfolding before me
+Prompt: Express neutral as if you are on the verge of revealing a secret.
+
+

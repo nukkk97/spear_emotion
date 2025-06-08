@@ -1,0 +1,9 @@
+[VITS]
+Text: i put my feels out there theyre truthful
+Prompt: Speak with pure sadness.
+
+[GPT-4o-mini]
+Text: i put my feels out there theyre truthful
+Prompt: Speak with pure joy.
+
+

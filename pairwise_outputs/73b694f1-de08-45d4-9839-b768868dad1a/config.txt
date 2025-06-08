@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel honored to be part of a church that does such a great job of taking care of its own and others in the community all because of the generous donations of members
+Prompt: Your tone should be filled with joy.
+
+[GPT-4o-mini]
+Text: i feel honored to be part of a church that does such a great job of taking care of its own and others in the community all because of the generous donations of members
+Prompt: Your tone should be filled with joy.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling low yesterday and nothing was really interesting i got this urge to watch porn
+Prompt: Keep your tone fully sadness.
+
+[GPT-4o-mini]
+Text: i was feeling low yesterday and nothing was really interesting i got this urge to watch porn
+Prompt: Keep your tone fully sadness.
+
+

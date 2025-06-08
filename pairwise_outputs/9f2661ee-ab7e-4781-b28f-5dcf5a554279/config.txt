@@ -1,0 +1,9 @@
+[VITS]
+Text: im feeling quite jubilant things are good
+Prompt: Let joy be present but keep it nuanced.
+
+[PromptTTS]
+Text: im feeling quite jubilant things are good
+Prompt: Let joy be present but keep it nuanced.
+
+

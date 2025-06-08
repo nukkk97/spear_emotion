@@ -1,0 +1,9 @@
+[VITS]
+Text: i am already feeling virtuous about going to the class so shopping for healthy foods is easier
+Prompt: Channel sadness in your voice.
+
+[GPT-4o-mini]
+Text: i am already feeling virtuous about going to the class so shopping for healthy foods is easier
+Prompt: Channel joy in your voice.
+
+

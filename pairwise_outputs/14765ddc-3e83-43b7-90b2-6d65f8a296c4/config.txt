@@ -1,0 +1,9 @@
+[VITS]
+Text: i never feel inadequate
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+[VoiceLDM]
+Text: i never feel inadequate
+Prompt: Maintain composure but allow sadness to be subtly felt.
+
+

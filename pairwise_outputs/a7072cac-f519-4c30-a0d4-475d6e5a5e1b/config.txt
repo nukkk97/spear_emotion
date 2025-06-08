@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel comfortable that i am not far above a and would like some more
+Prompt: Let surprise flow naturally through your tone.
+
+[GPT-4o-mini]
+Text: i feel comfortable that i am not far above a and would like some more
+Prompt: Let joy flow naturally through your tone.
+
+

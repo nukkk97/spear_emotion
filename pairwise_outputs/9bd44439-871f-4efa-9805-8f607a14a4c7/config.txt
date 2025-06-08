@@ -1,0 +1,9 @@
+[VITS]
+Text: i see a company like monsanto launch an initiative like this i feel more hopeful than ever before said the first lady
+Prompt: Let joy be present but make it seem as if you’re struggling to express it.
+
+[VoiceLDM]
+Text: i see a company like monsanto launch an initiative like this i feel more hopeful than ever before said the first lady
+Prompt: Let neutral be present but make it seem as if you’re struggling to express it.
+
+

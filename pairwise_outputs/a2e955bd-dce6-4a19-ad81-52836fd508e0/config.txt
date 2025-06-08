@@ -1,0 +1,9 @@
+[VITS]
+Text: i sit down to write three pages i feel rebellious and get even more stuck
+Prompt: Let anger shine through your voice.
+
+[GPT-4o-mini]
+Text: i sit down to write three pages i feel rebellious and get even more stuck
+Prompt: Let anger shine through your voice.
+
+

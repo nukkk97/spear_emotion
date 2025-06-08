@@ -1,0 +1,9 @@
+[VITS]
+Text: i cant allow myself to fret about feeling crappy
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[PromptTTS]
+Text: i cant allow myself to fret about feeling crappy
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

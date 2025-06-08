@@ -1,0 +1,9 @@
+[VITS]
+Text: i never feel so hopeless and useless as this in my entire life
+Prompt: Let sadness guide your speech.
+
+[GPT-4o-mini]
+Text: i never feel so hopeless and useless as this in my entire life
+Prompt: Let sadness guide your speech.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like a submissive inside
+Prompt: A balance of anger and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i feel like a submissive inside
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

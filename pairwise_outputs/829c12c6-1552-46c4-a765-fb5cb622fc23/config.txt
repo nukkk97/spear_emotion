@@ -1,0 +1,9 @@
+[VITS]
+Text: i am feeling very festive this evening
+Prompt: joy.
+
+[PromptTTS]
+Text: i am feeling very festive this evening
+Prompt: joy.
+
+

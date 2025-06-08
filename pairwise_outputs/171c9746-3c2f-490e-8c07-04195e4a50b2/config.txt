@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel when i look at you is the thought that you may not have always been so jaded
+Prompt: Deliver your words with sadness.
+
+[VoiceLDM]
+Text: i feel when i look at you is the thought that you may not have always been so jaded
+Prompt: Deliver your words with sadness.
+
+

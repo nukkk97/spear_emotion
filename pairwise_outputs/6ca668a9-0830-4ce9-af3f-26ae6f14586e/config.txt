@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel fabulous in this dress
+Prompt: Keep your tone fully joy.
+
+[GPT-4o-mini]
+Text: i feel fabulous in this dress
+Prompt: Keep your tone fully joy.
+
+

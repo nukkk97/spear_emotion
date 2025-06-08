@@ -1,0 +1,9 @@
+[VITS]
+Text: i just feel like because im damaged goods that no one will ever want me again
+Prompt: Make sadness the focus of your speech.
+
+[PromptTTS]
+Text: i just feel like because im damaged goods that no one will ever want me again
+Prompt: Make anger the focus of your speech.
+
+

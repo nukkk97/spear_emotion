@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i think i have been feeling really keen to get back into the kitchen lately so well see what happens
+Prompt: joy.
+
+[GPT-4o-mini]
+Text: i think i have been feeling really keen to get back into the kitchen lately so well see what happens
+Prompt: joy.
+
+

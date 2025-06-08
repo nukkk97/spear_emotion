@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel really comfortable where i am right now
+Prompt: Speak in a way that embodies joy.
+
+[VoiceLDM]
+Text: i feel really comfortable where i am right now
+Prompt: Speak in a way that embodies joy.
+
+

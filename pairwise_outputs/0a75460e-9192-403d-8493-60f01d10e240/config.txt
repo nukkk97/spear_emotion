@@ -1,0 +1,9 @@
+[VITS]
+Text: i still feel it aching in my heart and stomach but what was strong and glimmering is now dull and aching of cancer
+Prompt: Express sadness as if you are trying to hold back tears.
+
+[VoiceLDM]
+Text: i still feel it aching in my heart and stomach but what was strong and glimmering is now dull and aching of cancer
+Prompt: Express joy as if you are trying to hold back tears.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i love her and if that ends up being a curse or a blessing i have no idea but one thing i am certain of is my intensity of my feelings for her and only time will tell if my life will be determined by something wonderful or something terrible
+Prompt: Deliver your words as if joy is weighing on you but you’re trying to hide it.
+
+[VoiceLDM]
+Text: i love her and if that ends up being a curse or a blessing i have no idea but one thing i am certain of is my intensity of my feelings for her and only time will tell if my life will be determined by something wonderful or something terrible
+Prompt: Deliver your words as if neutral is weighing on you but you’re trying to hide it.
+
+

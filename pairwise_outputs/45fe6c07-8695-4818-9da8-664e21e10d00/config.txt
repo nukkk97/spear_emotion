@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i cant help but feel disappointment for her id have hated for my first time to be like that
+Prompt: Your tone should be filled with anger.
+
+[GPT-4o-mini]
+Text: i cant help but feel disappointment for her id have hated for my first time to be like that
+Prompt: Your tone should be filled with anger.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like this blog is just becoming a response blog to everything they post and i wonder if i should change the name of the blog to some clever pun like incompitat or inhabijustshutthefuckupalready
+Prompt: Express joy as if you are trying to hold back tears.
+
+[VoiceLDM]
+Text: i feel like this blog is just becoming a response blog to everything they post and i wonder if i should change the name of the blog to some clever pun like incompitat or inhabijustshutthefuckupalready
+Prompt: Express joy as if you are trying to hold back tears.
+
+

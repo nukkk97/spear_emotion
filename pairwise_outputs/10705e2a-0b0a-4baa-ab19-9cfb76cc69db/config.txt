@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel angsty pissed sad disappointed lost happy
+Prompt: A voice that is anger but with a hint of hesitation.
+
+[PromptTTS]
+Text: i feel angsty pissed sad disappointed lost happy
+Prompt: A voice that is anger but with a hint of hesitation.
+
+

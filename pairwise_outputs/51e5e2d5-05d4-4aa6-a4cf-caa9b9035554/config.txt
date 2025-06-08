@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so devastated and so bad even though hes telling its okay he was getting new rims anyways
+Prompt: Let sadness shine through your voice.
+
+[VoiceLDM]
+Text: i feel so devastated and so bad even though hes telling its okay he was getting new rims anyways
+Prompt: Let neutral shine through your voice.
+
+

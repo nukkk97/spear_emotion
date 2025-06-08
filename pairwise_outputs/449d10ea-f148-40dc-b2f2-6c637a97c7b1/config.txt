@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel obama is simply because hillary is so hated by so many
+Prompt: Let anger be present but make it seem as if you’re struggling to express it.
+
+[PromptTTS]
+Text: i feel obama is simply because hillary is so hated by so many
+Prompt: Let anger be present but make it seem as if you’re struggling to express it.
+
+

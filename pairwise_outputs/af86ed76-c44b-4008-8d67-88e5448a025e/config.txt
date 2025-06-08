@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so pathetic and so stupid
+Prompt: Your voice should carry sadness with a sense of warmth.
+
+[VoiceLDM]
+Text: i feel so pathetic and so stupid
+Prompt: Your voice should carry surprise with a sense of warmth.
+
+

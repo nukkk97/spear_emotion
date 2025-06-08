@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i always feel s worthless and shitty
+Prompt: Ensure sadness is present in every word.
+
+[VoiceLDM]
+Text: i always feel s worthless and shitty
+Prompt: Ensure sadness is present in every word.
+
+

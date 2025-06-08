@@ -1,0 +1,9 @@
+[VITS]
+Text: i mean i feel like a dirty old man sitting there scratching my belly all day
+Prompt: Express neutral but let it be tinged with another emotion like longing.
+
+[GPT-4o-mini]
+Text: i mean i feel like a dirty old man sitting there scratching my belly all day
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i lack the ability to feel empathy for people who i feel are rather petty
+Prompt: Express anger but subtly like someone hiding their feelings.
+
+[VoiceLDM]
+Text: i lack the ability to feel empathy for people who i feel are rather petty
+Prompt: Express anger but subtly like someone hiding their feelings.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel surprised and unexpected
+Prompt: Let joy shine through your voice.
+
+[GPT-4o-mini]
+Text: i feel surprised and unexpected
+Prompt: Let surprise shine through your voice.
+
+

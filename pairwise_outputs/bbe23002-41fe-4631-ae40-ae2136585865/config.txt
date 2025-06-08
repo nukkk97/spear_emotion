@@ -1,0 +1,9 @@
+[VITS]
+Text: i was beginning to feel cold so decided to head directly for sodus
+Prompt: Keep your tone fully anger.
+
+[VoiceLDM]
+Text: i was beginning to feel cold so decided to head directly for sodus
+Prompt: Keep your tone fully anger.
+
+

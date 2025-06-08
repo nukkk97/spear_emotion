@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel oh god please forgive me if only i being rude
+Prompt: Deliver your words with anger.
+
+[VoiceLDM]
+Text: i feel oh god please forgive me if only i being rude
+Prompt: Deliver your words with anger.
+
+

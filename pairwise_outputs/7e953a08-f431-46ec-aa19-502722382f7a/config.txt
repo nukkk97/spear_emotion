@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel that he rather overstates the case for there being a popular proto orthodoxy to which the emperor theodosius was responding by enforcing the nicene alternative
+Prompt: Express joy but let it be tinged with another emotion like longing.
+
+[PromptTTS]
+Text: i feel that he rather overstates the case for there being a popular proto orthodoxy to which the emperor theodosius was responding by enforcing the nicene alternative
+Prompt: Express neutral but let it be tinged with another emotion like longing.
+
+

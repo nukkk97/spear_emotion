@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like im an awful mum for this like i m going to be judged and someone is going to think i m a bad mum and oscar is badly bought up
+Prompt: Speak with sadness as if sharing a personal story.
+
+[VoiceLDM]
+Text: i feel like im an awful mum for this like i m going to be judged and someone is going to think i m a bad mum and oscar is badly bought up
+Prompt: Speak with neutral as if sharing a personal story.
+
+

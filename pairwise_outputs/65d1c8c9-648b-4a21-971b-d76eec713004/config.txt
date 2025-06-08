@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel i dont have anything intelligent to say so i just keep my mouth shut or my fingers still
+Prompt: Express joy clearly.
+
+[GPT-4o-mini]
+Text: i feel i dont have anything intelligent to say so i just keep my mouth shut or my fingers still
+Prompt: Express joy clearly.
+
+

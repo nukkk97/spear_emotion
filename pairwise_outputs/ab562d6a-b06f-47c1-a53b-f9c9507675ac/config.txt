@@ -1,0 +1,9 @@
+[VITS]
+Text: i arlovski on ufc win i feel really horrible andrei arlovski on ufc win i feel really horrible a href http www
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+[VoiceLDM]
+Text: i arlovski on ufc win i feel really horrible andrei arlovski on ufc win i feel really horrible a href http www
+Prompt: Express sadness but let it be tinged with another emotion like longing.
+
+

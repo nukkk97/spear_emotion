@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i was feeling awful on sunday
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+[GPT-4o-mini]
+Text: i was feeling awful on sunday
+Prompt: A balance of sadness and quiet reflection as if you’re lost in thought.
+
+

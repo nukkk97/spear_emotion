@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i almost feel like something bad might happen if i dont
+Prompt: Channel sadness in your voice.
+
+[GPT-4o-mini]
+Text: i almost feel like something bad might happen if i dont
+Prompt: Channel sadness in your voice.
+
+

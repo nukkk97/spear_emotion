@@ -1,0 +1,9 @@
+[VITS]
+Text: i love to swim it keeps me cool supports my bump which feels amazing
+Prompt: Let your words carry surprise.
+
+[GPT-4o-mini]
+Text: i love to swim it keeps me cool supports my bump which feels amazing
+Prompt: Let your words carry surprise.
+
+

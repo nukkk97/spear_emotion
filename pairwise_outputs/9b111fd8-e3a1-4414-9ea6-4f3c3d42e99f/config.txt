@@ -1,0 +1,9 @@
+[VITS]
+Text: i just feel gorgeous
+Prompt: Let your words carry anger.
+
+[GPT-4o-mini]
+Text: i just feel gorgeous
+Prompt: Let your words carry joy.
+
+

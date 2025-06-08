@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i want it to have a weighty feel so im not bothered by it at all
+Prompt: Speak as if anger is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i want it to have a weighty feel so im not bothered by it at all
+Prompt: Speak as if anger is layered with uncertainty.
+
+

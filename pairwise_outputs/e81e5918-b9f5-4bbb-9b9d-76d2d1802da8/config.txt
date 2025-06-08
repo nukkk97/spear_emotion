@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel irritated with the spray via myspace img src http askdoctor
+Prompt: Your tone should be filled with anger.
+
+[GPT-4o-mini]
+Text: i feel irritated with the spray via myspace img src http askdoctor
+Prompt: Your tone should be filled with anger.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i beat myself up for feeling hopeful because i was afraid of being disappointed or devastated again
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[VoiceLDM]
+Text: i beat myself up for feeling hopeful because i was afraid of being disappointed or devastated again
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+

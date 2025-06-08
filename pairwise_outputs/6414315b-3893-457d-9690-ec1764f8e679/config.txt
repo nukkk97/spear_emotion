@@ -1,0 +1,9 @@
+[VITS]
+Text: i will argue that not enough time has passed for me to feel comfortable sharing that writing in any forum
+Prompt: Let surprise be present but make it seem as if you’re struggling to express it.
+
+[GPT-4o-mini]
+Text: i will argue that not enough time has passed for me to feel comfortable sharing that writing in any forum
+Prompt: Let joy be present but make it seem as if you’re struggling to express it.
+
+

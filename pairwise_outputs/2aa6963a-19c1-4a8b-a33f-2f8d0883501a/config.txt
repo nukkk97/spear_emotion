@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel the smart decision is to go with the a title hal higdons novice href http www
+Prompt: Deliver your words with joy.
+
+[GPT-4o-mini]
+Text: i feel the smart decision is to go with the a title hal higdons novice href http www
+Prompt: Deliver your words with joy.
+
+

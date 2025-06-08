@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: im like buuuuuut i feel sooooo rude not responding
+Prompt: Speak with a anger tone.
+
+[GPT-4o-mini]
+Text: im like buuuuuut i feel sooooo rude not responding
+Prompt: Speak with a anger tone.
+
+

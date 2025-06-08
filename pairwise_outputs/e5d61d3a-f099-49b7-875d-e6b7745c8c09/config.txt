@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel like the ending could have been very rushed and a lot of those details glossed over to get to the hea and i was so glad it wasn t like that
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i feel like the ending could have been very rushed and a lot of those details glossed over to get to the hea and i was so glad it wasn t like that
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+

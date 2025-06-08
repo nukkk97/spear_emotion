@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: ive realized is not the villain and to feel victimized by it would be to wholly miss the point
+Prompt: Show sadness but stay controlled.
+
+[GPT-4o-mini]
+Text: ive realized is not the villain and to feel victimized by it would be to wholly miss the point
+Prompt: Show sadness but stay controlled.
+
+

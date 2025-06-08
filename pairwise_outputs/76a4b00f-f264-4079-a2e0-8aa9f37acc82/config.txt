@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel i can be too needy at times needy and emotional needy and irrational needy and that nothing is really enough for me
+Prompt: Make sadness the focus of your speech.
+
+[VoiceLDM]
+Text: i feel i can be too needy at times needy and emotional needy and irrational needy and that nothing is really enough for me
+Prompt: Make sadness the focus of your speech.
+
+

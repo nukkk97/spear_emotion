@@ -1,0 +1,9 @@
+[VITS]
+Text: i was feeling grumpy and my motivation for coming up with some sort of creative costume was long gone
+Prompt: Speak with pure anger.
+
+[GPT-4o-mini]
+Text: i was feeling grumpy and my motivation for coming up with some sort of creative costume was long gone
+Prompt: Speak with pure anger.
+
+

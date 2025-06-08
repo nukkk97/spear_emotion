@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i know he knows how it feels to be alone
+Prompt: Your tone should be filled with sadness.
+
+[GPT-4o-mini]
+Text: i know he knows how it feels to be alone
+Prompt: Your tone should be filled with sadness.
+
+

@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i feel tortured a href http wolfen
+Prompt: Speak with anger as if you are reminiscing about something meaningful.
+
+[GPT-4o-mini]
+Text: i feel tortured a href http wolfen
+Prompt: Speak with anger as if you are reminiscing about something meaningful.
+
+

@@ -1,0 +1,9 @@
+[VITS]
+Text: i still feel very burdened by some issues
+Prompt: Let sadness unfold gradually in your voice.
+
+[VoiceLDM]
+Text: i still feel very burdened by some issues
+Prompt: Let surprise unfold gradually in your voice.
+
+

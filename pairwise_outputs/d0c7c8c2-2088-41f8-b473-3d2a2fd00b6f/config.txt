@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i tried a detox ginger kale juice drink that made my head feel funny as soon as i drank it
+Prompt: Express surprise clearly.
+
+[GPT-4o-mini]
+Text: i tried a detox ginger kale juice drink that made my head feel funny as soon as i drank it
+Prompt: Express surprise clearly.
+
+

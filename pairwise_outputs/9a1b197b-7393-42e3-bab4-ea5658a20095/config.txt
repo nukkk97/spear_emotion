@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel his benign touch all over my body and see him every time i look into the mirror
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+[PromptTTS]
+Text: i feel his benign touch all over my body and see him every time i look into the mirror
+Prompt: A balance of joy and quiet reflection as if you’re lost in thought.
+
+

@@ -1,0 +1,9 @@
+[PromptTTS]
+Text: i feel like im now being punished when i did nothing wrong
+Prompt: Speak as if sadness is layered with uncertainty.
+
+[GPT-4o-mini]
+Text: i feel like im now being punished when i did nothing wrong
+Prompt: Speak as if sadness is layered with uncertainty.
+
+

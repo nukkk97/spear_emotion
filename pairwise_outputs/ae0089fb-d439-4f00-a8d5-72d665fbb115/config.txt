@@ -1,0 +1,9 @@
+[VoiceLDM]
+Text: i am feeling adventurous and ready to learn new crafts such as felting
+Prompt: Show joy but stay controlled.
+
+[GPT-4o-mini]
+Text: i am feeling adventurous and ready to learn new crafts such as felting
+Prompt: Show joy but stay controlled.
+
+

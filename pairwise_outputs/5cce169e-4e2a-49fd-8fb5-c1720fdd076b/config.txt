@@ -1,0 +1,9 @@
+[VITS]
+Text: i got hot chocolate because i was feeling cold
+Prompt: Deliver your words as if sadness is weighing on you but you’re trying to hide it.
+
+[GPT-4o-mini]
+Text: i got hot chocolate because i was feeling cold
+Prompt: Deliver your words as if anger is weighing on you but you’re trying to hide it.
+
+

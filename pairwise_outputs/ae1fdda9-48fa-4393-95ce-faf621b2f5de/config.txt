@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel tooth crown left in the mouth save on delicious a href http reddit
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[PromptTTS]
+Text: i feel tooth crown left in the mouth save on delicious a href http reddit
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

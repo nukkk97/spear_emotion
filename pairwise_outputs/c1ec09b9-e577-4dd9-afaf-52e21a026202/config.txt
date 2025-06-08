@@ -1,0 +1,9 @@
+[VITS]
+Text: when i entered at the university
+Prompt: A voice that is joy but with a hint of hesitation.
+
+[PromptTTS]
+Text: when i entered at the university
+Prompt: A voice that is joy but with a hint of hesitation.
+
+

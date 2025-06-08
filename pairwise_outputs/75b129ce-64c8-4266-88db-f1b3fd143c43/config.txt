@@ -1,0 +1,9 @@
+[VITS]
+Text: i feel so prejudiced saying that but i swear i m not it s just that there s a difference between open minded acceptance and actually witnessing such relationships just as i can accept that my parents are in love without picturing them in bed
+Prompt: Keep your tone fully sadness.
+
+[VoiceLDM]
+Text: i feel so prejudiced saying that but i swear i m not it s just that there s a difference between open minded acceptance and actually witnessing such relationships just as i can accept that my parents are in love without picturing them in bed
+Prompt: Keep your tone fully sadness.
+
+
